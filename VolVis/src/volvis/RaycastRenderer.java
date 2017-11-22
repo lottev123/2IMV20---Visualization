@@ -94,12 +94,14 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         return volume.getVoxel(x, y, z);
     }
     
-    short getVoxel(double[] coord) {
+    short getVoxel(double[] coord) {    // using Trilinear interpolation
     
         if (coord[0] < 0 || coord[0] > volume.getDimX() || coord[1] < 0 || coord[1] > volume.getDimY()
                 || coord[2] < 0 || coord[2] > volume.getDimZ()) {
             return 0;
         }
+        
+        // derived from https://en.wikipedia.org/wiki/Trilinear_interpolation
         
         int x_0 = (int) Math.floor(coord[0]);
         int x_1 = (int) Math.ceil(coord[0]);
@@ -107,7 +109,12 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         int y_1 = (int) Math.ceil(coord[1]);
         int z_0 = (int) Math.floor(coord[2]);
         int z_1 = (int) Math.ceil(coord[2]);
-
+        
+        // check if x_1, y_1 and z_1 are not outside the box
+        if (x_1 >= volume.getDimX() || y_1 >= volume.getDimY() || z_1 >= volume.getDimZ() ) {
+                return 0;
+        }
+          
         // voxels on intersects
         short c000 = volume.getVoxel(x_0, y_0, z_0);
         short c001 = volume.getVoxel(x_0, y_0, z_1);
@@ -138,7 +145,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     }
 
 
-    void slicer(double[] viewMatrix) {
+    void slicerOld(double[] viewMatrix) {
 
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
@@ -200,7 +207,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
     }
     
-    void mip(double[] viewMatrix) {
+    void slicer(double[] viewMatrix) { //using MIP
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
             for (int i = 0; i < image.getWidth(); i++) {
@@ -226,19 +233,33 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         // sample on a plane through the origin of the volume data
         double max = volume.getMaximum();
         TFColor voxelColor = new TFColor();
+        
+        int maximumDim = volume.getDimX();
+        if (volume.getDimY() > maximumDim) {
+            maximumDim = volume.getDimY();
+        }
+        if (volume.getDimZ() > maximumDim) {
+            maximumDim = volume.getDimZ();
+        }
 
         
         for (int j = 0; j < image.getHeight(); j++) {
             for (int i = 0; i < image.getWidth(); i++) {
-                pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
-                        + volumeCenter[0];
-                pixelCoord[1] = uVec[1] * (i - imageCenter) + vVec[1] * (j - imageCenter)
-                        + volumeCenter[1];
-                pixelCoord[2] = uVec[2] * (i - imageCenter) + vVec[2] * (j - imageCenter)
-                        + volumeCenter[2];
-
-                int val = getVoxel(pixelCoord);
+                int maxVoxel = 0;
+                for (int k = -maximumDim; k < maximumDim; k++) {
+                    pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
+                        + viewVec[0] * (k)+ volumeCenter[0];
+                    pixelCoord[1] = uVec[1] * (i - imageCenter) + vVec[1] * (j - imageCenter)
+                        + viewVec[1] * (k)+ volumeCenter[1];
+                    pixelCoord[2] = uVec[2] * (i - imageCenter) + vVec[2] * (j - imageCenter)
+                        + viewVec[2] * (k)+ volumeCenter[2];
+                    int v = getVoxel(pixelCoord);
+                    if (v > maxVoxel) {
+                        maxVoxel = v;
+                    }
+                }
                 
+                int val = maxVoxel;
                 // Map the intensity to a grey value by linear scaling
                 voxelColor.r = val/max;
                 voxelColor.g = voxelColor.r;
