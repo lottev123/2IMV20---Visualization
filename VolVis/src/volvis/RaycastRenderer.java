@@ -241,12 +241,18 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         if (volume.getDimZ() > maximumDim) {
             maximumDim = volume.getDimZ();
         }
-
         
-        for (int j = 0; j < image.getHeight(); j++) {
-            for (int i = 0; i < image.getWidth(); i++) {
+        int stepsize = 1;
+        if(this.interactiveMode){ // this means the user is spinning the object
+            stepsize = 2;
+        }
+        
+        int threshold = (int) (0.95 * max); //threshold for LMIP is 0.95 times the maximum intensity measured in the volume
+
+        for (int j = 0; j < image.getHeight(); j+=stepsize) {
+            for (int i = 0; i < image.getWidth(); i+=stepsize) {
                 int maxVoxel = 0;
-                for (int k = -maximumDim; k < maximumDim; k++) {
+                for (int k = -maximumDim; k < maximumDim; k+=stepsize) {
                     pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
                         + viewVec[0] * (k)+ volumeCenter[0];
                     pixelCoord[1] = uVec[1] * (i - imageCenter) + vVec[1] * (j - imageCenter)
@@ -256,6 +262,9 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                     int v = getVoxel(pixelCoord);
                     if (v > maxVoxel) {
                         maxVoxel = v;
+                    }
+                    if (maxVoxel > threshold) {
+                        break;
                     }
                 }
                 
@@ -276,6 +285,12 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                 int c_blue = voxelColor.b <= 1.0 ? (int) Math.floor(voxelColor.b * 255) : 255;
                 int pixelColor = (c_alpha << 24) | (c_red << 16) | (c_green << 8) | c_blue;
                 image.setRGB(i, j, pixelColor);
+                
+                if(stepsize==2) {
+                    image.setRGB(i+1, j, pixelColor);
+                    image.setRGB(i, j+1, pixelColor);
+                    image.setRGB(i+1, j+1, pixelColor);
+                }
             }
         }
 
