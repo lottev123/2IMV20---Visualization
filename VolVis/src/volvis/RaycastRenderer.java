@@ -553,7 +553,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                         opacity = a; // opacity is 1 * alpha_v
                     } else if(gradient.mag > 0 
                         && ((val - (radius * gradient.mag)) <= baseIntensity)
-                        && (baseIntensity <= (val + radius * gradient.mag)){
+                        && (baseIntensity <= (val + radius * gradient.mag))){
                         opacity = a*(1 - 1/radius*((baseIntensity - val)/gradient.mag));
                     } else {
                         opacity = 0;
