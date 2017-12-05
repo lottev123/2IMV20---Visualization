@@ -300,7 +300,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         
     }
     
-    void compositing(double[] viewMatrix) { //using Compositing back-to-front
+    void compositingOld(double[] viewMatrix) { //using Compositing back-to-front
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
             for (int i = 0; i < image.getWidth(); i++) {
@@ -380,7 +380,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         
     }
 
-        void compositingERT(double[] viewMatrix) { //using Compositing with early ray termination
+        void compositing(double[] viewMatrix) { //using Compositing with early ray termination
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
             for (int i = 0; i < image.getWidth(); i++) {
