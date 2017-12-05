@@ -507,8 +507,6 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
 
         // sample on a plane through the origin of the volume data
-        double max = volume.getMaximum();
-        // TFColor voxelColor = new TFColor();
         
         int maximumDim = volume.getDimX();
         if (volume.getDimY() > maximumDim) {
@@ -522,9 +520,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         if(this.interactiveMode) { // this means user is spinning the object
             stepsize = 2;
         }
-        
-        // Initialize sampleColor
-        TFColor sampleColor;
+       
 
         for (int j = 0; j < image.getHeight(); j+=stepsize) {
             for (int i = 0; i < image.getWidth(); i+=stepsize) {
@@ -560,7 +556,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                     }
 
                     // update voxel opacity
-                    voxelColor.a = voxelColor.a + (1 - voxelColor.a) * opacity;
+                    voxelColor.a = voxelColor.a + (1 - opacity);
                 }
                 
                 // BufferedImage expects a pixel color packed as ARGB in an int
