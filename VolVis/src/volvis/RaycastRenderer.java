@@ -30,6 +30,8 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     TransferFunctionEditor tfEditor;
     TransferFunction2DEditor tfEditor2D;
     
+    String rayFunction = "slicer";
+    
     public RaycastRenderer() {
         panel = new RaycastRendererPanel(this);
         panel.setSpeedLabel("0");
@@ -145,7 +147,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     }
 
 
-    void slicerOld(double[] viewMatrix) {
+    void slicer(double[] viewMatrix) {
 
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
@@ -298,7 +300,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         
     }
     
-    void slicer(double[] viewMatrix) { //using Compositing
+    void compositing(double[] viewMatrix) { //using Compositing back-to-front
         // clear image
         for (int j = 0; j < image.getHeight(); j++) {
             for (int i = 0; i < image.getWidth(); i++) {
@@ -357,6 +359,99 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                     voxelColor.r = sampleColor.a*sampleColor.r + (1 - sampleColor.a)*voxelColor.r;
                     voxelColor.g = sampleColor.a*sampleColor.g + (1 - sampleColor.a)*voxelColor.g;
                     voxelColor.b = sampleColor.a*sampleColor.b + (1 - sampleColor.a)*voxelColor.b;
+                }
+                
+                // BufferedImage expects a pixel color packed as ARGB in an int
+                int c_alpha = voxelColor.a <= 1.0 ? (int) Math.floor(voxelColor.a * 255) : 255;
+                int c_red = voxelColor.r <= 1.0 ? (int) Math.floor(voxelColor.r * 255) : 255;
+                int c_green = voxelColor.g <= 1.0 ? (int) Math.floor(voxelColor.g * 255) : 255;
+                int c_blue = voxelColor.b <= 1.0 ? (int) Math.floor(voxelColor.b * 255) : 255;
+                int pixelColor = (c_alpha << 24) | (c_red << 16) | (c_green << 8) | c_blue;
+                image.setRGB(i, j, pixelColor);
+                
+                if (stepsize == 2) {
+                image.setRGB(i+1, j, pixelColor);
+                image.setRGB(i, j+1, pixelColor);
+                image.setRGB(i+1, j+1, pixelColor);
+                }
+            }
+        }
+
+        
+    }
+
+        void compositingERT(double[] viewMatrix) { //using Compositing with early ray termination
+        // clear image
+        for (int j = 0; j < image.getHeight(); j++) {
+            for (int i = 0; i < image.getWidth(); i++) {
+                image.setRGB(i, j, 0);
+            }
+        }
+         // vector uVec and vVec define a plane through the origin, 
+        // perpendicular to the view vector viewVec
+        double[] viewVec = new double[3];
+        double[] uVec = new double[3];
+        double[] vVec = new double[3];
+        VectorMath.setVector(viewVec, viewMatrix[2], viewMatrix[6], viewMatrix[10]);
+        VectorMath.setVector(uVec, viewMatrix[0], viewMatrix[4], viewMatrix[8]);
+        VectorMath.setVector(vVec, viewMatrix[1], viewMatrix[5], viewMatrix[9]);
+
+        // image is square
+        int imageCenter = image.getWidth() / 2;
+
+        double[] pixelCoord = new double[3];
+        double[] volumeCenter = new double[3];
+        VectorMath.setVector(volumeCenter, volume.getDimX() / 2, volume.getDimY() / 2, volume.getDimZ() / 2);
+
+        // sample on a plane through the origin of the volume data
+        double max = volume.getMaximum();
+        // TFColor voxelColor = new TFColor();
+        
+        int maximumDim = volume.getDimX();
+        if (volume.getDimY() > maximumDim) {
+            maximumDim = volume.getDimY();
+        }
+        if (volume.getDimZ() > maximumDim) {
+            maximumDim = volume.getDimZ();
+        }
+        
+        int stepsize = 1;
+        if(this.interactiveMode) { // this means user is spinning the object
+            stepsize = 2;
+        }
+        
+        // Initialize sampleColor and composite transparency
+        TFColor sampleColor;
+        double compTransparancy;
+        
+        for (int j = 0; j < image.getHeight(); j+=stepsize) {
+            for (int i = 0; i < image.getWidth(); i+=stepsize) {
+                // Reset voxelColor
+                compTransparancy = 1;
+                TFColor voxelColor = new TFColor();
+                voxelColor.r = 0;
+                voxelColor.g = 0;
+                voxelColor.b = 0;
+                for (int k = maximumDim; k > -maximumDim; k--) {    //switched order in loop
+                    
+                    pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
+                        + viewVec[0] * (k)+ volumeCenter[0];
+                    pixelCoord[1] = uVec[1] * (i - imageCenter) + vVec[1] * (j - imageCenter)
+                        + viewVec[1] * (k)+ volumeCenter[1];
+                    pixelCoord[2] = uVec[2] * (i - imageCenter) + vVec[2] * (j - imageCenter)
+                        + viewVec[2] * (k)+ volumeCenter[2];
+                    int val = getVoxel(pixelCoord);
+                    sampleColor = tFunc.getColor(val);
+
+                    voxelColor.r = voxelColor.r + sampleColor.a * sampleColor.r * compTransparancy;
+                    voxelColor.g = voxelColor.g + sampleColor.a * sampleColor.g * compTransparancy;
+                    voxelColor.b = voxelColor.b + sampleColor.a * sampleColor.b * compTransparancy;
+                    compTransparancy = compTransparancy * (1 - sampleColor.a);
+                    
+                    if (compTransparancy < 0.05) {
+                        break;
+                    }
+
                 }
                 
                 // BufferedImage expects a pixel color packed as ARGB in an int
@@ -438,9 +533,12 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
     }
 
+    public void setRayFunction (String rayFunction) {
+        this.rayFunction = rayFunction;
+    }
+    
     @Override
     public void visualize(GL2 gl) {
-
 
         if (volume == null) {
             return;
@@ -451,7 +549,15 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         gl.glGetDoublev(GL2.GL_MODELVIEW_MATRIX, viewMatrix, 0);
 
         long startTime = System.currentTimeMillis();
-        slicer(viewMatrix);    
+        if (rayFunction.equals("slicer")) {
+            slicer(viewMatrix);
+        }
+        else if (rayFunction.equals("mip")) {
+            mip(viewMatrix);
+        }
+        else if (rayFunction.equals("compositing")) {
+            compositing(viewMatrix);
+        }
         
         long endTime = System.currentTimeMillis();
         double runningTime = (endTime - startTime);
