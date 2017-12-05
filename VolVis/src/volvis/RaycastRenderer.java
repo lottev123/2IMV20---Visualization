@@ -82,6 +82,20 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     }
      
 
+    
+    VoxelGradient getVoxelGradient(double[] coord) {
+        if (coord[0] < 0 || coord[0] > volume.getDimX() || coord[1] < 0 || coord[1] > volume.getDimY()
+                || coord[2] < 0 || coord[2] > volume.getDimZ()) {
+            return 0;
+        }
+
+        int x = (int) Math.floor(coord[0]);
+        int y = (int) Math.floor(coord[1]);
+        int z = (int) Math.floor(coord[2]);
+        
+        return gradients.getGradient(x,y,z); // return voxel
+    }
+
     short getVoxelOld(double[] coord) {
 
         if (coord[0] < 0 || coord[0] > volume.getDimX() || coord[1] < 0 || coord[1] > volume.getDimY()
@@ -528,7 +542,8 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         for (int j = 0; j < image.getHeight(); j+=stepsize) {
             for (int i = 0; i < image.getWidth(); i+=stepsize) {
                 // Reset voxelColor
-                TFColor voxelColor = new TFColor();
+                TFColor voxelColor = new TFColor(r,g,b,0);
+
                 for (int k = maximumDim; k < -maximumDim; k--) {
                     pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
                         + viewVec[0] * (k)+ volumeCenter[0];
@@ -540,7 +555,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
                     // Determine opacity of voxel
                     double opacity; 
-                    VoxelGradient gradient = VoxelGradient(x,y,z); //get gradient
+                    VoxelGradient voxelGradient = getVoxelGradient(pixelCoord); // get voxelGradient object
                     
                     if(gradient.mag == 0 && val == baseIntensity){
                         opacity = 1*a; // opacity is 1 * alpha_v
