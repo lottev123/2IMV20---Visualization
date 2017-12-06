@@ -504,6 +504,9 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         double g = tfEditor2D.triangleWidget.color.g;                    
         double b = tfEditor2D.triangleWidget.color.b;
         double a = tfEditor2D.triangleWidget.color.a;
+        // get gradient magnitude from baseControlPoint and radiusControlPoint
+        double baseIntensity_mag = 300 - tfEditor2D.triangleWidget.baseIntensity_mag;
+        double radius_mag = 300 - tfEditor2D.triangleWidget.radius_mag;
 
         // sample on a plane through the origin of the volume data
         
@@ -544,26 +547,30 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                         // Determine opacity of voxel
                         double opacity = 0;
                         // VoxelGradient gradient = VoxelGradient(x,y,z); //get gradient
-                        //System.out.print("start"); 
                         VoxelGradient gradient = gradients.getGradient((int) pixelCoord[0], (int) pixelCoord[1], (int) pixelCoord[2]);
-                        //System.out.print("end");
+                        
+                        if (gradient.mag >=baseIntensity_mag && gradient.mag<=radius_mag) {
 
-
-                        if(gradient.mag == 0 && val == baseIntensity){
-                            opacity = a; // opacity is 1 * alpha_v
-                        } else if(gradient.mag > 0 
-                            && ((val - (radius * gradient.mag)) <= baseIntensity)
-                            && (baseIntensity <= (val + radius * gradient.mag))){
-                            opacity = a*(1 - 1/radius*((baseIntensity - val)/gradient.mag));
+                            if(gradient.mag == baseIntensity_mag && val == baseIntensity){
+                                opacity = a; // opacity is 1 * alpha_v
+                            } else if( (Math.abs(gradient.mag) > 0)    
+                                && ((val - (radius * gradient.mag)) <= baseIntensity)
+                                && (baseIntensity <= (val + radius * gradient.mag))
+                                    ){
+                                opacity = a*(1 - (1/radius)*
+                                    (Math.abs(
+                                        (baseIntensity - val)/
+                                            (gradient.mag)
+                                    )));
        
-                        } else {
-                            opacity = 0;
-                        }
+                                } else {
+                                opacity = 0;
+                                }
 
-                        // update voxel opacity
-                        voxelColor.a = voxelColor.a * (1 - opacity);
+                            // update voxel opacity
+                            voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
+                        }
                     }
-                        voxelColor.a = 1 - voxelColor.a;
                 }
                 
                 // BufferedImage expects a pixel color packed as ARGB in an int
@@ -579,12 +586,11 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                 image.setRGB(i, j+1, pixelColor);
                 image.setRGB(i+1, j+1, pixelColor);
                 }
+                
             }
+
         }
-
-        
     }
-
 
     private void drawBoundingBox(GL2 gl) {
         gl.glPushAttrib(GL2.GL_CURRENT_BIT);

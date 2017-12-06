@@ -278,7 +278,6 @@ public class TransferFunction2DEditor extends javax.swing.JPanel {
                 value = 1.0;
             }
             triangleWidget.color.a = value;
-            System.out.println("actie"+value);
         } catch (NumberFormatException e) {
             triangleWidget.color.a = 0.2;
         }
@@ -292,12 +291,18 @@ public class TransferFunction2DEditor extends javax.swing.JPanel {
         public short baseIntensity;
         public double radius;
         public TFColor color;
-        
+
+        public short baseIntensity_mag;
+        public short radius_mag;
 
         public TriangleWidget(short base, double r) {
             this.baseIntensity = base;
             this.radius = r;
             this.color = new TFColor(0.0, 204.0/255.0, 153.0/255.0, 0.3);
+
+            baseIntensity_mag = (short) ybins;
+            radius_mag = (short) 0;
+        
         }
     }
 
