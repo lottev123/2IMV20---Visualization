@@ -278,9 +278,11 @@ public class TransferFunction2DEditor extends javax.swing.JPanel {
                 value = 1.0;
             }
             triangleWidget.color.a = value;
+            System.out.println("actie"+value);
         } catch (NumberFormatException e) {
             triangleWidget.color.a = 0.2;
         }
+        
         setSelectedInfo();
         changed();
     }//GEN-LAST:event_opacityLabelActionPerformed

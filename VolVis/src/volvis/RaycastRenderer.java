@@ -505,7 +505,6 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         double b = tfEditor2D.triangleWidget.color.b;
         double a = tfEditor2D.triangleWidget.color.a;
 
-
         // sample on a plane through the origin of the volume data
         
         int maximumDim = volume.getDimX();
@@ -524,10 +523,13 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
         for (int j = 0; j < image.getHeight(); j+=stepsize) {
             for (int i = 0; i < image.getWidth(); i+=stepsize) {
+                //System.out.println("test");
                 // Reset voxelColor
                 TFColor voxelColor = new TFColor(r,g,b,0);
 
-                for (int k = maximumDim; k < -maximumDim; k--) {
+                for (int k = maximumDim; k>-maximumDim; k--) {
+                    //System.out.println("test k");
+
                     pixelCoord[0] = uVec[0] * (i - imageCenter) + vVec[0] * (j - imageCenter)
                         + viewVec[0] * (k)+ volumeCenter[0];
                     pixelCoord[1] = uVec[1] * (i - imageCenter) + vVec[1] * (j - imageCenter)
@@ -537,26 +539,31 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
                     // get intensity of voxel by trilinear interpolation
                     int val = getVoxel(pixelCoord);
+                    
+                    if (val!=0){
+                        // Determine opacity of voxel
+                        double opacity = 0;
+                        // VoxelGradient gradient = VoxelGradient(x,y,z); //get gradient
+                        //System.out.print("start"); 
+                        VoxelGradient gradient = gradients.getGradient((int) pixelCoord[0], (int) pixelCoord[1], (int) pixelCoord[2]);
+                        //System.out.print("end");
 
-                    // Determine opacity of voxel
-                    double opacity = 0;
-                   // VoxelGradient gradient = VoxelGradient(x,y,z); //get gradient
-                    VoxelGradient gradient = gradients.getGradient((int) pixelCoord[0], (int) pixelCoord[1], (int) pixelCoord[2]);
 
+                        if(gradient.mag == 0 && val == baseIntensity){
+                            opacity = a; // opacity is 1 * alpha_v
+                        } else if(gradient.mag > 0 
+                            && ((val - (radius * gradient.mag)) <= baseIntensity)
+                            && (baseIntensity <= (val + radius * gradient.mag))){
+                            opacity = a*(1 - 1/radius*((baseIntensity - val)/gradient.mag));
+       
+                        } else {
+                            opacity = 0;
+                        }
 
-
-                    if(gradient.mag == 0 && val == baseIntensity){
-                        opacity = a; // opacity is 1 * alpha_v
-                    } else if(gradient.mag > 0 
-                        && ((val - (radius * gradient.mag)) <= baseIntensity)
-                        && (baseIntensity <= (val + radius * gradient.mag))){
-                        opacity = a*(1 - 1/radius*((baseIntensity - val)/gradient.mag));
-                    } else {
-                        opacity = 0;
+                        // update voxel opacity
+                        voxelColor.a = voxelColor.a * (1 - opacity);
                     }
-
-                    // update voxel opacity
-                    voxelColor.a = voxelColor.a + (1 - opacity);
+                        voxelColor.a = 1 - voxelColor.a;
                 }
                 
                 // BufferedImage expects a pixel color packed as ARGB in an int
