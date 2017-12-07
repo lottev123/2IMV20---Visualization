@@ -568,8 +568,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                 opacity = 0;
                                 }
 
-                            // update voxel opacity
-                            voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
+                            
 
                             if (shading){ // if shading is on, we use Phong illumination model
                                 // first we compute the normal vector for this point
@@ -594,6 +593,8 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                 voxelColor.g = voxelColor.g * voxelColor.a + (1-voxelColor.a)*opacity*iGreen;
                                 voxelColor.b = voxelColor.b * voxelColor.a + (1-voxelColor.a)*opacity*iBlue;
                             }
+                            // update voxel opacity
+                            voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
 
                             
                         }
