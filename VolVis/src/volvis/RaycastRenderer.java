@@ -32,6 +32,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     TransferFunction2DEditor tfEditor2D;
     
     String rayFunction = "slicer";
+    boolean shading = false;
     
     public RaycastRenderer() {
         panel = new RaycastRendererPanel(this);
@@ -507,9 +508,12 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         // get gradient magnitude from baseControlPoint and radiusControlPoint
         double baseIntensity_mag = 300 - tfEditor2D.triangleWidget.baseIntensity_mag;
         double radius_mag = 300 - tfEditor2D.triangleWidget.radius_mag;
+        // initialize vectors for Phong shading
+        double[3] L; // normalized 'view vector' from surface to observer (since V = L)
+        VectorMath.setVector(L, -viewVec[0]/length, -viewVec[1]/length, -viewVec[2]/length)
+        double[3] N; // will be calculated for each point separately
 
         // sample on a plane through the origin of the volume data
-        
         int maximumDim = volume.getDimX();
         if (volume.getDimY() > maximumDim) {
             maximumDim = volume.getDimY();
@@ -550,25 +554,43 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                         VoxelGradient gradient = gradients.getGradient((int) pixelCoord[0], (int) pixelCoord[1], (int) pixelCoord[2]);
                         
                         if (gradient.mag >=baseIntensity_mag && gradient.mag<=radius_mag) {
-
                             if(gradient.mag == baseIntensity_mag && val == baseIntensity){
                                 opacity = a; // opacity is 1 * alpha_v
                             } else if( (Math.abs(gradient.mag) > 0)    
                                 && ((val - (radius * gradient.mag)) <= baseIntensity)
-                                && (baseIntensity <= (val + radius * gradient.mag))
-                                    ){
-                                opacity = a*(1 - (1/radius)*
-                                    (Math.abs(
-                                        (baseIntensity - val)/
-                                            (gradient.mag)
-                                    )));
-       
+                                && (baseIntensity <= (val + radius * gradient.mag))){
+                                opacity = a*(1 - (1/radius)*(Math.abs((baseIntensity - val)/(gradient.mag))));
                                 } else {
                                 opacity = 0;
                                 }
 
                             // update voxel opacity
                             voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
+
+                            if (shading){ // if shading is on, we use Phong illumination model
+                                // first we compute the normal vector for this point
+                                VectorMath.setVector(normalVec, gradient.x/gradient.mag, gradient.y/gradient.mag, gradient.z/gradient.mag);
+                                // then we compute the dotproduct of N and L
+                                double dotProduct = VectorMath.dotproduct(viewVec, normalVec);
+
+                                double ka = 0.1;
+                                double kd = 0.7;
+                                double ks = 0.2;
+                                int alpha = 10;
+                                
+                                iRed = ka + r*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+                                iGreen = ka + g*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+                                iBlue = ka + b*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+
+                                // update colors
+                                voxelColor.r = voxelColor.r * voxelColor.a + (1-voxelColor.a)*opacity*iRed;
+                                voxelColor.g = voxelColor.g * voxelColor.a + (1-voxelColor.a)*opacity*iGreen;
+                                voxelColor.b = voxelColor.b * voxelColor.a + (1-voxelColor.a)*opacity*iBlue;
+                            }
+                            // early ray termination
+                            if(voxelColor.a > 0.95){
+                                break;
+                            }
                         }
                     }
                 }
@@ -654,6 +676,14 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
     public void setRayFunction (String rayFunction) {
         this.rayFunction = rayFunction;
     }
+
+    public void setShading (Boolean shading) { // shading on = True, shading off = False
+        this.shading = shading;
+    }
+
+    public void getShading () {
+        return this.shading;
+    }
     
     @Override
     public void visualize(GL2 gl) {
@@ -679,6 +709,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         else if (rayFunction.equals("transfer2d")){
             transfer2d(viewMatrix);
         }
+
         
         long endTime = System.currentTimeMillis();
         double runningTime = (endTime - startTime);
