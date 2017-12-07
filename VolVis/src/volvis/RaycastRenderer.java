@@ -509,9 +509,10 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         double baseIntensity_mag = 300 - tfEditor2D.triangleWidget.baseIntensity_mag;
         double radius_mag = 300 - tfEditor2D.triangleWidget.radius_mag;
         // initialize vectors for Phong shading
-        double[3] L; // normalized 'view vector' from surface to observer (since V = L)
-        VectorMath.setVector(L, -viewVec[0]/length, -viewVec[1]/length, -viewVec[2]/length)
-        double[3] N; // will be calculated for each point separately
+        double[] L = new double[3]; // normalized 'view vector' from surface to observer (since V = L)
+        double length = VectorMath.length(viewVec);
+        VectorMath.setVector(L, -viewVec[0]/length, -viewVec[1]/length, -viewVec[2]/length);
+        double[] N = new double[3]; // will be calculated for each point separately
 
         // sample on a plane through the origin of the volume data
         int maximumDim = volume.getDimX();
@@ -533,7 +534,10 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                 //System.out.println("test");
                 // Reset voxelColor
                 TFColor voxelColor = new TFColor(r,g,b,0);
-
+                if (shading){ // if shading is true, we start with 0
+                    voxelColor = new TFColor(0,0,0,0);
+                }
+                
                 for (int k = maximumDim; k>-maximumDim; k--) {
                     //System.out.println("test k");
 
@@ -569,28 +573,29 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
 
                             if (shading){ // if shading is on, we use Phong illumination model
                                 // first we compute the normal vector for this point
-                                VectorMath.setVector(normalVec, gradient.x/gradient.mag, gradient.y/gradient.mag, gradient.z/gradient.mag);
+                                VectorMath.setVector(N, gradient.x/gradient.mag, gradient.y/gradient.mag, gradient.z/gradient.mag);
                                 // then we compute the dotproduct of N and L
-                                double dotProduct = VectorMath.dotproduct(viewVec, normalVec);
+                                double dotProduct = VectorMath.dotproduct(N, L);
+                                if (dotProduct <= 0){
+                                    dotProduct = 0.01;
+                                }
 
-                                double ka = 0.1;
+                                double ka = 0.5;
                                 double kd = 0.7;
                                 double ks = 0.2;
                                 int alpha = 10;
                                 
-                                iRed = ka + r*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
-                                iGreen = ka + g*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
-                                iBlue = ka + b*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+                                double iRed = ka + r*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+                                double iGreen = ka + g*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
+                                double iBlue = ka + b*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
 
                                 // update colors
                                 voxelColor.r = voxelColor.r * voxelColor.a + (1-voxelColor.a)*opacity*iRed;
                                 voxelColor.g = voxelColor.g * voxelColor.a + (1-voxelColor.a)*opacity*iGreen;
                                 voxelColor.b = voxelColor.b * voxelColor.a + (1-voxelColor.a)*opacity*iBlue;
                             }
-                            // early ray termination
-                            if(voxelColor.a > 0.95){
-                                break;
-                            }
+
+                            
                         }
                     }
                 }
@@ -681,7 +686,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
         this.shading = shading;
     }
 
-    public void getShading () {
+    public Boolean getShading () {
         return this.shading;
     }
     
