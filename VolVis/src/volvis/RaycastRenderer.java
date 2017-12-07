@@ -596,7 +596,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                             // update voxel opacity
                             voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
                             // compute transparancy
-                            compTransparancy = compTransparancy * (1 - voxelColor.a);
+                            double compTransparancy =  (1 - voxelColor.a);
                             // early ray termination
                             if (compTransparancy < 0.05) {
                                 break;
