@@ -568,12 +568,6 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                 opacity = 0;
                                 }
 
-<<<<<<< HEAD
-
-=======
-                            
->>>>>>> 72d0ca9b2b017cfddac8c9f5e7b77dfff9976ddf
-
                             if (shading){ // if shading is on, we use Phong illumination model
                                 // first we compute the normal vector for this point
                                 VectorMath.setVector(N, gradient.x/gradient.mag, gradient.y/gradient.mag, gradient.z/gradient.mag);
