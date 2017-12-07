@@ -568,8 +568,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                 opacity = 0;
                                 }
 
-                            // update voxel opacity
-                            voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
+
 
                             if (shading){ // if shading is on, we use Phong illumination model
                                 // first we compute the normal vector for this point
@@ -580,20 +579,24 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                     dotProduct = 0.01;
                                 }
 
-                                double ka = 0.5;
+                                double ka = 0.1;
                                 double kd = 0.7;
                                 double ks = 0.2;
-                                int alpha = 10;
+                                int alpha = 7;
                                 
                                 double iRed = ka + r*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
                                 double iGreen = ka + g*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
                                 double iBlue = ka + b*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
 
                                 // update colors
-                                voxelColor.r = voxelColor.r * voxelColor.a + (1-voxelColor.a)*opacity*iRed;
-                                voxelColor.g = voxelColor.g * voxelColor.a + (1-voxelColor.a)*opacity*iGreen;
-                                voxelColor.b = voxelColor.b * voxelColor.a + (1-voxelColor.a)*opacity*iBlue;
+                                voxelColor.r = voxelColor.r + (1-voxelColor.a)*opacity*iRed;
+                                voxelColor.g = voxelColor.g + (1-voxelColor.a)*opacity*iGreen;
+                                voxelColor.b = voxelColor.b + (1-voxelColor.a)*opacity*iBlue;
+                                
+                                 
                             }
+                            // update voxel opacity
+                            voxelColor.a = voxelColor.a + (1 - voxelColor.a)*opacity;
 
                             
                         }
