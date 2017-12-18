@@ -580,7 +580,7 @@ public class RaycastRenderer extends Renderer implements TFChangeListener {
                                 double ka = 0.1;
                                 double kd = 0.7;
                                 double ks = 0.2;
-                                int alpha = 7;
+                                int alpha = 10;
                                 
                                 double iRed = ka + r*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
                                 double iGreen = ka + g*kd*dotProduct + ks*Math.pow(dotProduct, alpha); 
