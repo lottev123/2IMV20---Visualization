@@ -40,8 +40,10 @@ for index, row in songs.iterrows():
     firstElement = row["name"].split("/")[0]
     for splitrule in splitrules_songs:
         if (splitrule) in firstElement:
+            if (splitrule) in firstElement[0]:  #this means that the song starts with a bracket (see id = 152)
+                break
             splittedSong.append(firstElement.split(splitrule)[0])
-    if (firstElement.find("(")!= -1): #then, firstElement contains (
+    if (firstElement.find("(")!= -1): #only then, firstElement contains (
             splittedSong.append(firstElement[firstElement.find("(")+1:firstElement.find(")")]) #add part between brackets to list of songs
             splittedSong.append(firstElement.translate(translation_table)) # add string, but then without the brackets
     namesSongs[index] = splittedSong
