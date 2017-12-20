@@ -62,7 +62,7 @@ for index, row in artists.iterrows():
 artists["listOfNames"] = namesArtists
 
 namesSongs = [None] * len(songs)
-splitrules_songs = ["("]
+splitrules_songs = ["(", "-"]
 
 translation_table = dict.fromkeys(map(ord, '()'), None) #necessary to remove the ( and ) characters in a string
 
@@ -73,10 +73,14 @@ for index, row in songs.iterrows():
     firstElement = row["name"].split("/")[0]
     for splitrule in splitrules_songs:
         if (splitrule) in firstElement:
+            if (splitrule) in firstElement[0]:  #this means that the song starts with a bracket (see id = 152)
+                break
             splittedSong.append(firstElement.split(splitrule)[0])
-    if (firstElement.find("(")!= -1): #then, firstElement contains (
+    if (firstElement.find("(")!= -1): #only then, firstElement contains (
             splittedSong.append(firstElement[firstElement.find("(")+1:firstElement.find(")")]) #add part between brackets to list of songs
             splittedSong.append(firstElement.translate(translation_table)) # add string, but then without the brackets
+    # Remove [EP] from song title
+    splittedSong = [x.replace(" [EP]", "") for x in splittedSong]
     namesSongs[index] = splittedSong
 
 songs["listOfNames"] = namesSongs
@@ -115,24 +119,28 @@ def getToken():
     return token
 
 # Search track on Spotify and return a tuple with album, artist(s) and track id
+def saveResults(result):
+    albumID = result[0]['album']['uri']
+    artistIDs = [x['uri'] for x in result[0]['artists']] #list of artist id's
+    trackID = result[0]['uri']
+    artistNames = [x['name'] for x in result[0]['artists']]
+    trackName = result[0]['name']
+    explicit = result[0]['explicit']
+    popularity = result[0]['popularity']
+    return albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity
+
 def searchTrack(artist, song):
     
     result = sp.search(q = 'artist:' + artist + ' track:' + song, type = 'track', limit = 1)['tracks']['items']
     if len(result) > 0:
-        albumID = result[0]['album']['uri']
-        artistIDs = [x['uri'] for x in result[0]['artists']] #list of artist id's
-        trackID = result[0]['uri']
+        albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity = saveResults(result)
     else: # search without stating song + artist
         result = sp.search(q = artist + ' ' + song, type = 'track', limit = 1)['tracks']['items']
     if len(result) > 0:
-        albumID = result[0]['album']['uri']
-        artistIDs = [x['uri'] for x in result[0]['artists']] #list of artist id's
-        trackID = result[0]['uri']
+        albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity = saveResults(result)
     else:
-        print('Could not find anything...')
-        return False, None, [None], None
-    print('We found something!')
-    return True, albumID, artistIDs, trackID 
+        return False, None, [None], None, [None], None, None, None
+    return True, albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity
 
 # Get audio features given a list of trackIDs
 def getTrackInfo(trackIDs):
@@ -141,6 +149,7 @@ def getTrackInfo(trackIDs):
 # Get artist info given a list of artist IDs
 def getArtistInfo(artistIDs):
     return sp.artists(artistIDs)
+
 #%%
 """ Initialize spotipy """
 token = getToken()
@@ -156,30 +165,60 @@ Search for each song in the spotify API
 albumIDlist = []
 artistIDslist = []
 trackIDlist = []
+artistNameslist = []
+trackNamelist = []
+explicitlist = []
+popularitylist = []
 
+i = 0
 # for each song we try to find the albumID, artistID(s) and trackID
-for key, value in songs_artists[1:30].iterrows():
+for key, value in songs_artists[10781:13837].iterrows():
+    i = i + 1
+    print(i)
     for song in value['listOfNames_song']:
         for artist in value['listOfNames_artist']:
-            print(song)
-            print(artist)
+            # added [''] to just search for the song without artist 
             result = searchTrack(artist, song)
-            if (result[0]):
+            if result[0]:
                 break #if a result is found, we can stop the loop
-                break
-    Bool, albumID, artistIDs, trackID = result
+        if result[0]:
+            break
+    Bool, albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity = result
+    if not Bool:
+        print('Nothing found for song:')
+        print('\t' + str(value['name_song']))
+        print('\t' + str(value['name_artist']))
     albumIDlist.append(albumID)
     artistIDslist.append(artistIDs)
     trackIDlist.append(trackID)
-#%%
-print(song)
-print(artist)
-result = searchTrack(artist, song)
-#print(result)
-#%%
-
+    artistNameslist.append(artistNames)
+    trackNamelist.append(trackName)
+    explicitlist.append(explicit)
+    popularitylist.append(popularity)
     #%%
-list(songs_artists)
+""" 
+-------------------
+Ad hoc dealing with results
+-------------------
+Search for each song in the spotify API
+"""
+songs_artists1000['artistnames']= artistNameslist
+songs_artists1000['trackName'] = trackNamelist
+songs_artists1000['trackID'] = trackIDlist
+songs_artists1000['albumID'] = albumIDlist
+songs_artists1000['artistIDs'] = artistIDslist
+songs_artists1000['explicit'] = explicitlist
+songs_artists1000['popularity'] = popularitylist
+
+#%%
+notfound = songs_artists1000[songs_artists1000['trackName'].isnull()]
+notfound = notfound.append(songs_artists.loc[10780])
+notfound = notfound.drop(['artistnames', 'trackName', 'trackID', 'albumID', 'artistIDs', 'explicit', 'popularity'], 1)
+#%%
+# export found results to csv
+songs_artists1000.to_csv('firstResults.csv') # does not include song index 10780 (Country Grammar (Hot S+++), Nelly)
+# all songs that were not found
+notfound.to_csv('firstNotFound.csv')
 #%%
 """ 
 -------------------
@@ -188,3 +227,4 @@ RETRIEVE DATA
 Retrieve audio features of all songs
 Retrieve genre of all artists
 """
+info = getTrackInfo(filter(None, trackIDlist[0:50]))
