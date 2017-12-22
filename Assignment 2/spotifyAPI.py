@@ -155,7 +155,6 @@ def getArtistInfo(artistIDs):
 token = getToken()
 sp = spotipy.Spotify(auth=token)
 #%%
-
 """ 
 -------------------
 SEARCH SONG 
@@ -177,7 +176,6 @@ for key, value in songs_artists[10781:13837].iterrows():
     print(i)
     for song in value['listOfNames_song']:
         for artist in value['listOfNames_artist']:
-            # added [''] to just search for the song without artist 
             result = searchTrack(artist, song)
             if result[0]:
                 break #if a result is found, we can stop the loop
@@ -209,7 +207,6 @@ songs_artists1000['albumID'] = albumIDlist
 songs_artists1000['artistIDs'] = artistIDslist
 songs_artists1000['explicit'] = explicitlist
 songs_artists1000['popularity'] = popularitylist
-
 #%%
 notfound = songs_artists1000[songs_artists1000['trackName'].isnull()]
 notfound = notfound.append(songs_artists.loc[10780])
@@ -219,6 +216,104 @@ notfound = notfound.drop(['artistnames', 'trackName', 'trackID', 'albumID', 'art
 songs_artists1000.to_csv('firstResults.csv') # does not include song index 10780 (Country Grammar (Hot S+++), Nelly)
 # all songs that were not found
 notfound.to_csv('firstNotFound.csv')
+#%%
+""" 
+-------------------
+DATA PREP 2
+-------------------
+"""
+
+namesArtists = [None] * len(notfound)
+splitrules_artists = ["ft.", "featuring", "-", "feat.", ",", "x", "with", '&', 'and', 'en']
+
+for index, row in notfound.reset_index().iterrows():
+    splittedArtist = []
+    for element in row["name_artist"].split("/"):
+        splittedArtist.append(element)
+    for splitrule in splitrules_artists:
+        if (splitrule) in row["name_artist"].split("/")[0]:
+            splittedArtist.append(row["name_artist"].split("/")[0].split(splitrule)[0]) 
+            splittedArtist.append(row["name_artist"].split("/")[0].split(splitrule)[1]) 
+    if '((' in row["name_artist"].split("/")[0]:
+        splittedArtist.append(row["name_artist"].split("/")[0].split('((')[0]) 
+    namesArtists[index] = splittedArtist
+
+notfound["listOfNames2_artists"] = namesArtists
+
+namesSongs = [None] * len(notfound)
+splitrules_songs = ["(", "-"]
+
+translation_table = dict.fromkeys(map(ord, '()'), None) #necessary to remove the ( and ) characters in a string
+
+for index, row in notfound.reset_index().iterrows():
+    splittedSong = []
+    for element in row["name_song"].split("/"):
+        splittedSong.append(element)
+    firstElement = row["name_song"].split("/")[0]
+    for splitrule in splitrules_songs:
+        if (splitrule) in firstElement:
+            if (splitrule) in firstElement[0]:  #this means that the song starts with a bracket (see id = 152)
+                break
+            splittedSong.append(firstElement.split(splitrule)[0])
+    if (firstElement.find("(")!= -1): #only then, firstElement contains (
+            splittedSong.append(firstElement[firstElement.find("(")+1:firstElement.find(")")]) #add part between brackets to list of songs
+            splittedSong.append(firstElement.translate(translation_table)) # add string, but then without the brackets
+    # Remove [EP] from song title
+    splittedSong = [x.replace(" [EP]", "") for x in splittedSong]
+    namesSongs[index] = splittedSong
+
+notfound["listOfNames_songs2"] = namesSongs
+
+#%%
+#%%
+""" 
+-------------------
+SEARCH ROUND 2
+-------------------
+"""
+albumIDlist1 = []
+artistIDslist1 = []
+trackIDlist1 = []
+artistNameslist1 = []
+trackNamelist1 = []
+explicitlist1 = []
+popularitylist1 = []
+
+i = 0
+# for each song we try to find the albumID, artistID(s) and trackID
+for key, value in notfound.iterrows():
+    i = i + 1
+    print(i)
+    for song in value['listOfNames_songs2']:
+        for artist in value['listOfNames2_artists']:
+            song = song.replace('+', ' ').replace('*', ' ')
+            artist = artist.replace('+', ' ').replace('*', ' ').replace('-', ' ')
+            result = searchTrack(artist, song)
+            if result[0]:
+                break #if a result is found, we can stop the loop
+        if result[0]:
+            break
+    Bool, albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity = result
+    if not Bool:
+        print('Nothing found for song:')
+        print('\t' + str(value['name_song']))
+        print('\t' + str(value['name_artist']))
+    albumIDlist1.append(albumID)
+    artistIDslist1.append(artistIDs)
+    trackIDlist1.append(trackID)
+    artistNameslist1.append(artistNames)
+    trackNamelist1.append(trackName)
+    explicitlist1.append(explicit)
+    popularitylist1.append(popularity)
+        
+#%%
+notfound['artistnames']= artistNameslist1
+notfound['trackName'] = trackNamelist1
+notfound['trackID'] = trackIDlist1
+notfound['albumID'] = albumIDlist1
+notfound['artistIDs'] = artistIDslist1
+notfound['explicit'] = explicitlist1
+notfound['popularity'] = popularitylist1
 #%%
 """ 
 -------------------
