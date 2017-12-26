@@ -13,9 +13,9 @@ import spotipy
 import spotipy.util as util
 from json.decoder import JSONDecodeError
 
-working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/top40'
+working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/'
 os.chdir(working_dir)
-
+#%%
 """ 
 -------------------
 IMPORT DATA 
@@ -265,7 +265,6 @@ for index, row in notfound.reset_index().iterrows():
 notfound["listOfNames_songs2"] = namesSongs
 
 #%%
-#%%
 """ 
 -------------------
 SEARCH ROUND 2
@@ -315,6 +314,130 @@ notfound['artistIDs'] = artistIDslist1
 notfound['explicit'] = explicitlist1
 notfound['popularity'] = popularitylist1
 #%%
+
+secondNotFoundAdapted = secondNotFound.drop([
+ 'listOfNames_song',
+ 'listOfNames_artist',
+ 'artistnames',
+ 'trackName',
+ 'trackID',
+ 'albumID',
+ 'artistIDs',
+ 'explicit',
+ 'popularity'], axis = 1)
+#%%
+""" 
+-------------------
+DATA PREP 3
+-------------------
+"""
+
+namesArtists = [None] * len(secondNotFoundAdapted)
+splitrules_artists = ["ft.", "featuring", "-", "feat.", ",", "x", "with", '&', 'and', 'en']
+
+for index, row in secondNotFoundAdapted.reset_index().iterrows():
+    splittedArtist = []
+    for element in row["name_artist"].split("/"):
+        splittedArtist.append(element)
+    for splitrule in splitrules_artists:
+        if (splitrule) in row["name_artist"].split("/")[0]:
+            splittedArtist.append(row["name_artist"].split("/")[0].split(splitrule)[0]) 
+            splittedArtist.append(row["name_artist"].split("/")[0].split(splitrule)[1]) 
+    if '((' in row["name_artist"].split("/")[0]:
+        splittedArtist.append(row["name_artist"].split("/")[0].split('((')[0]) 
+    namesArtists[index] = splittedArtist
+
+secondNotFoundAdapted["listOfNames2_artists"] = namesArtists
+
+namesSongs = [None] * len(secondNotFoundAdapted)
+splitrules_songs = ["(", "-"]
+
+translation_table = dict.fromkeys(map(ord, '()'), None) #necessary to remove the ( and ) characters in a string
+
+for index, row in secondNotFoundAdapted.reset_index().iterrows():
+    splittedSong = []
+    for element in row["name_song"].split("/"):
+        splittedSong.append(element)
+    firstElement = row["name_song"].split("/")[0]
+    for splitrule in splitrules_songs:
+        if (splitrule) in firstElement:
+            if (splitrule) in firstElement[0]:  #this means that the song starts with a bracket (see id = 152)
+                break
+            splittedSong.append(firstElement.split(splitrule)[0])
+    if (firstElement.find("(")!= -1): #only then, firstElement contains (
+            splittedSong.append(firstElement[firstElement.find("(")+1:firstElement.find(")")]) #add part between brackets to list of songs
+            splittedSong.append(firstElement.translate(translation_table)) # add string, but then without the brackets
+    # Remove [EP] from song title
+    splittedSong = [x.replace(" [EP]", "") for x in splittedSong]
+    namesSongs[index] = splittedSong
+
+secondNotFoundAdapted["listOfNames_songs2"] = namesSongs
+#%%
+""" 
+-------------------
+SEARCH ROUND 3
+-------------------
+"""
+albumIDlist2 = []
+artistIDslist2 = []
+trackIDlist2 = []
+artistNameslist2 = []
+trackNamelist2 = []
+explicitlist2 = []
+popularitylist2 = []
+
+i = 0
+# for each song we try to find the albumID, artistID(s) and trackID
+for key, value in secondNotFoundAdapted.iterrows():
+    i = i + 1
+    print(i)
+    for song in value['listOfNames_songs2']:
+        for artist in value['listOfNames2_artists']:
+            song = song.replace('+', ' ').replace('*', ' ')
+            artist = artist.replace('+', ' ').replace('*', ' ').replace('-', ' ')
+            result = searchTrack(artist, song)
+            if result[0]:
+                break #if a result is found, we can stop the loop
+        if result[0]:
+            break
+    Bool, albumID, artistIDs, trackID, artistNames, trackName, explicit, popularity = result
+    if not Bool:
+        print('Nothing found for song:')
+        print('\t' + str(value['name_song']))
+        print('\t' + str(value['name_artist']))
+    albumIDlist2.append(albumID)
+    artistIDslist2.append(artistIDs)
+    trackIDlist2.append(trackID)
+    artistNameslist2.append(artistNames)
+    trackNamelist2.append(trackName)
+    explicitlist2.append(explicit)
+    popularitylist2.append(popularity)
+        
+#%%
+secondNotFoundAdapted['artistnames']= artistNameslist2
+secondNotFoundAdapted['trackName'] = trackNamelist2
+secondNotFoundAdapted['trackID'] = trackIDlist2
+secondNotFoundAdapted['albumID'] = albumIDlist2
+secondNotFoundAdapted['artistIDs'] = artistIDslist2
+secondNotFoundAdapted['explicit'] = explicitlist2
+secondNotFoundAdapted['popularity'] = popularitylist2
+#%%
+""" Ad hoc repairs """
+thirdResults = secondNotFoundAdapted.dropna()
+secondAllResults = pd.read_csv('secondAllResults.csv', index_col = None).drop('Unnamed: 0', axis = 1)
+thirdAllResults = secondAllResults
+j = 0
+for i in thirdResults.iterrows():
+    song_idtje = i[1]['song_id']    
+    index = secondAllResults.index[secondAllResults['song_id'] == song_idtje][0]
+    thirdAllResults.set_value(index, 'artistnames', i[1]['artistnames'])
+    thirdAllResults.ix[index, 'trackName'] = i[1]['trackName']
+    thirdAllResults.ix[index, 'trackID'] = i[1]['trackID']
+    thirdAllResults.ix[index, 'albumID'] = i[1]['albumID']
+    thirdAllResults.set_value(index, 'artistIDs', i[1]['artistIDs'])
+    thirdAllResults.ix[index, 'explicit'] = i[1]['explicit']
+    thirdAllResults.ix[index, 'popularity'] = i[1]['popularity']
+    #%%
 """ 
 -------------------
 RETRIEVE DATA
