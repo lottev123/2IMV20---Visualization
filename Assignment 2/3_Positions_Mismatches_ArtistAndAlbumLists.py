@@ -10,12 +10,15 @@ import os
 import numpy as np
 import ast
 
-working_dir = r'C:\Users\s134277\Documents\Top40 dataset\ '
+#working_dir = r'C:\Users\s134277\Documents\Top40 dataset\ '
+working_dir = '/Users/hildeweerts/2IMV20---Visualization/Assignment 2/Data/data/' 
+
 os.chdir(working_dir)
 artists_top40 = pd.read_csv("artists.csv", engine='python', delimiter="\t")
 songs_top40 = pd.read_csv("songs.csv", engine = 'python', delimiter="\t")
 
-working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\Results '
+#working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\Results '
+working_dir = '/Users/hildeweerts/2IMV20---Visualization/Assignment 2/Data/data/' 
 os.chdir(working_dir)
 spData = pd.read_csv("thirdAllResults.csv", engine = 'python')
 
@@ -26,7 +29,8 @@ spData.duplicated(['song_id']).sum()    #No double songs, as expected
 "CREATE LIST WITH OCCURENCES IN TOP40"
 position = [None]*len(spData)
 
-working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\data\top40 '
+#working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\data\top40 '
+working_dir = '/Users/hildeweerts/2IMV20---Visualization/Assignment 2/Data/top40/' 
 os.chdir(working_dir)
 
 for year in range(1965,2017+1):

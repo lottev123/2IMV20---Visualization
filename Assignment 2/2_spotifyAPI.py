@@ -13,8 +13,8 @@ import spotipy
 import spotipy.util as util
 from json.decoder import JSONDecodeError
 
-working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/'
-os.chdir(working_dir)
+#working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/'
+#os.chdir(working_dir)
 #%%
 """ 
 -------------------
@@ -437,12 +437,4 @@ for i in thirdResults.iterrows():
     thirdAllResults.set_value(index, 'artistIDs', i[1]['artistIDs'])
     thirdAllResults.ix[index, 'explicit'] = i[1]['explicit']
     thirdAllResults.ix[index, 'popularity'] = i[1]['popularity']
-    #%%
-""" 
--------------------
-RETRIEVE DATA
--------------------
-Retrieve audio features of all songs
-Retrieve genre of all artists
-"""
-info = getTrackInfo(filter(None, trackIDlist[0:50]))
+
