@@ -13,8 +13,6 @@ import spotipy
 import spotipy.util as util
 from json.decoder import JSONDecodeError
 
-working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/'
-os.chdir(working_dir)
 #%%
 """ 
 -------------------
