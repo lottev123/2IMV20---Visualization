@@ -24,7 +24,10 @@ spData.duplicated(['song_id']).sum()    #No double songs, as expected
 
 #%%
 "CREATE LIST WITH OCCURENCES IN TOP40"
+spData = spData.reset_index(drop=True).reset_index(drop=True)
 position = [None]*len(spData)
+chartList = []
+columns = ['year', 'week', 'positionNr', 'songID']
 
 working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\data\top40 '
 os.chdir(working_dir)
@@ -45,13 +48,16 @@ for year in range(1965,2017+1):
                 temp = row.posartsong.split("\t")
                 positionNr = pd.to_numeric(temp[0])
                 songID = pd.to_numeric(temp[2])
+                chartList.append([year, week, positionNr, songID])
                 if songID in spData.song_id.values:
                     n = spData[spData['song_id']==songID].index[0]
                     if position[n] is None:
                         position[n] = [[year, week, positionNr]]
                     else:
-                            position[n].append([year, week, positionNr])
-spData['position'] = position   
+                        position[n].append([year, week, positionNr])
+spData['position'] = position
+charts = pd.DataFrame(chartList, columns = columns)
+
 
 #%%
 "NO OR FALSE MATCH IN SPOTIFY"
@@ -77,13 +83,32 @@ for index, row in spData.iterrows():
             if i == len(strippedTop40Artistname)-4:
                 if row['artist_id'] not in falseNegatives:
                     removed = removed.append(row)
-                    falseMatchesIds.append(row['artist_id'])
+                    falseMatchesIds.append(row['song_id'])
 
-spData = spData[~spData.artist_id.isin(falseMatchesIds)]
+spData = spData[~spData.song_id.isin(falseMatchesIds)]
 
 """Remove karaoke artists that slipped trough"""
 removed = removed.append(spData[spData.artistnames.str.contains("karaoke")==True])
 spData = spData[spData.artistnames.str.contains("karaoke")==False]
+#%%
+chartRowRemoved = [None]*len(charts)
+
+for index, row in charts.iterrows():
+    if row[3] in removed.song_id.values:
+        chartRowRemoved[index] = True
+    else:
+        chartRowRemoved[index] = False
+
+charts['chartRowRemoved'] = chartRowRemoved
+
+sum(charts.chartRowRemoved)
+
+#%%
+removed20152016 = pd.DataFrame(columns = ['year', 'fractionMissing'])
+for year in range(1965,2017+1):
+    temp = charts[charts['year']==year]
+    removed20152016 = removed20152016.append([year, sum(temp.chartRowRemoved)/len(temp)])
+    print(str(year)+ ","+ str(sum(temp.chartRowRemoved)/len(temp)) )
 
 #%%
 "FINAL SONG TABLE"
