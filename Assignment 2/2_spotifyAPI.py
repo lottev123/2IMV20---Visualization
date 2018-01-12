@@ -437,7 +437,6 @@ for i in thirdResults.iterrows():
     thirdAllResults.set_value(index, 'artistIDs', i[1]['artistIDs'])
     thirdAllResults.ix[index, 'explicit'] = i[1]['explicit']
     thirdAllResults.ix[index, 'popularity'] = i[1]['popularity']
-    #%%
 """ 
 -------------------
 RETRIEVE DATA
