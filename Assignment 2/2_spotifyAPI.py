@@ -13,6 +13,8 @@ import spotipy
 import spotipy.util as util
 from json.decoder import JSONDecodeError
 
+#working_dir = '/Users/hildeweerts/Desktop/TUe/2IMV20 Visualization/Assignment 2/'
+#os.chdir(working_dir)
 #%%
 """ 
 -------------------
@@ -444,3 +446,4 @@ Retrieve audio features of all songs
 Retrieve genre of all artists
 """
 info = getTrackInfo(filter(None, trackIDlist[0:50]))
+
