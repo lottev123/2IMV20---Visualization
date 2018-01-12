@@ -86,7 +86,7 @@ working_dir = '/Users/hildeweerts/2IMV20---Visualization/Assignment 2/Results/'
 os.chdir(working_dir)
 
 # read songs data
-songs_3 = pd.read_csv('3_Songs.csv', engine = 'python')
+songs_3 = pd.read_csv('songs.csv', engine = 'python')
 #%%
 """ retrieve audio features of all songs """
 song_ids = songs_3.reset_index()['trackID']
@@ -149,6 +149,7 @@ for i in range(0, len(album_ids), num):
 # rename uri attribute and write to csv
 album_attributes['albumID'] = album_attributes['uri']
 album_attributes = album_attributes.drop('uri', axis=1)
+album_attributes = album_attributes.drop('tracks', axis=1)
 album_attributes.to_csv('albums_attributes.csv')
 
 #%%
@@ -164,8 +165,11 @@ artistIDs = [y for x in artists for y in x]
 artistIDs_unique = list(set(artistIDs))
 related_artists = {}
 
+j = 0
 # retrieve related artist info
 for i in artistIDs_unique:
+    j = j + 1
+    print(j)
     info = getRelatedArtists(i)['artists']
     related_artists[i] = info
 #%%
@@ -178,6 +182,10 @@ def save_obj(obj, name ):
 def load_obj(name ):
     with open('obj/' + name + '.pkl', 'rb') as f:
         return pickle.load(f)
-#%%
+
 # save related artists dictionary
+#save_obj(song_attributes, 'songs_attributes')
+#save_obj(artist_attributes, 'artists_attributes')
+#save_obj(album_attributes, 'albums_attributes')
 save_obj(related_artists, 'related_artists')
+
