@@ -15,9 +15,9 @@ os.chdir(working_dir)
 artists_top40 = pd.read_csv("artists.csv", engine='python', delimiter="\t")
 songs_top40 = pd.read_csv("songs.csv", engine = 'python', delimiter="\t")
 
-working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\Results '
+working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\Results\_old\ '
 os.chdir(working_dir)
-spData = pd.read_csv("thirdAllResults.csv", engine = 'python')
+spData = pd.read_csv('thirdAllResults.csv', engine = 'python')
 
 """Check whether trackID's occur multiple times"""
 spData.duplicated(['song_id']).sum()    #No double songs, as expected
@@ -48,15 +48,19 @@ for year in range(1965,2017+1):
                 temp = row.posartsong.split("\t")
                 positionNr = pd.to_numeric(temp[0])
                 songID = pd.to_numeric(temp[2])
-                chartList.append([year, week, positionNr, songID])
+                #chartList.append([year, week, positionNr, songID])
                 if songID in spData.song_id.values:
                     n = spData[spData['song_id']==songID].index[0]
+                    chartList.append([year, week, positionNr, spData.iloc[n,9][14:]])
                     if position[n] is None:
                         position[n] = [[year, week, positionNr]]
                     else:
                         position[n].append([year, week, positionNr])
 spData['position'] = position
 charts = pd.DataFrame(chartList, columns = columns)
+working_dir = r'C:\Users\s134277\Documents\GitHub\2IMV20---Visualization\Assignment 2\Results '
+os.chdir(working_dir)
+charts.to_csv('ranklijst.csv')
 
 
 #%%
@@ -91,24 +95,18 @@ spData = spData[~spData.song_id.isin(falseMatchesIds)]
 removed = removed.append(spData[spData.artistnames.str.contains("karaoke")==True])
 spData = spData[spData.artistnames.str.contains("karaoke")==False]
 #%%
-chartRowRemoved = [None]*len(charts)
-
-for index, row in charts.iterrows():
-    if row[3] in removed.song_id.values:
-        chartRowRemoved[index] = True
-    else:
-        chartRowRemoved[index] = False
-
-charts['chartRowRemoved'] = chartRowRemoved
-
-sum(charts.chartRowRemoved)
-
-#%%
-removed20152016 = pd.DataFrame(columns = ['year', 'fractionMissing'])
-for year in range(1965,2017+1):
-    temp = charts[charts['year']==year]
-    removed20152016 = removed20152016.append([year, sum(temp.chartRowRemoved)/len(temp)])
-    print(str(year)+ ","+ str(sum(temp.chartRowRemoved)/len(temp)) )
+#"""Only relevent when song_id in charts is the song_id in the top40 dataset"""
+#chartRowRemoved = [None]*len(charts)
+#
+#for index, row in charts.iterrows():
+#    if row[3] in removed.song_id.values:
+#        chartRowRemoved[index] = True
+#    else:
+#        chartRowRemoved[index] = False
+#
+#charts['chartRowRemoved'] = chartRowRemoved
+#
+#sum(charts.chartRowRemoved)
 
 #%%
 "FINAL SONG TABLE"
