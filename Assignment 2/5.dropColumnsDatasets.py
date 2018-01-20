@@ -15,6 +15,7 @@ os.chdir(working_dir)
 songsAttributes = pd.read_pickle('songs_Attributes.pkl')
 songsAttributes = songsAttributes.drop(['analysis_url', 'key', 'track_href', 'type', 'trackID'], axis=1)
 songsAttributes.to_csv('songs_Atrributes_trimmed.csv', index = False)
+songsAttributes.to_pickle('songs_Atrributes_trimmed.pkl')
 
 songs = pd.read_csv("songs.csv", engine = 'python', delimiter=",")
 songs['trackID'] = songs['trackID'].str[14:]
@@ -41,6 +42,7 @@ songs['lastNotation'] = lastNotation
 songs['amountOfNotations'] = amountOfNotations
 songs = songs.drop(['Unnamed: 0', 'song_id', 'explicit', 'popularity', 'position'], axis=1)
 songs.to_csv('songs_trimmed.csv', index = False)
+songs.to_pickle('songs_trimmed.pkl')
 
 artistsAttributes = pd.read_pickle('artists_attributes.pkl')
 artistsAttributes = artistsAttributes.reset_index(drop=True)
@@ -77,3 +79,4 @@ for index, row in songs.iterrows():
 dicttodf = pd.DataFrame.from_dict(tempdict, orient = 'index')
 artistsAttributes = pd.merge(artistsAttributes,dicttodf, how= 'outer',left_on="id" , right_index= True )
 artistsAttributes.to_csv('artistsAttributes_trimmed.csv', index = False)
+artistsAttributes.to_pickle('artistsAttributes_trimmed.pkl')
