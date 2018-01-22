@@ -26,14 +26,10 @@ os.chdir(working_dir)
 
 # load dicstionary 
 related_artists = load_obj('related_artists')
+
+# load artist attributes
 artist_attributes = pd.read_csv('artists_attributes_trimmed.csv', engine = 'python')
-songs = pd.read_csv('songs_trimmed.csv', sep=',', engine = 'python')
-songs['artistIDs'] = songs['artistIDs'].apply(eval)
-#%%
-objs = [songs, pd.DataFrame(songs['artistIDs'].tolist())]
-res = pd.concat(objs, axis=1).drop('artistIDs', axis=1)
-#%%
-res = pd.melt(_, var_name='artist_num', value_name='artistID', value_vars=[0, 1, 2], id_vars=['trackID'])
+
 #%%
 
 # create dataframe with all source -target combinations
@@ -68,5 +64,16 @@ adjacency = pd.crosstab(index = df['source'], columns = df['target'])
 #adjacency.to_csv('adjacency_artists_matrix.csv')
 df.to_csv('adjacency_artists_edges_top80.csv')
 #%%
-import seaborn as sns
-sns.heatmap(adjacency)
+""" expand list of songs per artist and get average song attributes per artist """
+songs = load_obj('songs_trimmed')
+songs_attributes = pd.read_csv('songs_attributes_trimmed.csv', engine = 'python')
+s = songs.apply(lambda x: pd.Series(x['artistIDs']),axis=1).stack().reset_index(level=1, drop=True)
+s.name = 'artistID'
+songs2 = songs.drop(['artistIDs','trackName', 'artistnames', 'albumID', 'firstNotation', 'lastNotation', 'amountOfNotations'], axis=1).join(s)
+songs_attributes_artists = pd.merge(songs2, songs_attributes, left_on ='trackID', right_on = 'id')
+songs_attributes_artists = songs_attributes_artists.drop('id', axis = 1)
+artists_averages = songs_attributes_artists.groupby(['artistID']).mean()
+artists_averages['artistID'] = artists_averages.index
+artists_averages.to_csv('artists_average_songattributes.csv')
+#%%
+#songs2.to_csv('songs_trimmed_expanded.csv')

@@ -1,5 +1,7 @@
 Following files come in csv only
 	songs: all top40 songs retrieved from Spotify after cleaning
+	adjacency_artists_edges: all edges in the related artist graph
+	adjacency_artists_edges_top80: edges of the top 80 artists wrt number of songs in the top 40
 
 Following files come in csv and pkl (Python object)
 	songs_attributes: audio features retrieved from Spotify

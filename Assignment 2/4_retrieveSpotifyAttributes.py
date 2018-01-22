@@ -86,7 +86,7 @@ working_dir = '/Users/hildeweerts/2IMV20---Visualization/Assignment 2/Results/'
 os.chdir(working_dir)
 
 # read songs data
-songs_3 = pd.read_csv('songs.csv', engine = 'python')
+songs_3 = pd.read_csv('songs_trimmed.csv', engine = 'python')
 #%%
 """ retrieve audio features of all songs """
 song_ids = songs_3.reset_index()['trackID']
