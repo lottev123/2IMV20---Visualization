@@ -99,6 +99,10 @@ falseMatches = spData[spData.song_id.isin(falseMatchesIds)]
 needToBeRemoved.extend(spData[spData.index.isin(falseMatchesIds)]['trackID'].str[14:].tolist())
 spData = spData[~spData.song_id.isin(falseMatchesIds)]
 
+'28L6g25xXqjuE742YjxX71' in needToBeRemoved
+'28L6g25xXqjuE742YjxX71' in songs['trackID'].values
+
+
 #%%
 "CREATE LIST WITH OCCURENCES IN TOP40"
 spData = spData.reset_index(drop=True).reset_index(drop=True)

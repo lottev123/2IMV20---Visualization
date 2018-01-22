@@ -14,10 +14,12 @@ os.chdir(working_dir)
 
 songsAttributes = pd.read_pickle('songs_Attributes.pkl')
 songsAttributes = songsAttributes.drop(['analysis_url', 'key', 'track_href', 'type', 'trackID'], axis=1)
-songsAttributes.to_csv('songs_Atrributes_trimmed.csv', index = False)
-songsAttributes.to_pickle('songs_Atrributes_trimmed.pkl')
+songsAttributes.to_csv('songs_atrributes_trimmed.csv', index = False)
+songsAttributes.to_pickle('songs_atrributes_trimmed.pkl')
 
+#%%
 songs = pd.read_csv("songs.csv", engine = 'python', delimiter=",")
+"""songs that were wrongly matched as found in script 3"""
 needToBeRemoved = ['2xrQS0PDuIoU19lwOxGuaO', '2o8MI4k9Ffys7LMizikJoV', '6BIel0aZTaHBh3EhdPhOGw',
  '2znfz3w0a9Yb7CG5YDDeqo', '28L6g25xXqjuE742YjxX71', '2gtAWpwS1Z9gn5z4gY8joj', '1gQPqkrPZ1RypZvSYEAygs',
  '2TDVv0j4Xwel5BH1DezX71', '3Q1QR8f7kYWTs5TlawHAa2', '4uZs5CJ916xdWmjwqLYvYH', '3PS67MAgYRrbAUsAClxBRx',
@@ -40,8 +42,8 @@ needToBeRemoved = ['2xrQS0PDuIoU19lwOxGuaO', '2o8MI4k9Ffys7LMizikJoV', '6BIel0aZ
  '066VpprkGzxtCrNMKFcVDD', '4KMhriFpKcXQ6wqzNZfWxq', '1BF3Y8qD37KtAfwTAs8KO2', '7JWdlf8DvnmgcM4fbOuswU',
  '1pEehXkwiTLzKgOV3ULU78', '1fr92Vupmcs2vgLMFVQ7rd', '6mcu7D7QuABVwUGDwovOEh', '6a8xKUtrUdHGkKpokFQ6a5',
  '2cq0GKhCzYHJ1nr4vWOL30', '3Ka2Ti5ZreEHlp9R7BXyOj', '5r3aYGutXgsxSqB6W3RrzJ']
-songs[~songs['trackID'].isin(needToBeRemoved)]
 songs['trackID'] = songs['trackID'].str[14:]
+songs = songs[~songs['trackID'].isin(needToBeRemoved)]
 songs['albumID'] = songs['albumID'].str[14:]
 artistIDs = []
 for element in songs['artistIDs']:
@@ -63,7 +65,6 @@ for row in songs['position']:
 songs['firstNotation'] = firstNotation
 songs['lastNotation'] = lastNotation
 songs['amountOfNotations'] = amountOfNotations
-
 #%%
 charts = pd.read_pickle('ranklijst.pkl')
 duplicates = songs[songs.duplicated(['trackID'])] #df with every first element of a duplicated group
@@ -88,7 +89,7 @@ songs = songs.drop(['Unnamed: 0', 'song_id', 'explicit', 'popularity', 'position
 songs.to_csv('songs_trimmed.csv', index = False)
 songs.to_pickle('songs_trimmed.pkl')
 
-
+#%%
 artistsAttributes = pd.read_pickle('artists_attributes.pkl')
 artistsAttributes = artistsAttributes.reset_index(drop=True)
 a = artistsAttributes[artistsAttributes.duplicated(['id'])==True]
@@ -123,5 +124,5 @@ for index, row in songs.iterrows():
 
 dicttodf = pd.DataFrame.from_dict(tempdict, orient = 'index')
 artistsAttributes = pd.merge(artistsAttributes,dicttodf, how= 'outer',left_on="id" , right_index= True )
-artistsAttributes.to_csv('artistsAttributes_trimmed.csv', index = False)
-artistsAttributes.to_pickle('artistsAttributes_trimmed.pkl')
+artistsAttributes.to_csv('artists_attributes_trimmed.csv', index = False)
+artistsAttributes.to_pickle('artists_attributes_trimmed.pkl')

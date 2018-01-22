@@ -218,7 +218,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2L5xi76mB2qwg00CMkuyEN,Cozi,2007,2008,9,2
 0V6iWD05yAOe1C3pJpbMbk,One Night Only,2008,2008,9,1
 1l2c9qjUoZeLoDwH80nr3h,Iwurdplay,1981,1981,12,1
-5OfhOoKunSnuubxxRML8J3,Mr. Big,1974,1994,30,4
+5OfhOoKunSnuubxxRML8J3,Mr. Big,1992,1994,28,3
 1w9siRuoCBkWA60hGoXZCQ,Syreeta Wright,1980,1980,9,1
 4W9Qd21A3mUPFufnSvdFWK,Frank Galan,1996,1996,14,2
 2zyz0VJqrDXeFDIyrfVXSo,Jerry Lee Lewis,1972,1991,22,4
@@ -226,7 +226,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5uFqO7FceiE84xjEjFtQLX,Skyy,1982,1982,3,1
 1lYT0A0LV5DUfxr6doRP3d,The Stone Roses,1990,1990,8,1
 5TR2Km7huTC8vz12FqEufQ,David Alexandre Winter,1969,1969,8,1
-0B5wTZkVN31t4d6BcgLWm2,Sunfreakz,2007,2007,11,1
+0B5wTZkVN31t4d6BcgLWm2,Sunfreakz,0,0,0,0
 798jna9kARx9oMPF1QT9Yb,Scent,2004,2004,5,1
 5lD4NOWjS7yf69zIK46Chy,Kelly Marie,1977,1980,17,2
 2RsCWx7uXRsE8PPoy0bL8E,Barry,1978,1980,15,2
@@ -262,7 +262,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5RwfJb8wxN1fuodcPORVxP,José Luis Perales,1975,1975,4,1
 0RxPSSczzlWaj26q2wGDhn,Secchi,1991,1991,5,1
 28ztjHIXceRRntmTUfnmUX,Khaled,1992,1996,15,2
-3jBNLmJDEBWEoidTT7l1Jn,Nick & Simon,2006,2013,127,16
+3jBNLmJDEBWEoidTT7l1Jn,Nick & Simon,2006,2013,117,15
 6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,2016,2016,19,1
 20v3nhzoeaO2WvDSCdY0f4,First Choice,1977,1977,4,1
 08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,1968,1990,186,19
@@ -417,7 +417,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7c5qu1gNlg8jWDzzmlp89O,Kraak & Smaak,2008,2008,12,1
 3v9MZmw1IG2e82Vsyu4Zre,Kim Lukas,1999,1999,12,1
 6nzxy2wXs6tLgzEtqOkEi2,Monica,1995,1998,14,2
-1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1967,1998,309,40
+1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1967,1998,300,39
 3miNucraVWk4hdVsIxn7id,Eric Burdon,1970,1971,8,2
 2ITbqEgyp32vL3BxEFmQ1V,Shane 54,2009,2009,6,1
 7f2OJmIkkCaZKY5ySpGrpe,SvD,2007,2007,4,1
@@ -427,7 +427,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5y2Xq6xcjJb2jVM54GHK3t,John Legend,2005,2016,134,10
 3gMaNLQm7D9MornNILzdSl,Lionel Richie,1981,2008,159,18
 2auikkNYqigWStoHWK1Grq,John Martin,2012,2012,20,1
-5IDs1CK15HegSAhGEbSYXo,Billy Ocean,1976,1988,88,9
+5IDs1CK15HegSAhGEbSYXo,Billy Ocean,1977,1988,82,8
 1Q3EpX7QwLhXCsAZs72jIc,Golden Earrings,1968,1968,13,1
 4eb7QPyORtTxhMiLBo3YWK,The Outhere Brothers,1994,1995,28,3
 6ASGmWCYupa0CXGtsDdYSI,Jamie Lidell,2006,2008,12,2
@@ -438,7 +438,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 02G9FyVBIh3StH9Ru2TZby,Dan The Banjo Man,1974,1974,4,1
 6AJXtJJa6cmkqKTDHaMIDg,Yukkie B,1999,1999,3,1
 3rJ3m1tM6vUgiWLjfV8sRf,Jimmy Cliff,1969,1995,64,10
-2JyxVsEiD9HVRM7CtFaLCK,Timi Yuro,1981,1982,17,3
+2JyxVsEiD9HVRM7CtFaLCK,Timi Yuro,1981,1982,9,2
 4q3lWHEW55hoLJNzZskFVo,Loose Ends,1985,1985,4,1
 5CbgOB3gr7V6eY4WKzCpav,Jantje Koopmans,1986,1986,3,1
 4huJyydJJ5UeK2tSuZ70gc,"Samuel J. ""Tone"" Barnes",2001,2001,11,1
@@ -458,7 +458,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0AD4odMWVQ2wUSlgxOB5Rl,Jeff Beck,1967,1967,13,2
 49HPMFWsosCuRf810Ay1Vv,Kurt Nilsen,2004,2004,12,1
 2lolQgalUvZDfp5vvVtTYV,Tony Bennett,2011,2011,2,1
-4bl1ZfRwVhSCkiVQNMWtcy,Jürgen Marcus,1972,1976,29,5
+4bl1ZfRwVhSCkiVQNMWtcy,Jürgen Marcus,1972,1975,23,4
 119CgQj02xyMpOobWjdb3C,Reinhard Mey,1974,1975,17,2
 2YLxwK8ceDNaG8RHhtkcQh,Evelyn Thomas,1984,1984,10,1
 7jGonUtfSFZgtQ6hKbqyBr,Manke Nelis,1987,1987,8,1
@@ -483,7 +483,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 34VJ0gBA7fVJKhrKQtJJvv,Sissy Penis Factory,1991,1991,6,1
 4TvQ6wnXv3aDNv29JH6App,Red Box,1987,1987,9,1
 5bVJpsSUXKI9qlMu2Le2Wa,Rainbow Train,1978,1979,9,2
-2wpWOzQE5TpA0dVnh5YD08,Bronski Beat,1984,1985,40,5
+2wpWOzQE5TpA0dVnh5YD08,Bronski Beat,1984,1985,33,4
 4I7KSNpB2zt6XTyCXw7ca9,Willy DeVille,1992,1992,8,1
 6ALuTGOzgoIUnuiyvqvMW2,Plavka,1994,1994,14,2
 1HNv46bFWsGwFDZkEcHK8h,Negativ,2005,2005,6,1
@@ -501,7 +501,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2R1QrQqWuw3IjoP5dXRFjt,Marlon Roudette,2012,2014,19,2
 33EUXrFKGjpUSGacqEHhU4,Iggy Pop,1977,1990,27,3
 1D33JhHkXxj78Y8oiyg41L,Sandy Marton,1984,1984,3,1
-6q6D8PiXlLQKNlCGjDyVrI,Albert 2 Stone,1982,1995,19,2
+6q6D8PiXlLQKNlCGjDyVrI,Albert 2 Stone,0,0,0,0
 25uiPmTg16RbhZWAqwLBy5,Charli XCX,2013,2017,37,3
 52qx8aMzSqi7JTJUI2dJqZ,Wally Lopez,2002,2002,2,1
 7AC976RDJzL2asmZuz7qil,Yes,1972,1983,12,2
@@ -592,7 +592,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,2008,2016,79,8
 29r633A8MJhwlkoljEf1L0,Belle Epoque,1977,1977,17,2
 457yGSZecENoIuNWelRHhH,The Love Unlimited Orchestra,1974,1974,12,2
-4tjExQmpfVql6Q9Xc5grbV,Margriet Eshuijs Band,1982,1982,7,1
+4tjExQmpfVql6Q9Xc5grbV,Margriet Eshuijs Band,0,0,0,0
 5GGArKyB5Mg7kTFZYJ2P5n,Kim Appleby,1990,1991,17,2
 0IZOhsr3Op37HDx486FXBe,John Dummer's Famous Music Band,1971,1971,8,1
 7LdEfCVOGOJ2jaAxsmnTeN,Spider Murphy Gang,1982,1983,12,2
@@ -639,7 +639,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4HQPu8xlD0YTKmUhCsty3a,Steve Mac,1998,1999,21,2
 1J2VVASYAamtQ3Bt8wGgA6,Ja Rule,1999,2004,70,9
 5OPSpcX9nVVWCIOKcoM4ot,People's Choice,1975,1976,14,2
-340HmOr2JbZmH0a385jG52,Renee,1979,1983,19,3
+340HmOr2JbZmH0a385jG52,Renee,1979,1982,11,2
 6RP00BexofXuVNBtlZRx5C,Racing Cars,1977,1977,5,1
 3XToFwD4zzZA8fhjlkt5Qi,Shaft,1999,1999,11,1
 3ePG42BqYBIZKBxzwVwe9L,C.C. Sheffield,2009,2009,7,1
@@ -712,7 +712,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 67FFKYikvTlvsPNk4NPOYJ,Baha Men,2000,2000,14,1
 0HEYYCxiGofDc2SPExvo39,The Surfers,1978,1979,20,2
 0d49iRrp4iVZggKbcpxnqI,The Quireboys,1990,1990,4,1
-1GikE2BMqNzYZSUmVJKxVc,Andre Hazes & Het Nederlands Elftal,1988,1994,15,2
+1GikE2BMqNzYZSUmVJKxVc,Andre Hazes & Het Nederlands Elftal,1994,1994,8,1
 1eLxAzPSnsl03ajNNihddF,Jayh,2011,2016,26,4
 3vut65mkraKy6kh3jYjGPX,Skipper Wise,1990,1990,4,1
 3r2qdoM2Ryp8aBb3S3qIG1,Novastar,2008,2009,10,2
@@ -742,7 +742,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3TbvMV1Zqamb8528RW4zEs,Ronald & Donald,1974,1974,10,1
 2Uz9xrNR2NM0UmyISbcLyQ,Daniel Bovie,1994,1994,3,1
 4XQhU3S4TyPkiPIsSu2hmA,Diggy Dex,2009,2016,40,3
-5OGGl9PHZq5AAArosKBFIz,Herrey,1984,1984,8,1
+5OGGl9PHZq5AAArosKBFIz,Herrey,0,0,0,0
 0c173mlxpT3dSFRgMO8XPh,Big Sean,2011,2017,35,3
 12TNXxHqXaIwJjgd6C9O4X,Carel Kraayenhof,2002,2003,18,2
 0typb8qieEFeIgmQ4K03qZ,Bram Tchaikovsky,1979,1979,3,1
@@ -779,7 +779,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6irsncmHuDIN0daWPyEZ6Y,Kadoc,1996,1996,9,1
 79Gg0tmzETfnVrOUjgXPeE,Dajae,1993,1993,4,1
 1NRzxuPpdGushT8YmF5NAa,Edison Lighthouse,1970,1970,6,1
-5NxReALtkrGrm7X0KAkiVM,Let The Music Play,1981,1981,9,1
+5NxReALtkrGrm7X0KAkiVM,Let The Music Play,0,0,0,0
 7y8lzaGqtadGmtAtg2SGv4,Beth Ditto,2011,2011,4,1
 5ILrArfIV0tMURcHJN8Q07,Vanessa Carlton,2002,2003,28,2
 4ujjmWsaeth22P6EdnMCrR,Gary Brooker,1979,1986,8,2
@@ -873,7 +873,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2T23Kx4T2uZ7JFVpRiG2H1,Daniel,1983,1983,8,1
 2qiKys2IowQZ2yCDNTN610,De Deurzakkers m.m.v. F.C. Den Bosch en De Kikvorschen,1975,1975,5,1
 5exS0bytCYdixgv02DaCm3,William Singe,2017,2017,24,1
-5JRQN1PslNH3W77jakgryr,The Flux Fiddlers,1971,1971,6,1
+5JRQN1PslNH3W77jakgryr,The Flux Fiddlers,0,0,0,0
 77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,1977,1984,29,5
 4toJT7YydhWcrYNgWJK4hW,Five Star,1985,1987,45,7
 1JJQnWXsIpAKIvcWJGUtfg,John Fred and His Playboy Band,1968,1968,11,1
@@ -904,7 +904,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3EA9hVIzKfFiQI0Kikz2wo,Andrea Bocelli,1989,1996,23,4
 1BMb6sQJVkmUyCuodmRs2g,Oleta Adams,1989,1995,37,7
 1XucD9urBtUadfCNvZc4Pp,Vanessa-Mae,1983,1983,4,1
-6VBd6EXDkDR7D9UjtEUtFn,Renato,1983,1983,8,1
+6VBd6EXDkDR7D9UjtEUtFn,Renato,0,0,0,0
 4QgLZ8nDYxhOWOAYYypKd9,Rockefeller,2005,2005,8,1
 6EYEbuEhF2WMVU47iUJNBS,Gio,2005,2007,15,2
 1UHDrnoEHrUNYhuSdY44KF,Nico Landers,1994,1994,10,1
@@ -966,7 +966,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,1988,2008,145,21
 77OlE8SkEHDkJczfswzDFo,Chanté Moore,2001,2001,3,1
 0Hb55KdLVXULhk6dCfy0FQ,Jos van Oss,2010,2010,3,1
-0MvSBMGRQJY3mRwIbJsqF1,Royal Philharmonic Orchestra,1981,1981,7,1
+0MvSBMGRQJY3mRwIbJsqF1,Royal Philharmonic Orchestra,0,0,0,0
 12FFWdcxApUNXV9TljwDpT,Gheorghe Zamfir,1976,1976,6,1
 5mCyKKJpgZfjRFuXPsoFm5,Dean,2011,2011,4,1
 18xgcedCGxFbqLbIQn5R8F,Miami Sound Machine,1984,1988,53,6
@@ -1092,9 +1092,9 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7bvSqmMPtWeU0fhDSLgHqI,Hermien,1972,1972,7,1
 7nFnpiZsGJ0ovhhGtHA24Y,Gary Fane,1980,1980,7,1
 1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,0,0,0,0
-7tHnjTalsDvbtONFh3gnvO,Michael Zilas,1993,1993,6,1
+7tHnjTalsDvbtONFh3gnvO,Michael Zilas,0,0,0,0
 5PYuBRQMHh7nWmdV076sH9,Heaven 17,1983,1993,10,2
-3Oo8huPRjjTgwOzVYf8DbS,Heintje En Gert,1968,1968,4,1
+3Oo8huPRjjTgwOzVYf8DbS,Heintje En Gert,0,0,0,0
 3rIFlp14SwbtFe5r70bGdC,Dennie Christian,1975,1985,52,7
 6w6z8m4WXX7Tub4Rb6Lu7R,Jethro Tull,1969,1969,9,1
 6F9RWjBvRtYDrlFVW9Ut7M,Jesse Green,1976,1976,21,2
@@ -1187,13 +1187,13 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 1ThoqLcyIYvZn7iWbj8fsj,Bill Withers,0,0,0,0
 2RRYkRab5RkxDxMFLV1kJI,Ties,2002,2002,9,1
 5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,1996,2005,148,16
-3mSaa57Xj7F5bEhWvomWdD,Tropical Highlight & Vibetech,1978,1978,7,1
+3mSaa57Xj7F5bEhWvomWdD,Tropical Highlight & Vibetech,0,0,0,0
 7cp62T0Av3mTgy0imKzat7,D'N'D Productions,2002,2002,6,1
 0mYZHh8ztw55DH1fbfLLDz,Eric Smax & Thomas Gold,2007,2007,4,1
 4IyViTeuxgEmgtUhji4M93,Damaru,2009,2009,20,1
 2qSEpijpT3YSXgxcXac1ly,Chris Willis,2007,2010,32,4
 6bOYtKnpLPQSfMpS2ilotK,Bobby Vinton,1972,1972,10,1
-0f2Q9qJlMhc4tw2kmvnnnV,Julian Slade,1983,1983,7,1
+0f2Q9qJlMhc4tw2kmvnnnV,Julian Slade,0,0,0,0
 1NUD5By34MFynmuUynCfSj,The Real Thing,1976,1986,34,4
 2XzHxDFTNywDd5ReMhgxkg,The Whispers,1980,1981,15,2
 51hRQLOySCpDBsBL6C03IZ,The Detroit Emeralds,1973,1973,11,1
@@ -1391,7 +1391,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6QszCVesupkhkaBeKGvrNu,Baby D,1994,1994,7,1
 4Tccxc2yd5ee0mrfMih7iS,US Air Force Airmen Of Note,1974,1974,8,1
 1i9NxPRrKcoW34XTMnvzJy,Sylver,2001,2003,23,4
-7d8R11w4QG2ihJeTaZq37F,Donny & Marie Osmond,1974,1974,13,1
+7d8R11w4QG2ihJeTaZq37F,Donny & Marie Osmond,0,0,0,0
 3eOdPnePnCcBOGcTqHk7DI,The Skope,1967,1967,4,1
 3OtZV9aCZ6G004vjOQcf59,English Baroque Soloists,1970,1970,3,1
 3sMYEBy0CZFxedcnm9i9hf,Frankie J,2004,2004,3,1
@@ -1459,7 +1459,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6nxKcnBm27DcV7ZbSdJW2W,David Grant,1985,1986,15,2
 5tG5dl5mS2wB5w72YBpsyg,Herbert Grönemeyer,1988,1988,5,1
 2uJPnLW3muLMdYB3H61h5K,Sarah Lynn,2001,2001,7,1
-2lE2zZPp1HYkvcGiQ8a3eM,Line Dance Classics,1989,1989,9,1
+2lE2zZPp1HYkvcGiQ8a3eM,Line Dance Classics,0,0,0,0
 2hSWsXrlPQqshm4SFizxiU,RedRoche,2008,2008,4,1
 5FZhjOOsYjcshzz1tEAjZ9,Jack McManus,2008,2008,7,1
 72VzFto8DYvKHocaHYNWSi,Hot Chocolate,1974,1983,85,11
@@ -1565,7 +1565,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7FZqbNdkNb0UVVze7L8PGp,Hep Stars,1968,1968,12,1
 4i0NOuA8XvyzLJl7qqMUfw,Champagne,1976,1979,49,7
 3hJv5p2HwekJysNB2NDnEC,André Rieu,1994,1995,31,2
-62PX3OQkEoeKHjbsZfpOgV,Flip Da Scrip,1997,1997,4,1
+62PX3OQkEoeKHjbsZfpOgV,Flip Da Scrip,0,0,0,0
 0BUTvSwaoKcP9ucuEyyYpr,Cassandra,2001,2001,8,1
 6ups229w24QPVgpwi1Hha6,David Bianco,1994,1994,3,1
 1RP2UpEaRzkF0Id3JigqD8,Roger Miller,1965,1965,9,1
@@ -1604,7 +1604,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2jhRmf0F3rOGf8pzQvoC8J,Innocence,1990,1990,3,1
 2yqOp5zkBmCvwF5Hmtj6ZL,June Lodge,1982,1982,6,1
 6htHgk48aAS94faA48Jq3w,Raul Orellana,1989,1989,4,1
-5srM2cJMm4NIYyUhGD7owH,Rika Zaraï,1969,1969,9,1
+5srM2cJMm4NIYyUhGD7owH,Rika Zaraï,0,0,0,0
 3Dm7LtboNpBXP9FkhKacj8,Rob n Raz,1989,1993,22,3
 7aXDGr3cUBmH2Kx1yBC7Ux,Love Affair,1969,1969,7,1
 0btJOGtwzlnKwg8mz50dTV,Tony Scott Vs House Sound of Chicago,1990,1990,5,1
@@ -1674,7 +1674,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2AocfyglsHV2wP3IobPCyH,Eileen,1975,1975,7,1
 2GyakhIO8twSgCnUFfCzTN,JXL,2002,2002,15,1
 24G6cu7ELj9dUOaSG0p3Jx,Thunderbugs,1999,1999,3,1
-5alZu2pIF8iEbK4egRkPy8,Long Tall Ernie & The Shakers,1973,1978,57,9
+5alZu2pIF8iEbK4egRkPy8,Long Tall Ernie & The Shakers,1973,1977,48,8
 6loBF9iQdE11WSX29fNKqY,Howard Jones,1984,1985,9,2
 57Pw3FSi1qi2fOY4wKOKjK,Akcent,2005,2006,23,2
 0j652LbUrrLa5fwko62bNc,André Paquinet,1972,1972,13,1
@@ -1690,7 +1690,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3gdIwZY6Q3RXhDteYr4ZvC,Sophie B. Hawkins,1992,1995,9,2
 0Zywteh8L1KxeH49Ratb9Q,Jack Jefferson,2015,2015,28,1
 1pbHrVayIcVpHI9z97u4bK,Bingo Players,2011,2014,20,3
-6PpGPIrFf3LM7Q77eR4Bts,Hues Corporation,1974,1975,11,2
+6PpGPIrFf3LM7Q77eR4Bts,Hues Corporation,1974,1974,8,1
 095aE5NoWPQE5pOYuNJXJD,Michelle Gayle,1995,1995,5,2
 1bdytLV3FPjyhfrb6BhMej,Asia,1982,1982,3,1
 6nDLku5uL3ou60kvCGZorh,Bloodhound Gang,1997,2006,30,4
@@ -1703,7 +1703,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5ChF3i92IPZHduM7jN3dpg,Nicky Romero,2013,2013,18,1
 04aQfpx1U1WQEJkrvGs4ig,Dalida,1974,1976,21,2
 5FrPjxy7XC0PxRNZ80KEGO,Mike Berry,1975,1975,10,1
-33Ylb9qERdtGCIO1Y0RdSe,Hans Versnel,1991,1991,5,1
+33Ylb9qERdtGCIO1Y0RdSe,Hans Versnel,0,0,0,0
 6Dy7Ex5zlTLgXbsB92rPji,iSHi,2011,2011,7,1
 40PLSl99xXqAQsCQQPmfyM,Kym Sims,1992,1992,5,1
 3sc7iUG1Wwpwx7bHeZolgx,Bananarama,1982,1992,60,10
@@ -1729,12 +1729,12 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2gsggkzM5R49q6jpPvazou,Jessie J,2011,2014,59,4
 2x8IIf3l8n2kJgLOxcYP29,Koos Alberts,1984,1996,97,17
 44h2oaMjofGcXfryCCVzhV,Lisa Scott-Lee,2003,2003,3,1
-53nchBwQdpbLGpj7fdyZX5,Jantje Smit,1997,1998,17,2
+53nchBwQdpbLGpj7fdyZX5,Jantje Smit,1997,1997,8,1
 0G0hIl1jIQmEx7d2ZRokju,Myon,2009,2009,6,1
 1zRwW2z5JOtEgK5OESwlgx,Chris Lord-Alge,1989,1989,4,1
 7vBGVjjUKLWS8zLNSYwVVC,Sono,2009,2009,5,1
 4EXqzWnfY1Mb08L7WTG4zk,Sílvio Ramiro,1975,1975,6,1
-1fVkoaWNbsSwb7KAG2fboU,Two Man Sound,1972,1972,4,1
+1fVkoaWNbsSwb7KAG2fboU,Two Man Sound,0,0,0,0
 5GUVj2b1lJ4DolQyHlzyaO,Blind Faith,1969,1969,6,1
 3STJooaV48Du0c6tfZ5PIe,Frida Boccara,1969,1969,9,1
 2s79xe5F6eUQkjwjww27Fh,ABC,1982,1988,35,6
@@ -1799,7 +1799,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4463nfFMmK1cwAWBQDwT5e,Laura Branigan,1984,1984,11,1
 3KGQvnOoqUHi3KxKQMZtXr,The Box Tops,1967,1967,11,1
 6XNNAZyTxhw3IRa0xyRBeo,Man,1969,1969,4,1
-6vLlQYujOujIrm7zAKzEdG,Donovan,1965,1969,89,10
+6vLlQYujOujIrm7zAKzEdG,Donovan,1965,1969,81,9
 7GX2gCRXdMjTZCVmt3yr9Q,MISTRAL.,1977,1978,19,3
 77OXNKbzOTqmzhSdHPS187,De Toppers,2007,2012,13,2
 5lKZWd6HiSCLfnDGrq9RAm,Leona Lewis,2008,2008,31,2
@@ -1843,7 +1843,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6h3rSZ8VLK7a5vXjEmhfuD,The Brothers Johnson,1977,1980,14,2
 1Ykx49KpY0FqIXUwyuD3TJ,Banda Blanca,1991,1991,3,1
 2E4lzxgBnCEqLawsXeRKWp,Tomcraft,2003,2003,7,1
-54R6Y0I7jGUCveDTtI21nb,Boney M.,1975,1993,158,17
+54R6Y0I7jGUCveDTtI21nb,Boney M.,1975,1984,152,16
 7ulta4AVH43iWAIh2rhWve,Aquagen,2002,2002,5,1
 1tY1qrN4BoHjs6eKNsr6ja,Ironhorse,1979,1979,5,1
 2ltpcCK86foogli20z9raq,The Royal Guardsmen,1967,1967,12,1
@@ -1971,7 +1971,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7BEfMxbaqx6dOpbtlEqScm,Captain & Tennille,1980,1980,11,1
 3csSQdDVhJlP3BUOoZ2N2H,Mother's Finest,1978,1978,9,1
 4D4kLL83cSMZ4oRj6883nM,Duke,1995,1995,12,1
-4STHEaNw4mPZ2tzheohgXB,Paul McCartney,1971,1993,100,15
+4STHEaNw4mPZ2tzheohgXB,Paul McCartney,1971,1993,90,14
 3nehQYJBwZ8iLlPSvTNEBr,The Riders,1994,1994,7,1
 7r6blcyGDrOxcbrRTnXG4B,The Herd,1967,1967,10,1
 2PvqyOwynRF4BveaU6IA7S,S'Express,1988,1988,17,2
@@ -2070,7 +2070,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2jS7I1u7BpgWT9ssG62Zr1,Lisa Stansfield,1989,1993,46,7
 5v8jlSmAQfrkTjAlpUfWtu,Perry Como,1971,1971,5,1
 0bdfiayQAKewqEvaU6rXCv,MØ,2015,2016,73,3
-3E8UUruLltxgKDDzaunvV6,John Warner,1983,1983,7,1
+3E8UUruLltxgKDDzaunvV6,John Warner,0,0,0,0
 5V22HAzz3d8zQCbWdpJiJh,Warp 9,1994,1994,8,1
 6vbY3hOaCAhC7VjucswgdS,Twista,2004,2004,7,1
 4ui9JwXE5MHylLzpsoiEhr,Sonny Bono,1965,1965,4,1
@@ -2145,14 +2145,14 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7DEseTqRODmSu3C7jxCHl5,The Boxer Rebellion,2013,2013,3,1
 6CY5pbdf5XDjkJf8lAaljU,Silver Pozzoli,1985,1985,11,2
 28Y5nsvbE8IdoUAGNgCk0Y,Marsha,2001,2001,4,1
-2eogQKWWoohI3BSnoG7E2U,Donna Summer,1974,1995,158,23
+2eogQKWWoohI3BSnoG7E2U,Donna Summer,1974,1995,154,22
 3Llaa1wsUdDPjKmkgkQWw9,Fouradi,2007,2008,15,3
 4QxY3hKAwcrjw7zcjsNcC4,Electrokingdom,1987,1987,5,1
-6ThKRSpihtIxggE89U0fRb,Dante Thomas,2001,2001,14,1
+6ThKRSpihtIxggE89U0fRb,Dante Thomas,0,0,0,0
 1X8wFHJFucBUmBc7spQ4jP,The Edge,1995,1995,14,1
 27aNYoqLUzogd4oSliq1Md,De Poema's,1999,2003,37,3
 761xE3Wn7hz2BXKeKxccx2,Andre Van Den Heuvel,1967,1967,23,1
-3REpOYo13YkVj1dFzda12A,Shalamar,1977,1982,17,3
+3REpOYo13YkVj1dFzda12A,Shalamar,1980,1982,11,2
 0vYQRW5LIDeYQOccTviQNX,Kris Kristofferson,1973,1973,3,1
 60df5JBRRPcnSpsIMxxwQm,Otis Redding,1966,1969,71,8
 3RnBzCfr8bQeLQQMGF6IeE,Joe Public,1992,1992,9,1
@@ -2410,7 +2410,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5mNloTgSaf5qCyk48t9NSP,Josey Scott,2002,2002,5,1
 0JC8fApZ0JsACbWfNuzjLd,MC Breeze,1991,1991,8,1
 2F5wMdLUctQWVWCrn2TsiO,Ome Henk,1991,1999,36,4
-7qShKycqNUP0GLEiTENDVZ,Womack & Womack,1984,1991,38,5
+7qShKycqNUP0GLEiTENDVZ,Womack & Womack,1984,1989,33,4
 4WMHJgeJCssiGW3ssUT7eb,Johann Strauss I,1995,1995,3,1
 2cGwlqi3k18jFpUyTrsR84,The Verve,1997,1997,9,1
 4ahnElvHT3CdUxnnjpscDI,Hot Blood,1977,1977,9,1
@@ -2428,7 +2428,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5k1FBxAglBtDC8H26LOo4F,Drukwerk,1981,1984,46,7
 6KNBmBm4wh1b16dpQTI0OG,Big Wheel,1969,1969,8,1
 3w34NmNWqcGYg85t7ALa2D,Kayak,1973,1981,46,9
-4MemmlgzggtJ4BqRfripOy,Eleanor Drew,1983,1983,7,1
+4MemmlgzggtJ4BqRfripOy,Eleanor Drew,0,0,0,0
 6h2bWHWTJL38N8dqocVaif,Jon Bon Jovi,1990,1999,16,4
 5TnuP42pw475UrjjeabtwZ,The Waterboys,1986,1986,7,1
 13y0kncDD4J9wxCyfKr10W,Bette Midler,1984,1996,25,3
@@ -2634,11 +2634,11 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3enaYEWvKatANTbLxRVMaR,Joey B. Ellis,1991,1991,8,1
 695W5F2Ih8dYahLdjVOIoH,Christopher Cross,1981,1983,13,2
 26BL0aeVS96sje8JfCNfUk,Totó La Momposina,2009,2009,9,1
-530Sdm7eqqzWBdDmILMgnu,Robert Palmer,1978,1991,31,6
+530Sdm7eqqzWBdDmILMgnu,Robert Palmer,1978,1986,27,5
 3Dd6jD1AApgtNoU6SJWR7P,Anita Ward,1979,1979,12,1
 7CajNmpbOovFoOoasH2HaY,Calvin Harris,2011,2017,147,8
 0iOVhN3tnSvgDbcg25JoJb,Etta James,1996,1996,4,1
-0v4CvkMzWBQ1wZIMl2BqQW,Frans Bauer,1994,2008,136,25
+0v4CvkMzWBQ1wZIMl2BqQW,Frans Bauer,1994,2008,118,22
 6I3M904Y9IwgDjrQ9pANiB,Kenny G,1987,1997,9,2
 75fOSyEWugUNS2xHdv66Zk,"Allen Gordon, Jr.",1993,1993,9,1
 2gB8Qky1qIGZCuLjU5N1XQ,The Dutch,1983,1983,5,1
@@ -2669,7 +2669,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 18jZvCsW1PJ4FDQ5gEXuKp,Debbie Gibson,1988,1988,13,2
 2SwhNukah1MYpLR594PnuC,Steve Edwards,2007,2007,12,1
 2qxJFvFYMEDqd7ui6kSAcq,Zedd,2016,2017,36,2
-3zwOQEz7tRniwOKwyvHIBK,Audrey Landers,1983,1985,22,3
+3zwOQEz7tRniwOKwyvHIBK,Audrey Landers,1984,1985,12,2
 3AbzwHPIn3CHOZ91SstXk0,Sieneke,2010,2010,5,1
 1hzfo8twXdOegF3xireCYs,Milky Chance,2014,2014,32,1
 1bj5GrcLom5gZFF5t949Xl,Martin Solveig,2004,2015,27,2
@@ -2709,7 +2709,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5m5Fh8zrb0uHM85qwkIkVT,Nielson,2012,2017,81,7
 4L1z1IcfK7lbqx8izGHaw5,Juice Newton,1981,1981,5,1
 6scOultrkXrQsClcbGKM7e,The Motels,1983,1983,7,1
-76gAPszq6DAtzhisSmQkkA,Moniere Nance,1995,1995,7,1
+76gAPszq6DAtzhisSmQkkA,Moniere Nance,0,0,0,0
 1mU61l2mcjEFraXZLpvVMo,Matthew Koma,2013,2014,23,2
 3AQRLZ9PuTAozP28Skbq8V,The Script,2008,2017,99,9
 6uRvVNx5hvfZA0vmRvTPJ4,Armin van Buuren & DJ Shah feat. Chris Jones,2008,2008,4,1
@@ -2738,13 +2738,13 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5P5FTygHyx2G57oszR3Wot,Daughtry,2007,2007,12,2
 0Ca2YvLcLGhHHNyXyFGsb4,Disco Circus,1975,1975,4,1
 05oH07COxkXKIMt6mIPRee,Brandy,1999,2004,18,3
-4gIdjgLlvgEOz7MexDZzpM,Status Quo,1968,1990,156,21
+4gIdjgLlvgEOz7MexDZzpM,Status Quo,1968,1986,148,20
 4vIaAcAQEVCZEKn6rpmDwD,Ian Curnow / Phil Harding,1993,1993,6,1
 1gWAhY2PqOyi3stJBEitxf,Lucilectric,1994,1994,9,1
 7mHUbNIflNX99gowiCMCwZ,Billy The Kit,2013,2013,4,1
 1KXwUKaBcLySwrCSsOa0aa,Chicory Tip,1972,1973,15,2
 4Ps3wiHSJfppZg5LZ5q1kc,4Girlz,2003,2003,3,1
-4m2kfAHEnK7Z7qLGxeWtro,The Plastic Ono Band,1969,1971,15,2
+4m2kfAHEnK7Z7qLGxeWtro,The Plastic Ono Band,1969,1969,9,1
 5SoVIaYUH7OhB4AMcUqZp8,Dara Sedaka,1975,1975,3,1
 0543y7yrvny4KymoaneT4W,Peter Frampton,1976,1976,13,1
 0Ya43ZKWHTKkAbkoJJkwIB,The Wombats,2008,2010,11,2
@@ -2758,7 +2758,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0fgtHVpOPfXb07S8Jx443z,Player,1978,1978,5,1
 4git3QqVfXNUA5z1FajHQw,Whistle,1986,1986,9,1
 7iLc4hrjOjQPfg1E3cCHg1,Tim Berg,2010,2010,25,2
-18EyTys5v8aTv1IjOu7nBs,Dale Tsang,1982,1982,11,1
+18EyTys5v8aTv1IjOu7nBs,Dale Tsang,0,0,0,0
 0cwmNvclzPd8mQnoHuIksj,Vengaboys,1997,2013,136,11
 6C7KcUfpytl9HJGBSGLZTI,Gusto,1996,1996,4,1
 5rkVyNGXEgeUqKkB5ccK83,Ashanti,2002,2005,73,8
@@ -2783,7 +2783,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0iVHnv2bQN5iee8J6iCVO4,Tino Martin,2010,2010,7,1
 5hMCIlD2CIuOBcWPHuQXKJ,Betty Boo,1989,1991,19,3
 1NWjfPhgBqB0ameeUBBxgS,Dyce,2008,2008,3,1
-37FILWCsfS0RoxWKLYl5kG,David Garner,1982,1982,11,1
+37FILWCsfS0RoxWKLYl5kG,David Garner,0,0,0,0
 1aK4CAEPdOJS3wBL0OnQts,Clouseau,1990,1996,116,14
 4a9sClW4YpYQE5jUMAWx5W,Watermät,2014,2014,6,1
 25MkkfEousyfp2eyh38FUl,Lucio Dalla,1990,1990,11,1
@@ -2855,7 +2855,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2ON3fLFbL1rHfHEjeYNKsO,Amanda Marshall,1996,1996,8,1
 74hZiQvsOpjJEOVaGTGG6j,Road,1971,1971,5,1
 4pE3KE9J1Z1LKzjwLtWU21,Sailor,1974,1991,48,5
-1tF9HtIFX8fJfBo64FIJ8S,BZN,1968,2001,366,53
+1tF9HtIFX8fJfBo64FIJ8S,BZN,1968,2001,358,52
 6rszfpmbyLrv6Mxjym56Uu,Amy Studt,2003,2003,5,1
 66UJHAFM5r3ofaYSPKOYrj,The InCrowd,1966,1966,5,1
 5EVZqrbIyEYGGite2sMhDk,Peggy March,1965,1965,8,1
@@ -2996,7 +2996,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7b8blpDsdFfs5DMMMLBuX0,The Pipkins,1970,1970,8,1
 1dip2dCkBIylIFyDfZQfFu,Gun,1994,1994,5,1
 0vMVgeMxck5F8aUExad9GW,Party Animals,1996,1998,62,7
-2babYP9Qb1JgX69qmJckle,Fortuna,1992,1992,8,1
+2babYP9Qb1JgX69qmJckle,Fortuna,0,0,0,0
 17UkABEasVRlCcIFZ3wHb7,Steps,1998,1999,38,4
 55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,2017,2017,3,1
 4E9w0bms6HcEppFlWjeW2d,Bobbie Gentry,1967,1967,8,1
@@ -3105,7 +3105,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 2dBiKtFH9w4WWOp9LZhKlP,Joe Harris,1975,1975,5,1
 6VCuJ0K81TFjTEDGmPi0gW,Elly Nieman,1968,1968,10,1
 4BxCuXFJrSWGi1KHcVqaU4,Kodaline,2012,2012,4,1
-78x1VO6Yy6dFBoaXZ53Rtg,Devo,1990,1990,3,1
+78x1VO6Yy6dFBoaXZ53Rtg,Devo,0,0,0,0
 33W24YuaMUEk85MwRX6cRs,Paper Lace,1974,1974,16,2
 0dYkMe3wK29DulSa0uR8Rq,Rickie Lee Jones,1979,1979,7,1
 4RVBHXd0cu2qrEyv8jVjQZ,Marianne Rosenberg,1976,1976,14,2
@@ -3168,7 +3168,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5QrhSuPUQ0vDFWdb38YPHN,Alisha,1986,1986,14,2
 3loflELg7MzgrOyNqERolN,The Style Council,1984,1986,14,3
 0NjdXlUziaK1qv3kgZV4Jy,Jonathan Richman & The Modern Lovers,1977,1977,10,1
-3sFhA6G1N0gG1pszb6kk1m,Wings,1972,1979,83,10
+3sFhA6G1N0gG1pszb6kk1m,Wings,1972,1979,73,9
 1wvlC6NwleHt1iRD6d5X2C,Foxy Brown,1997,2001,24,4
 4JGuGmGbuR0IenXlKVLXRN,Lynsey De Paul,1972,1973,18,2
 3evkoIAleeyr5RDvFizjoc,Kit Hain,1981,1981,5,1
@@ -3256,7 +3256,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 63txTraopbR00KYo7mYOOj,The Scene,1991,1993,18,4
 4MLV1JBHoYolXAnpKfvQsK,Iris Kroes,2012,2012,4,1
 700Nt5AwUeqmJwJDFGG9xl,The Web,1969,1969,8,1
-4r8b3Hr0AMhzhAg75le0Gx,Stars On 45,1981,1983,57,6
+4r8b3Hr0AMhzhAg75le0Gx,Stars On 45,1981,1983,48,5
 2yMN0IP20GOaN6q0p0zL5k,Tarkan,1999,1999,16,1
 7hriQuAPTOvK6n6XEipAkT,Raymond Froggatt,1968,1969,23,2
 27CAu0CdDgrB911wq795zv,Piet Veerman,1975,1994,38,5
@@ -3379,7 +3379,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3PM5EQ1NOCRtuhb6CS8qsY,Rick Nelson And The Stone Canyon Band,1972,1972,10,1
 1rZtJZlpcIWMtwEqAeXeFa,Criminal Element,1988,1988,6,1
 0dCKce6tJJdHvlWnDMwzPW,Village People,1978,1979,33,4
-76ptJV8617638xrpeoUtzl,The Rasmus,2003,2005,42,5
+76ptJV8617638xrpeoUtzl,The Rasmus,2004,2005,24,4
 52ixPxvhj7veiIZLScC9K9,Stanley Black and his Orchestra,1971,1971,14,1
 3XEhcViRvNX73Ul548lGa1,ADHD,2004,2004,3,1
 0oea1hwGMfUxZbLxJc1XUN,Peter Tosh,1979,1983,29,3
@@ -3445,7 +3445,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 40LHVA5BTQp9RxHOQ9JPYj,Lauren Daigle,2001,2001,3,1
 08hBcrecIIDELlHMmASzp0,Bob Taylor,2009,2009,18,1
 0mgGoUSr7194JAIcL8EmCC,Bjørn Spellmann,1973,1973,8,1
-7ai5TWiOG8g9Hds5AATS28,Marillion,1985,2004,26,6
+7ai5TWiOG8g9Hds5AATS28,Marillion,1985,2004,23,5
 5a2Kj8Jq5yZV1GxUKqCRdK,Antiloop,1997,1997,6,1
 12Chz98pHFMPJEknJQMWvI,Muse,2001,2012,24,6
 1nF6ySrA8ZNCWtwHZJ3I4j,Sandra Reemer,1976,1987,12,2
@@ -3465,7 +3465,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5x9DWz6SpEVu9NgL8aktm2,Long John Baldry,1967,1981,11,2
 6HJyUNxkWzpOY0ccassndx,Jamai,2003,2013,20,3
 45MgaGrbX0sAFPly2kXBGP,Het Huis Anubis,2007,2007,8,1
-0TJc8qMlPo5FcrxABdBsh5,Full Company,1983,1983,7,1
+0TJc8qMlPo5FcrxABdBsh5,Full Company,0,0,0,0
 5ujCegv1BRbEPTCwQqFk6t,John Fogerty,1985,1985,3,1
 7MSTO40bsb3DOJQT6xLsIc,The Judds,1989,1989,9,1
 5lUJFKJJdpi6h2gJBBnwqB,Phil Fearon & Galaxy,1983,1984,16,3
@@ -3550,7 +3550,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 3XsgWn63EnA4wYZBjVyxjf,Ugly Kid Joe,1992,1993,21,2
 2ESUPsTVS3ffYKFCSIg9FG,Bingo,1990,1990,3,1
 3mGe3yyg9FrxlHidyYWiH6,Candyman,1991,1991,14,1
-4x1nvY2FN8jxqAFA0DA02H,John Lennon,1970,1984,66,10
+4x1nvY2FN8jxqAFA0DA02H,John Lennon,1970,1984,60,9
 2iclO3rlyF0YVNE46ctYRj,Jungle Brothers,1990,1990,7,1
 3lQpSzdPxoF1FYk7ilbe37,Liza Minnelli,1989,1989,4,1
 23WXCQnpDGRXlR4Yc3t5H1,LeeTowers,2011,2011,4,1
@@ -3592,7 +3592,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 1WDKfSbfTzwGmR3105nQAL,DJ Patrick Samoy,1992,1992,8,1
 3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,2014,2014,28,1
 001aJOc7CSQVo3XzoLG4DK,One Way,1985,1985,8,1
-4MptlUxSUHf2QAW9JMrv4W,Meco,1977,1977,11,1
+4MptlUxSUHf2QAW9JMrv4W,Meco,0,0,0,0
 15KbeP35gI9t2vgYzwsTjj,John Kongos,1971,1971,5,1
 076C4XViEVd9z9Fb0EbE5Q,Nat Gonella,1975,1975,11,1
 25Kw8f1zcn9VtUk5Nl3qrp,Lasgo,2001,2010,61,7
@@ -3777,7 +3777,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4zwSYEr7wZmfM8w4dvVZVL,Florence Warner,1980,1980,13,1
 6uGKydhYXrVOEXM6QbVzyH,Amber,1996,1996,7,1
 6FD0unjzGQhX3b6eMccMJe,Ghostface Killah,2004,2004,5,1
-0EwGh98UdT3sEwRvdRhnXe,Dikke Lul Band,1994,1994,11,1
+0EwGh98UdT3sEwRvdRhnXe,Dikke Lul Band,0,0,0,0
 6VX2R9L0O0d6qPvqGuIH7b,September,2007,2008,26,2
 6yAM1PGDw9qo26YNtIHLjt,Marion Ravn,2006,2006,3,1
 69zwpEheakp7OlQOCcm1BC,"Robert F. ""Prince Rakeem"" Diggs",1998,1998,16,1
@@ -3800,7 +3800,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7MSUfLeTdDEoZiJPDSBXgi,Brian Eno,1995,1995,14,1
 01Wck2m10xhdxUrLaMq60y,Rene & Angela,1985,1985,12,2
 3XonXgjEAAXVl0WKLF1Z4g,Sidney Samson,2007,2015,22,3
-2tZVlkHDHprEOJcIOxiJSK,Micaela,1987,1987,4,1
+2tZVlkHDHprEOJcIOxiJSK,Micaela,0,0,0,0
 4gzpq5DPGxSnKTe4SA8HAU,Coldplay,2000,2017,329,25
 1pmVZWvBhcy21nSVZ5yf3h,Urban Heroes,1980,1981,12,3
 6Lhdde9Dp3ypYfdgbk2nRf,Liquid Gold,1980,1980,7,1
@@ -3863,7 +3863,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5kxZthrgsEh5bONnKr56eO,Roula,1995,1995,5,1
 4ndPdP6aVSDCvhsjOHLGjb,Stone et Charden,1972,1972,9,1
 7fUtt9kVZOyn9LWy0JbDRI,Agnetha Fältskog,1982,2004,30,5
-2FLbBFuqtJpL7BC8AngquX,La-Le-Lu,1992,2000,18,3
+2FLbBFuqtJpL7BC8AngquX,La-Le-Lu,0,0,0,0
 7FxMjqH6DH056sdsstGeVl,Debbie Harry,1987,1987,5,1
 0o0rlxlC3ApLWsxFkUjMXc,Ziggy Marley,1989,1989,5,1
 5t378xBMytAymycG84zIPv,Claw Boys Claw,1992,1992,6,1
@@ -3938,12 +3938,12 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 5PN2aHIvLEM98XIorsPMhE,Kim Carnes,1981,1981,8,1
 4gwpcMTbLWtBUlOijbVpuu,Capital Cities,2013,2013,7,1
 5v2GEv1pQaCp6oeOQROdKE,Gabriella Cilmi,2008,2010,26,2
-7mUaPQaKcPtbqvlzIKUWAp,De Meestermixers,1991,1991,5,1
+7mUaPQaKcPtbqvlzIKUWAp,De Meestermixers,0,0,0,0
 4m9c5J0w2UeenXX2Hg9n93,De Aal,1982,1982,3,1
 5V13vBtcBjgL3LWxvVXhty,Ramirez,1993,1993,8,1
 7aKldvGENbL4bj8TCWHuhT,Michel Polnareff,1966,1967,31,3
 2Uz58cSxlJgefDaSikxYQ7,Thomas Dolby,1984,1984,5,1
-5SogMTbffh5SFsPZXpTAsj,Marianne Weber,1992,2008,42,9
+5SogMTbffh5SFsPZXpTAsj,Marianne Weber,1992,2008,38,8
 5WxnXxSCyhDSyi6elhBZd4,Jaap Reesema,2010,2010,6,1
 3hFVEbVkQ4WadrNGOgvHLn,The Peppers,1973,1973,7,1
 5I7vNPcrRbXY4mJQjSr3Nh,Lucy Iris,2011,2011,3,1
@@ -4074,7 +4074,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 086oYmAarmvAx7xH9EPfkY,Johnny & Rijk,1968,1968,5,1
 4zlddaMfzJQPueAYOn11kS,The Monotones,1980,1980,7,1
 75QQAQ1DfmGW500AJZbM0i,Hermes House Band,1994,1994,17,1
-5ofEVJiNR6gEb2ra0dMpnL,Dorothy Reynolds,1983,1983,7,1
+5ofEVJiNR6gEb2ra0dMpnL,Dorothy Reynolds,0,0,0,0
 2BVYdY4PyfCF9z4NrkhEB2,Sam & Dave,1967,1969,40,5
 24GaH9tRBgZjlvOhpFuKi2,"Blood, Sweat & Tears",1969,1970,17,3
 5nI09GHOrlMO2wJNfDm2OD,Narcotic Thrust,2004,2005,26,2
@@ -4122,10 +4122,10 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4e76qW6V7bSS4NDvCZ09zD,Justin Shirley-Smith,1999,1999,6,1
 6wU099wsnfSuP0lxWc0jgt,Sly Fox,1986,1986,9,1
 68v7WDVQAuLYqW7OMOKnbJ,Marc Winter,1974,1974,15,1
-4iMzkXwBQHTYmyoR0teiDh,A-Type Player,1995,1995,9,1
+4iMzkXwBQHTYmyoR0teiDh,A-Type Player,0,0,0,0
 7bPU7cvfoD20ixGD9Qnqki,Stealers Wheel,1973,1973,24,3
 3vkSfd5zx0l0Pxq8Qq3uBr,De Mosselman,1997,1997,6,1
-4WUGQykLBGFfsl0Qjl6TDM,The Magician,2014,2014,15,1
+4WUGQykLBGFfsl0Qjl6TDM,The Magician,0,0,0,0
 4blubNBz9qsomDoUxcNuuy,Carolyn Dennis,1981,1981,13,1
 04LIHk1SobiQwt2tlupoAV,Leo Sayer,1974,1983,62,9
 3hiIjfxEPO6hOslSGPOaja,Brian Stilwell,1981,1981,13,1
@@ -4364,13 +4364,13 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7nquasyzpiIiPijUDqpZFn,Shane Dempsey,1986,1986,6,1
 3WGpXCj9YhhfX11TToZcXP,Troye Sivan,2017,2017,17,1
 063BhEDSgDltUGBDy0RYGJ,Dave McCullen,2005,2005,6,1
-090VebphoycdEyH165iMqc,Shirley Bassey,1965,1979,49,5
+090VebphoycdEyH165iMqc,Shirley Bassey,1965,1979,42,4
 3xhksfxjNLUAyxUdijvk4x,Kalibwoy,2016,2016,7,2
 6coiGK1EB4eQ8GwBcqXv79,Internationals,1977,1977,10,1
 7Hd38PVp634oGEb9pIDs5d,Barry Gibb,1980,1984,15,3
 5Oj26LEf8jdgR2woWEjlhi,Paul Mauriat,1968,1968,9,1
 0puypnsWTRY3cwySIyMjhe,Ellen Foley,1979,1980,27,3
-2ycnb8Er79LoH2AsR5ldjh,Pet Shop Boys,1986,1999,118,17
+2ycnb8Er79LoH2AsR5ldjh,Pet Shop Boys,1986,1999,112,16
 6LO5LYNzTWhGB8xImFocbQ,Rein De Vries,1965,1965,17,1
 6bsfCRHUoL4koxNUG6dDEI,Zhype,1992,1992,3,1
 4PJHDzdFoQcklrWU18QdsU,Bob Carlisle,1997,1997,16,1
@@ -4384,8 +4384,8 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6v0kvTi9pOI2ZFrWGQhdsc,Apollo 100,1972,1972,4,1
 3VrvtMPf98keYfWoBPx4OR,Tramaine Hawkins,1985,1985,5,1
 6omc0asHwVxEm4xYBRkzQK,Eric Singleton,1982,1982,8,1
-6M0BcAcPSDpABYnNPf8oQE,Ekseption,1969,1974,52,8
-4tHqkqP0DCD8Ek5OPvYTzH,Audio Idols,2004,2004,10,1
+6M0BcAcPSDpABYnNPf8oQE,Ekseption,1969,1974,49,7
+4tHqkqP0DCD8Ek5OPvYTzH,Audio Idols,0,0,0,0
 1IxP1g9VrPzJqXFCsuyHKe,Måns Zelmerlöw,2015,2015,6,1
 3UgUTRbDBLMcRCantpTWIe,Odia Coates,1974,1974,7,1
 4VZY0nxYMSNotbS7WjNVQy,Nyla,2015,2015,25,1
@@ -4524,7 +4524,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4NJhFmfw43RLBLjQvxDuRS,Wolfgang Amadeus Mozart,1971,1971,4,1
 2MLUcp8h4D38BrRYvryXgX,Wind,1987,1987,6,1
 1Csjn2SQV7R9szDhhR7Aji,The Ides Of March,1970,1970,5,1
-7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,1966,1997,182,27
+7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,1966,1997,178,26
 7pXqR1naGFkoVEcFHjn3jb,Larry Mullen,1995,1995,14,1
 7kPofpC43RNm6FYXnhUltr,Carlo & Irene,1997,1997,8,1
 0o3RyxUXp69fLCpMxuOLsz,Keith Caputo,2007,2007,10,1
@@ -4647,7 +4647,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0gDg7FEsF4Y1jWddJJgcn4,The Rembrandts,1997,1997,6,1
 1aVMJGzu31ti6GSsgJOFGP,De Kapotte Kontjes,2007,2007,6,1
 5Pqx4mXYDGIDcg8E5FYjZ8,Carl Douglas,1974,1974,22,2
-3vRclCt9VnNhYIxFMQCxuM,Milli Vanilli,1988,1990,52,5
+3vRclCt9VnNhYIxFMQCxuM,Milli Vanilli,1988,1989,46,4
 6KrqrAqujNfl4WmsO56IVu,KidB,2008,2008,7,1
 3aVoqlJOYx31lH1gibGDt3,Babyface,1996,1997,16,2
 38h03gA85YYPeDPd9ER9rT,The O'Jays,1972,1978,25,4
@@ -4670,7 +4670,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6eKJWEzLZq8jZix8hdYsv4,Cartoons,1999,1999,10,1
 1JKDQ9CDwfLKUrhO6KYaki,Gouryella,1999,1999,2,1
 4OrrjMGltjy6ojX6034f8u,Steeleye Span,1976,1976,7,1
-3yfYsxYS0ljIARCFzsFTYJ,Nanette McGuinness,1982,1982,11,1
+3yfYsxYS0ljIARCFzsFTYJ,Nanette McGuinness,0,0,0,0
 1fFE7m4IQRSnZPpyDSMUp8,Then Jerico,1987,1987,3,1
 4jmwDHMdwFiYkFIiOmBbrG,De Vliegende Panters,2001,2001,10,1
 5qXBN7KQZGEzCs8EwuTErZ,Outsiders,2009,2009,5,1
@@ -4689,7 +4689,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 57YVY9QP1mhqc51WqHln0e,Tom Robinson Band,1977,1977,5,1
 2OfVmmK8omvMuJqZHxhQa6,Adam K & Soha,2005,2005,9,1
 0GByy3DcfbQwDvXGCWmzv9,Pretenders,1980,1994,40,7
-58Dx4HPzeOO3dbpD9YYEes,2 LIVE CREW,1990,1990,14,2
+58Dx4HPzeOO3dbpD9YYEes,2 LIVE CREW,1990,1990,11,1
 0hLd40hVpRDGENe4KGZLnW,Falco,1982,1986,30,3
 5K5zvCKWTGeLWE9kJtKL7R,Orchestra of Life,1990,1990,5,1
 4eAOcbAXIF4BmbN6E1QIlw,Christina Milian,2001,2004,45,4
@@ -4711,7 +4711,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7uyHxAA4AYAK9pakrZ2O4A,Franklyn Grant,1993,1993,9,1
 6ZNeppgfBLPUyugks9Yn1u,Philip Bailey,1985,1985,17,2
 2oEuZEl53FlgyJ6dCol41J,Herman van Keeken,1971,1971,14,1
-6RTgRO6r0LfXzXrQoFoSoQ,A. Louis Clark,1981,1981,7,1
+6RTgRO6r0LfXzXrQoFoSoQ,A. Louis Clark,0,0,0,0
 6jdYtcR0w0GozvhEWHEQjO,Little Steven & The Disciples Of Soul,1983,1983,6,1
 1IBDfeAuKWGg435csFT4rY,Alyson Williams,1989,1989,5,1
 2rYZvzfxqxAGzNBWjxRxqo,Daisy Dee,1990,1990,4,1
@@ -4736,7 +4736,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0KH3J6AS6mV7V3uIziZ7FN,The Cheeky Girls,2003,2003,8,1
 74V3dE1a51skRkdII8y2C6,André 3000,2012,2012,16,1
 6jQ9UtYXqNfVnPkrH1Xxwi,Maxine Nightingale,1976,1976,10,1
-7nBZYpVAH6bD0QlD7Mpil7,Marc Almond,1985,1988,15,2
+7nBZYpVAH6bD0QlD7Mpil7,Marc Almond,1988,1988,8,1
 6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,2011,2017,226,12
 78SHxLdtysAXgywQ4vE0Oa,Bush,1996,1996,3,1
 4Yg38CnYMoN09sMLf6KDdW,R. Dean Taylor,1968,1972,9,2
@@ -4752,11 +4752,11 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 39Fh4OTce0hxKCiuyB21dg,Dave,1969,1976,20,3
 4Tvos0a5rRrBu4Oodu5f79,Julian Lennon,1984,1991,15,2
 17U2ImH5IyYMvjkCfPhMHT,The Communards,1986,1987,38,5
-0z5DFXmhT4ZNzWElsM7V89,Erasure,1987,1992,23,3
+0z5DFXmhT4ZNzWElsM7V89,Erasure,1987,1987,13,2
 5Aw0IGM5JS3FuTgtRsDWGA,Chocolate Puma,2014,2014,4,1
 3fVulja34L5NRnwUZfcmms,Mike Rew,1997,1997,5,1
 5GvMLzUp6tMBpaCbr903RN,Broederliefde,2016,2017,53,9
-52Q4TyDwkpvHsKdx5aPPEn,De Havenzangers,1977,1993,52,9
+52Q4TyDwkpvHsKdx5aPPEn,De Havenzangers,1977,1993,45,8
 5TgQ66WuWkoQ2xYxaSTnVP,Netsky,2017,2017,10,1
 3koiLjNrgRTNbOwViDipeA,Marvin Gaye,1969,1982,36,4
 7INz03Eq6ZwllxktYTzdHO,Theo Diepenbrock,1978,1978,10,1
@@ -4774,7 +4774,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7ipGLKpbyUOKFaji4MY19m,Kevin Rowland,1982,1982,4,1
 55Pp4Ns5VfTSFsBraW7MQy,Skee-Lo,1996,1996,7,1
 6eBYLQONaYZhZNAVK061t6,Nina Sky,2004,2004,13,1
-22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,1965,2005,406,43
+22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,1965,2005,401,42
 0xQQrupeKgBUdkdfg4S74Q,Charles D. Lewis,1990,1990,5,1
 0wPdF6oU9sRm16BNvWfyRR,Dave Berry,1965,1966,91,6
 0HlxL5hisLf59ETEPM3cUA,Scooter,1994,2005,75,11
@@ -4850,7 +4850,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0lVWTWT1YdiNwuW9Gv3mUF,Gavin Bryars,1993,1993,6,1
 320EPCSEezHt1rtbfwH6Ck,The Monkees,1966,1968,44,5
 44NX2ffIYHr6D4n7RaZF7A,Van Morrison,1967,1993,33,7
-60W3svISnBPVZT2Uzhzasu,Shirley Lites,1975,1975,6,1
+60W3svISnBPVZT2Uzhzasu,Shirley Lites,0,0,0,0
 2QU0ew2k2IZJifa8VWevSv,Normaal,1977,1999,171,32
 0Yy8ebHB2Ubh1xVIdddNYF,Franz von Suppé,1995,1995,3,1
 1MDXxwl9H7TfUuJHDRcw9m,Lisa Roberts,1981,1981,13,1
@@ -4873,9 +4873,9 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 0PDqlUGugF5Jt6DZyATvfz,Betty Wright,1975,1993,9,2
 5yLcbgDPWdJGN22slQUz1U,Patrick Harvey,1978,1978,4,1
 112bztuuAoEGVa7eXYOyGc,Gio,2006,2006,6,1
-3wtfcI8iPGKBmnalt0013v,Tony Scott,1990,1991,17,2
+3wtfcI8iPGKBmnalt0013v,Tony Scott,1990,1990,9,1
 28tXKxSzpxFCXnvbvu6plS,Hemstock & Jennings,2003,2003,8,1
-2RQBc2dmb4QMXZejcaoEdz,Natalie Cole [with Nat King Cole],1991,1991,6,1
+2RQBc2dmb4QMXZejcaoEdz,Natalie Cole [with Nat King Cole],0,0,0,0
 6beTArFVpUujvkHi9FVPqs,Gary Go,2011,2011,4,1
 0B9P7RXrukgIdmutz9XMVN,"Farley ""Jackmaster"" Funk",1986,1986,10,1
 0iERWmMl3nIvcDxnJsKZBd,Orchestre de Paris,1989,1989,6,1
@@ -5025,7 +5025,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,2004,2011,70,8
 6JBhSVzFvABc9V7O2Dlu1f,Idols,2003,2003,2,1
 2TL8gYTNgD6nXkyuUdDrMg,Jasmine Thompson,2015,2015,3,1
-0nAYZn357xMuhaIrsW5mMC,Hugo Montenegro & His Orchestra and Chorus,1968,1968,7,1
+0nAYZn357xMuhaIrsW5mMC,Hugo Montenegro & His Orchestra and Chorus,0,0,0,0
 1YAl7IiUff4hs8tIvWTBI5,Piet Souer,1969,1969,7,1
 701Z4NUaQrFWzUwgoqMVBa,The Soca Boys feat. Van B. King,1998,1998,22,2
 3Q9P0SbpaP9xsBtLUVK0Be,Planet Perfecto,2000,2000,2,1
@@ -5036,8 +5036,8 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 4Oty2fHJ2Rxddh9trZEOJh,C.C.S.,1971,1971,4,1
 5gxynDEKwNDgxGJmJjZyte,Steve Winwood,1981,1986,21,4
 1EgGVV9cmmlLEsFlunjmvv,The Time,1985,1985,11,2
-4LpzHz6gJq191Cd5POOwOb,Steps Tribute Band,1999,1999,12,1
-3q7HBObVc0L8jNeTe5Gofh,50 Cent,2003,2007,84,10
+4LpzHz6gJq191Cd5POOwOb,Steps Tribute Band,0,0,0,0
+3q7HBObVc0L8jNeTe5Gofh,50 Cent,2003,2007,79,9
 6Q192DXotxtaysaqNPy5yR,Amy Winehouse,2007,2011,17,3
 1ScYbcs45BXBwPSM1Eiu4p,Silkstone,2008,2008,2,1
 6i6WlGzQtXtz7GcC5H5st5,10cc,1973,1983,83,9
@@ -5078,7 +5078,7 @@ id,name,firstNotation,lastNotation,amountOfNotations,amountOfSongs
 6P7H3ai06vU1sGvdpBwDmE,Steely Dan,1972,1974,11,2
 2BfAlovyHR2zzxNVhFo1VK,Pryme,2002,2002,5,1
 2Oau4H4Oug42VUkucNGOeX,Guru,2006,2006,5,1
-5vBSrE1xujD2FXYRarbAXc,Years & Years,2014,2015,62,3
+5vBSrE1xujD2FXYRarbAXc,Years & Years,2015,2015,47,2
 1mPzbhI5OxkyJnTeuKeD8q,The Beatmasters,1989,1989,7,1
 7C64wNX3howEFZjAYRKsfP,The Cataracs,2010,2010,14,1
 2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,2017,2017,10,1
