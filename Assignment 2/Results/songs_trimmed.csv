@@ -12,7 +12,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['roy orbison'],Pretty Paper,1dXcUx5gQ8rkHctSsRnZuH,48CvRZSBT0FbOHKLFfHy0n,['0JDkhL4rjiPNEp92jAgJnS'],1965,1965,4
 ['the supremes'],Baby Love - Juke Box Single Version,5uM9zdUz8PpYJME9wZCM4W,3W2FhBKieLAcrS4e9SHtr6,['57bUPid8xztkieZfS7OlEV'],1965,1965,9
 ['the rolling stones'],Tell Me,7sIfDrxNbsLkOOLmzWPijN,7Kln3VdaLUYVIFpqe7AuNA,['22bE4uQ6baNwSHPVcDxLCe'],1965,1965,10
-['the kinks'],All Day and All of the Night,5gmMa8nwzrkcPbHzSW3azN,0fT3ySwzj1bPUWINB07MoI,['1SQRv42e4PjEYfPhS0Tk9E'],1965,1965,8
 ['sandie shaw'],"(There's) Always Something There to Remind Me [From ""Made In Dagenham""]",1wC7CB1j6mEFLDS5cNndxW,26CGf6BwICc6rudK6QJc69,['5uxkcHbgyNbyzq1nyChvCa'],1965,1965,2
 ['lorne greene'],Ringo,5GHbWzjRy1XfnTf5rkA8bf,5aucUihOucqNfx4dUXOLHS,['7CHyTolf8RTuUaW4yYV52d'],1965,1965,6
 ['the rolling stones'],Little Red Rooster,4uUBLQQIgIBukx5nhzUyCi,6CNXUyFKuhAjKIDsV3m6kZ,['22bE4uQ6baNwSHPVcDxLCe'],1965,1965,12
@@ -143,7 +142,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['sam the sham & the pharaohs'],Ju Ju Hand,6hVyDEqxmtOgQuVfTvgnee,7sZlvnsiAKTaS3iKOZAyyU,['05sRO4JdAtJGyZQOTb6kSL'],1965,1965,6
 ['the animals'],We've Gotta Get Out of This Place,48t1ooCntbAzQW4HVGofkc,7oAWqSPWeuz7DInMBu6IzF,['3ICflSq6ZgYAIrm2CTkfVP'],1965,1965,8
 ['bob dylan'],Like a Rolling Stone,3AhXZa8sUQht0UEdBJgpGc,6YabPKtZAjxwyWbuO9p4ZD,['74ASZWbe4lXaubB36ztrGX'],1965,1965,12
-['sonny & cher'],I Got You Babe - LP/Single Version,2SWBfqj1FrS8t8z56G55rP,5QzkzMcvCJSk30pQS2mqia,['71lGEtP9qYXDsSXjfexTqO'],1965,1965,14
 ['the byrds'],All I Really Want to Do,1MI0O2mwTpdwkZpfWz4J7o,0pkrqPjeq9K5KD0hFqAKNa,['1PCZpxHJz7WAMF8EEq8bfc'],1965,1965,10
 ['the kinks'],See My Friend,7KyKvkwUv7YojtOxKey5TN,6mOPAHbzKCorXUdT5YUkFe,['1SQRv42e4PjEYfPhS0Tk9E'],1965,1965,6
 "[""herman's hermits""]",I'm Henery The Eighth I Am,7goYWv23g1DALXGqinidGY,6HebnAKH72JonslBd1cMnb,['48YxSlb23RAaCd4RyHcV9V'],1965,1965,3
@@ -206,7 +204,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the supremes'],I Hear A Symphony - Mono Version,005X0FmdtkM1kiutosXLTR,5K23ycKA0TKPspiOf9xf7X,['57bUPid8xztkieZfS7OlEV'],1965,1965,3
 ['chris andrews'],To Whom It Concerns,4ulV8qGS2UahRkyqU9giJq,5eddFYfsY8fQBj8fpi6P7Q,['49czbwrhT97D0tODGwDyLs'],1965,1965,18
 ['the kinks'],Till the End of the Day - Mono Mix,014NOunS25K1LbcM6DlQ5I,6CkUizIuE5xqy2MwfkbsCM,['1SQRv42e4PjEYfPhS0Tk9E'],1965,1965,14
-['the rolling stones'],Sympathy For The Devil,4sFbojhVXQv7dBC9PVCcRn,5WZFtmADuJUZPtt0NER0Qi,['22bE4uQ6baNwSHPVcDxLCe'],1965,1965,3
 ['sandie shaw'],How Can You Tell - 2004 Remastered Version,3jOM02mX57IGekUbGy6OIE,03il1KCFDPjPclTdWTQXjS,['5uxkcHbgyNbyzq1nyChvCa'],1966,1966,1
 ['the searchers'],Take Me for What I'm Worth,1GJXmWqzjcPdGsLtVUjtdY,7KBVP5qrxpkgQqdi3LBRTO,['4QmkLL9JOqM9dusHS1Hghe'],1966,1966,7
 ['cliff richard'],Wind Me Up (Let Me Go),1xzfijprjSIjIhlVQGf8sb,0SW33rIKZ2v0EmfqRLKufz,['2nvKpWcP8etYTq4JrRiUiy'],1966,1966,3
@@ -297,7 +294,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the yardbirds'],Over Under Sideways Down,1iNN8y9syNFes6DvQuXEF5,38gCUbGRyx8o7bcTApY4Sc,['2lxX1ivRYp26soIavdG9bX'],1966,1966,3
 ['the incrowd'],I'll Be Free,2KaZOTmzV8GI97Yf0mH3Gy,2RXgUQfQiwNKHP4OVTlyua,['66UJHAFM5r3ofaYSPKOYrj'],1966,1966,5
 ['ike & tina turner'],River Deep Mountain High,19jo0UT2vqD4pNVfIqTy4R,6FkWiSUX7YAdxOlHPrIzMj,['1ZikppG9dPedbIgMfnfx8k'],1966,1966,17
-['the hollies'],Bus Stop - 1997 Remastered Version,0K3i1MJwU4v0Aq0VdYZnPg,15Tn9yu64pxuvejk5FNAaG,['6waa8mKu91GjzD4NlONlNJ'],1966,1966,11
 ['roy orbison'],Lana,2CY0ijmcivcrupPLn0KYls,21REQ6X34DCAcoxtj654TI,['0JDkhL4rjiPNEp92jAgJnS'],1966,1966,11
 ['the fortunes'],You Gave Me Somebody To Love,4LoPoJ9piaal8NSYHMKaCf,3MlX1tLEsMhafapIW0GqYj,['4GpIeE34rBNFppvYsWle9c'],1966,1966,1
 ['f„©rr„© grignard'],"Ring, Ring, I've Got To Sing",2WC7jconOwcUk1TPIrQZDx,47YzJL6E8tys8GTHphaRYW,['7CHyBozKp1BslZMgG94vIi'],1966,1966,11
@@ -369,7 +365,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ramses shaffy'],Sammy,2yeViE7XgsOare6ypIIXsB,68G1Wx6lZkRrw4Tn8W8Y73,['38qd50i3qMDHvWL1Mo0lk4'],1966,1966,20
 ['f„©rr„© grignard'],Drunken Sailor,6Z8SYW8xULsZHr6KktqA0F,5CY0Ewl7zToGnn4WkMhEbf,['7CHyBozKp1BslZMgG94vIi'],1966,1966,6
 ['bobby darin'],If I Were A Carpenter - 2004 Digital Remaster,4z6UGH0TJuFk9eLGBQYyhd,6B0JGDZmuQBmYoIg3Crvc5,['0EodhzA6yW1bIdD5B4tcmJ'],1966,1966,11
-['the hollies'],Bus Stop - 1997 Remastered Version,0K3i1MJwU4v0Aq0VdYZnPg,15Tn9yu64pxuvejk5FNAaG,['6waa8mKu91GjzD4NlONlNJ'],1966,1966,12
 ['the beach boys'],Good Vibrations,5t9KYe0Fhd5cW6UYT4qP8f,37rNuexqEXWeSIOiJtn3A9,['3oDbviiivRWhXwIE8hxkVV'],1966,1966,14
 "[""the lovin' spoonful""]",Rain On The Roof - 2003 Remaster,2IDPRiQNveQJS3wYN1F1o4,3enoBBhSA6i2pXEP8rjAWY,['7CCn4PFRRRZF127jtCBAUe'],1966,1966,8
 ['willeke alberti'],Als Vrouw,2RpOBJyDmbzPMG1f4ZFF72,4oGOyj6OKbdClBPXjyePzl,['7monj8DXxygyUqgx7ncylV'],1966,1966,7
@@ -545,7 +540,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['van morrison'],Brown Eyed Girl,3yrSvpt2l1xhsV9Em88Pul,7dsWupQRlFuhG8FGiQAUjC,['44NX2ffIYHr6D4n7RaZF7A'],1967,1967,7
 ['the bar-kays'],Soul Finger,085diW9d1iWe9qeNQiDYOw,55E0BKK84Zv6x5y7j8BGTk,['0Z4CzYz9ieK8q9XiVMPkW5'],1967,1967,10
 ['keith west'],Excerpt From A Teenage Opera - 2009 Remastered Version,5YgbLbOUMeHy8zyQ0J606S,7dyPgylRfeQvisdasSupbd,['5W3V8u6wxm8OIPZjmuiDJU'],1967,1967,12
-['diana ross & the supremes'],Reflections,6SxbPcftDHejqcCcyYq0hD,2Q2j3zAH1gCfHsn3ldQ9gf,['0rXI0q8Cahq6numvPlloaq'],1967,1967,6
 ['bojoura'],Dream Man,4QA64z6H9XYDuc2cvEbm4Y,1itpU7Ti1rPMT4jS0q9R9t,['5vl9S4M718HHnGprr1LEKa'],1967,1967,3
 ['the monkees'],Pleasant Valley Sunday,2HqB3VSdiYmDkTTCPzVHOf,0hYCs5ttzuQcu86VPCEsXF,['320EPCSEezHt1rtbfwH6Ck'],1967,1967,1
 ['the motions'],Wonderful Impressions,5iqNTr4YnWvYmfGf0GqCOa,2Tn9pEtYTYHvx2BecQWpPw,['49V5We9hFUlL8U4jQ8XOJV'],1967,1967,6
@@ -614,7 +608,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['traffic'],Here We Go Round The Mulberry Bush - Stereo Version,6hZyjoSbFFUjEE1Iccasrv,17PJF8shZv36RJQeqmHPYe,['1CD77o9fbdyQFrHnUPUEsF'],1968,1968,3
 ['the equals'],Baby Come Back,1WQesdW1KcJML5TWna3FoU,5FElYPmRnizOccEUTAj65J,['0l7TxYWNUtEgWocjz8IaOt'],1968,1968,11
 ['the scaffold'],Thank U Very Much,0kAKFRuzH85Ugpmis5eoXI,1hEJxkLpQYcPvdvvABBKxC,['2VaniQ30BeId1MM6RzmHNc'],1968,1968,8
-"['marc almond', 'gene pitney']",Something's Gotten Hold Of My Heart,68O1r5xQADu0JjvBibg9zN,3HIPNQXH9gtsvrlt74dUXR,"['7nBZYpVAH6bD0QlD7Mpil7', '3ap1NzHNV9QA1x1V6z3gSe']",1968,1968,5
 ['the beach boys'],Darlin',4BcAcEbp6j6luowfAliUfW,01uTaEF0YlcBgNwaSS9iIl,['3oDbviiivRWhXwIE8hxkVV'],1968,1968,6
 ['john fred and his playboy band'],Judy in Disguise (with Glasses),2p7mA5rSVwIaoNslO9zylp,0E1Vgg2qhaG5CLVxeEFfSe,['1JJQnWXsIpAKIvcWJGUtfg'],1968,1968,11
 ['de heikrekels'],'K Hoop Dat Jij Eens Wacht Op Mij,6XzGMDscCuQ3oFmAtOqXu6,6FDILW7wS2fySJcupx92JG,['3GOkYicm1xxsurU3bGY5JR'],1968,1968,7
@@ -727,7 +720,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['arthur conley'],People Sure Act Funny (When They Get A Lotta Money) - Single Version,5t4gBv87gyf5v758lgehaC,6GpYgUer7JXdT8D7MGzyLT,['10TSIJnyUcowWhpjj59gHB'],1968,1968,7
 ['cream'],Anyone For Tennis,1XQahX8Jk9AuwjkTJJg3W2,4sV0lfUAxF1kwo6GJKtLj4,['74oJ4qxwOZvX6oSsu1DGnw'],1968,1968,2
 ['merrilee rush & the turnabouts'],Angel of the Morning,27QxL30kLR6RyIjLXCMFdU,3G5uBH4LITdtjt8TEarfp2,['5TnMVQgTIbp6z3AydwnHW6'],1968,1968,12
-['the kinks'],All Day and All of the Night,5gmMa8nwzrkcPbHzSW3azN,0fT3ySwzj1bPUWINB07MoI,['1SQRv42e4PjEYfPhS0Tk9E'],1968,1968,9
 ['lowland trio'],Ik Kan Geen Kikker Van De Kant Afduwen,173bo9MH4Fcp76JF8Ta7SP,5LId39hGHqmw2PCm5VKxCM,['0UWgpDfVMPO1mVVcYdIy48'],1968,1968,8
 ['raymond froggatt'],Red Balloon (Callow La Vita),3eKBhxJAk5DL4Gu5QBu78k,2skXZ8qvJwMrJntqIgDB87,['7hriQuAPTOvK6n6XEipAkT'],1968,1968,15
 ['los bravos'],Bring a Little Lovin',24hTWZvRrl74dwKPzqVNYf,43XMUfnp2QBpiTzB433EQI,['7ewJCECkpkh56w0Y4VWzSY'],1968,1968,4
@@ -819,7 +811,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dusty springfield'],Son Of A Preacher Man,0scrtPmtlIVwwk9s4LXJ8n,6t4BECovfkgGTrtbqmTlZf,['5zaXYwewAXedKNCff45U5l'],1968,1968,9
 ['the marmalade'],Ob la Di Ob La Da (Live),3UnsAFMwtcw399sUKLETEK,6pXhCW8smNgcxmyQsVr2Nn,['7EVKy1DS2kaaWzqcAIf9uj'],1968,1968,11
 ['tom & mick'],Somebody's Taken Maria Away,2pYOsSzM3yJjrHa80C8ub9,2qXCKWfUZCECeIAhf19QxZ,['21qsQ4I29k3YMA5R84USTH'],1968,1968,3
-['nina simone'],"Ain't Got No - I Got Life (From the musical production ""Hair"") - Remastered",5VgcM58bybW45T2WgTdbeY,1ZRMX4V4gDAJzRmwUfjMYg,['7G1GBhoKtEPnP86X2PvEYO'],1968,1968,16
 ['the foundations'],Build Me Up Buttercup,3XcuLPQb1LG13ZJEEa6wUI,0AFXSZYiYyggIkcYW5GK0x,['4GITZM5LCR2KcdlgEOrNLD'],1968,1968,8
 ['willy alberti'],De Glimlach Van Een Kind,0MGZGTjmBQGPuu0zFHQgkM,3WrB41PCSnKDQRj95rGpIq,['4V3RSGZYyjAoaDrZqPmzUM'],1968,1968,7
 ['the move'],Blackberry Way,1CCCFfmDuQehrTPJY85X0i,4scxxvgUeBKlneNROhJK4f,['2BLpGstUHxDc6vHfBEiaXm'],1968,1968,7
@@ -1044,7 +1035,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ben cramer'],"Yoffy, Yoffy, Yoffy",0GIycQCUNmO8ffrEQeMzxI,5wF0HLp8MOoEkaF7HW0bzK,['6ZGYLlgUagyNo2UXDTHU1U'],1969,1969,3
 ['jackpots'],Jack In The Box,6zFSTZ9InbuXSdFlsY1yaG,77j1E8aqEqdzGIh3lYimY2,['70rHU9zUYScq6sCE9xn1kQ'],1969,1969,3
 ['the cats'],Marian,4c5EkTOHH4h6ril0lNNoEr,4sDvJm1zgrdJqvrKvhmste,['4mplweFSgMgpH03ruEMEMv'],1969,1969,16
-['golden earring'],Another 45 Miles - Live,6XwkXBVLgSFr3TekaclR0Z,4G4pOSzkMoAldqeu0Mju9H,['1iTlOqIrZy8DlvCPJY2sjS'],1969,1969,9
 ['robin gibb'],One Million Years,3dyPT9T2ERhV4LM5IvVb5N,6EXyqhkUjt33nKh0q7tHyX,['4vZduJO8Uukqzx64de5JxV'],1969,1969,7
 ['creedence clearwater revival'],Down On The Corner,4YMLW13PuuO7o3jkIWlKAs,4ePaYyKlg5pmQFkLu7TwV7,['3IYUhFvPQItj6xySrBmZkd'],1969,1969,8
 ['chicago'],I'm A Man - Remastered,2qQYmjXYPmFPGzuIHeVWar,4DjSI3qiOKsUlZo4NsgYFq,['3iDD7bnsjL9J4fO298r0L0'],1969,1969,10
@@ -1070,7 +1060,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['earth & fire'],Seasons,6pXeoQaypjFWigoi2JzLju,7dSaXmg3sfQsC5wE58o4RM,['0lGw8zeruSqMHSW11Lkcqo'],1970,1970,14
 ['joe cocker'],She Came In Through The Bathroom Window,4jDmrladTDRNXCuz2WWn6l,7dGbvpRP63zKBPdf4xqvLi,['3pFCERyEiP5xeN2EsPXhjI'],1970,1970,5
 ['karen young'],Nobody's Child,0cA0t6FxX2FZkX0BKZnUTa,2zz4gHHDI0UJlbLWgrH21u,['4ypgZzTUyLT3TUOLXvJXma'],1970,1970,1
-['johnny jordaan'],Ik kan ze niet vergeten / Bij ons in de Jordaan / Zo zo zo is de Jordaan / 'n Pikketanussie / Daar mag je alleen maar naar kijken / Ze mogen van ons zeggen wat ze willen / Pruimenpap / Vijf dagen naar Parijs,2TuVRzAXYfqTSUe4yFRWcn,0ThS25TXxuoSynDy4IrAmC,['0tlvzmFmhfItI4bdwby03e'],1970,1970,5
 ['ekseption'],Italian Concerto In F Bwv 971: 1. Allegro,1qBeFhF5zVbReN2VlsQYJm,7eRovpHKZNEsz3keP5wT4J,['6M0BcAcPSDpABYnNPf8oQE'],1970,1970,6
 ['george cash'],Thanks For The Love,3LR38Ttpxwdxy0qG6Wk2Du,201rcyJn18mpv7BeHHxA4Q,['6uthRrl3llNg8llkwbY8Bb'],1970,1970,1
 ['elvis presley'],Don't Cry Daddy,3pF9RSOcd9dMFA19TMbvji,34EYk8vvJHCUlNrpGxepea,['43ZHCT0cAZBISjO8DG9PnE'],1970,1970,6
@@ -1138,7 +1127,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['creedence clearwater revival'],Up Around The Bend,5XPv30nzEZOFS10mKGbtQ7,1DUDtFZEobFATKMY5xY4Mj,['3IYUhFvPQItj6xySrBmZkd'],1970,1970,10
 ['chicago'],Make Me Smile,7k0UY4Kabh7SUHXowyfKj7,5qWGV0fd7hpdptJYI4G9Dd,['3iDD7bnsjL9J4fO298r0L0'],1970,1970,4
 ['tee-set'],If You Do Believe in Love,1SBMi9AlFT2xdmflunW2FT,6L7sFRNi5sdcUkeoK9Ctwo,['0uBrmlGaTI6nSg4JpVC1VR'],1970,1970,6
-['james lloyd'],Keep On Smiling,60cOvFKI5UQDsVfYBBMPGR,2cshSc7T6C81ioj52mmFVC,['33EdGAT6HNpc9dFzyMGYje'],1970,1970,8
 ['the guess who'],American Woman - Remastered,3LQPTJEqOfljGBxmpgUnoC,4Z3eBMaRmWCbTguaeiYUjV,['0cQuYRSzlItquYxsQKDvVc'],1970,1970,8
 ['the ides of march'],Vehicle,6hnyQ0YpiO35rutiLLHLmr,23mdYErK9fS7hxWuFBGUob,['1Csjn2SQV7R9szDhhR7Aji'],1970,1970,5
 ['combo wil de bras'],Die nacht,09CBtea7lD0P0xgdXXjqFS,3RBz0EvixgNDbF2p7sCDRv,['4Dv0AKiEyCy4f7mZJpcVJI'],1970,1970,9
@@ -1189,7 +1177,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['chicago'],25 Or 6 To 4 - Remastered,7GqIDx2QVGOpd4r1fZaUUW,0PRgsdDXQ8QPaDUetVF7yN,['3iDD7bnsjL9J4fO298r0L0'],1970,1970,8
 ['shirley bassey'],Something,441AeagyWxSrHjp9g8h0QW,1Z93NZrfSuKN9M02WWfJL3,['090VebphoycdEyH165iMqc'],1970,1970,10
 ['joe cocker'],The Letter - Live At The Fillmore East/1970,7hL0DKRuIbiXGvkmN7dCMY,6lMPuz55lMbTnMhtHglle3,['3pFCERyEiP5xeN2EsPXhjI'],1970,1970,4
-['the kinks'],Lola - Live,3JbE6e17yvNdPggjPDrCyO,0siomtYa15lZBHSI66bNfP,['1SQRv42e4PjEYfPhS0Tk9E'],1970,1970,17
 ['het lion-kwintet'],Mijn Opa Kocht 'n Ouwe Bas,0kL2xgA85rRhiN06Xrq8BM,7n6fhimvEoSjcZ0xuRgN4v,['0B6QRAdpQtmawF5ohUAEJt'],1970,1970,6
 ['creedence clearwater revival'],Long As I Can See The Light,3vMT0vgfMCysGw38B2nkOD,1DUDtFZEobFATKMY5xY4Mj,['3IYUhFvPQItj6xySrBmZkd'],1970,1970,9
 ['hotlegs'],Neanderthal Man,6kQwC969zFp9ZeTkacc99Q,3dybBHdC7BfEg1RU1eacS4,['7aytjvL9XZ2mGzmIpT4xzy'],1970,1970,5
@@ -1423,7 +1410,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "[""dizzy man's band""]",Let's Go To The Beach,681cqHul3jLClpWjMjZkIU,5etnvrsagJ6Xpdp53bqCyC,['2uYGzEYYX0GTrgnfLmq4Uu'],1971,1971,6
 ['anja'],Ik Laat Je Niet Gaan,2kZfDBT17qJb8KttzuZvgj,2j3HAvMEia79354VgsQLbR,['0pDGb5DMSq9vfJexSb7axM'],1971,1971,2
 ['los mayas'],Concerto d'Aranjuez,0oXGobjhSU7WoKWeqNDT77,43A2APXX4t7LIkLXy95z0u,['1hIrCs89ZQA7LeMWfAaaXF'],1971,1971,6
-['focus'],Hocus Pocus,2uzyiRdvfNI5WxUiItv1y9,55zdxBeCPm7XmuZCeCdRbX,['0ifzzRKdmtgaHy9cfnnyCR'],1971,1971,7
 ['slade'],Get Down And Get With It,3TQnHR7V9Jc4ZLwMJs39rR,2qK6z45pZaCsriBdkY29yr,['10n5lhNDoSMUHWLlnST1yw'],1971,1971,8
 ['tony christie'],I Did What I Did For Maria - Single Version,6zL3A4Oq1nRvDPZQYK0KHI,04ieWmbQ7Vha7taSmHaOKG,['7KK6M2jPylHa6gLbMBI6V0'],1971,1971,4
 ['crazy horse'],Downtown,2fML59bha2B2egnpmGAyMs,37L17SPELknQ3oGIwbNTqh,['0oi7g8NUnlLh5tJvg2y5e3'],1971,1971,3
@@ -1515,12 +1501,10 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['sweet'],Alexander Graham Bell,3tqbArlSg2TNCcUDv8Eqcr,710mrF7sQJjTraiDVjVE49,['3JaAGmSTpJK35DqWrDUzBz'],1971,1971,2
 ['the band'],Life Is A Carnival - Concert Version,37zBZjgFSOiOHqEO0F8bVH,7uqVE9qWdqjtDeLpdHyMxP,['4vpDg7Y7fU982Ds30zawDA'],1971,1971,2
 ['george baker selection'],Mama Oh Mama,3UHZru5G7uGyFKuKJF1Wpb,5YKFdp4rB34KOsF8RlvhaI,['2MGJBRRGEj9m6MxJIq7fLn'],1971,1971,9
-['bill withers'],Ain't No Sunshine,1k1Bqnv2R0uJXQN4u6LKYt,6N8uPmDqbgXD3ztkCCfxoo,['1ThoqLcyIYvZn7iWbj8fsj'],1971,1971,6
 "['roy black', 'anita']",Sch√∂n ist es auf der Welt zu sein,1BolGu0cWlepyUY9tMeDBg,6NhfvN0ra6M80j2O2BISEp,"['6MZV0zLjOvDN1gIYUB2GxB', '0JIlOFjnJSjpxz8mmCBZHx']",1971,1971,11
 ['van morrison'],Wild Night,1A7hIo1C8jacIQ5ZiCjc8g,0RXzDyBEGd2EGQTmv8cxQa,['44NX2ffIYHr6D4n7RaZF7A'],1971,1971,3
 ['les humphries singers'],We Are Goin' Down Jordan,34fbF1iBkX9iSMiGUAibDv,0GUHLRMXyJGIb0mvFjkdYD,['44WoJUwIWiFbhiowz9B6Bx'],1971,1971,8
 ['jan boezeroen'],Ze Zeggen,2ShAEeGSZm7AxTpGRJiSh3,1fRKzubXDdueaiqXTen1L4,['1gXWBLy7AR94Wu58HCBcjk'],1971,1971,15
-['mouth & macneal'],How Do You Do?,3DijXDOWwsrg43D0Se345d,34t3fQgADTqchzm1IkH9t2,['51RYnAHfrE4xnMomva5kFq'],1971,1971,17
 ['wilma'],Ik heb 'n vraag,4YD0rmnv8NKjdh0IAM9qIH,3XDzNzyKKI4VnFt1HmU81F,['5qfQ89hvnImhLth6VTewEi'],1971,1971,8
 ['springwater'],I Will Return,5W2XBZxuWp4FWgrD53WE2X,14HeWkyKdtPvTVGQsXGRb1,['45EO3JqkfiBrUYDWcTDge0'],1971,1971,12
 ['bee gees'],Don't Wanna Live Inside Myself,1C3rhSPsmE0vnAZHD3wGcv,7ehQ8mMGMIDO4wsMVhpjLD,['1LZEQNv7sE11VDY3SdxQeN'],1971,1971,2
@@ -1630,7 +1614,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ronnie tober'],Met Een Roos In Je Blonde Haren,3XeVc9Q78QhFQU1C2xdG0L,7zUR2M83X9k6kFMJDN1X5e,['7AHlsFyu6r8OVqezmQRbhm'],1972,1972,5
 ['don mclean'],Vincent,0VNzEY1G4GLqcNx5qaaTl6,10jsW2NYd9blCrDITMh2zS,['1gRNBaI4yn6wCCTvRhGWh8'],1972,1972,12
 ['bolland & bolland'],Summer Of '71,6QmBeX7Y6857WHFzx3m8rF,55Gj7MUqxES87EHhZMGEtN,['1px59EFgB6u2uTLv93tOtr'],1972,1972,5
-['debbie'],Everybody Join Hands,6vhdicgilPvff83sXdDHZW,5LId39hGHqmw2PCm5VKxCM,['2sk0aTOPZiff9bUUkSKGEk'],1972,1972,11
 ['golden earring'],Buddy Joe,1DPOaiJMpQCPkfZWHubbyk,4aLXgpBzfiugiGHtZhgHkm,['1iTlOqIrZy8DlvCPJY2sjS'],1972,1972,9
 ['neil diamond'],Song Sung Blue - Single Version,4IKebG2owy6R1fujsC8YPF,53zJC24hqCdVfBp9Z6Qs3X,['7mEIug7XUlQHikrFxjTWes'],1972,1972,11
 ['focus'],Sylvia,6TJa7RJhrlI4PYaBv0Nx8h,3N4wCf74U6Ye2c2MbLr9hv,['0ifzzRKdmtgaHy9cfnnyCR'],1972,1972,8
@@ -1733,7 +1716,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['leo wright', 'heinz fon hermann', 'milo pavlovich', 'andr„© paquinet', 'donna hightower']",This World Today Is A Mess - Live,0vMiYK0EdgjKoWWrTAT6kW,2qhqEE76OqCq0in2nEns8r,"['5ML6Tuhhg5QQD2B7qD5y8c', '6M3XSePKLd4YxusfarUH7W', '1YB4Bry40gdfawLOO5l98E', '0j652LbUrrLa5fwko62bNc', '0xQF84XFzPdTKHpEmRuH3M']",1972,1972,13
 ['roxy music'],Virginia Plain,5ZgNecJcN9SSopnmCTlpXs,4KjUgJn22cmBRQC0AHcjI3,['3fhOTtm0LBJ3Ojn4hIljLo'],1972,1972,11
 ['smyle'],It's Gonna Be Alright,14KseMvNr8Sn2cyxmyIM2h,3UAK4iWXKgd3swGQXZ6Ddc,['5spjoGI9rvirF3FRDRWYHs'],1972,1972,7
-['mouth & macneal'],How Do You Do?,3DijXDOWwsrg43D0Se345d,34t3fQgADTqchzm1IkH9t2,['51RYnAHfrE4xnMomva5kFq'],1972,1972,10
 ['gerard cox'],1948 (Toen Was Geluk Heel Gewoon),12lKjWZSwRMejGWKTrvukB,6GQEqbcOvzzNMbh9VdhiOv,['7fZiIcfYlK7sJbKpZLZSUh'],1972,1972,6
 ['rocco granata'],Zomersproetjes,68pyyN9HLf0IjlAZ93wno1,4Znd5OEZkwXB1u52OtMrtd,['2VhQDTCxA5WBYclo7t7UcI'],1972,1972,5
 "[""dizzy man's band""]",Shocking,2hInTyI2RqGYqaA8XqWKN2,5etnvrsagJ6Xpdp53bqCyC,['2uYGzEYYX0GTrgnfLmq4Uu'],1972,1972,5
@@ -1759,7 +1741,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['danny cardo'],Jij Bent Veel Te Mooi,5E511Gj3nZMPlYDJvI5DC3,3olYePqSyCQeR2jvXwKhiD,['3Gy0Yq9VxlKYN5DLOCvPYm'],1972,1972,9
 ['bonnie st. claire and unit gloria'],Clap Yours Hands and Stamp Your Feet,0rNwKBWzlwhTVGO0f57gN0,0C9QsYI5p3i1OgKB8vx4HE,['4VDC3f1dkQAWeWUGuB1666'],1972,1972,12
 ['wings'],Hi Hi Hi,089iEPKibRcnmJEGlC9Xsu,4FqFaw9BTntS6dZkk0PNe4,['3sFhA6G1N0gG1pszb6kk1m'],1972,1972,11
-['bee gees'],"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",6pyzBTIjcO2AMkKE6x2Otb,684Fi6YqIP9xU9JeboAgVM,['1LZEQNv7sE11VDY3SdxQeN'],1972,1972,5
 ['elton john'],Crocodile Rock,4v6koasIv1ksU2P9iWqfRV,6MeZQmdd5TO3vdtyFCFNBe,['3PhoLpVuITZKcymswpck5b'],1972,1972,9
 ['zangeres zonder naam'],Slavenkoor,4EjfM5wQ8pluAQihCI9gJ0,6aOQHt0m8wlv8GnWnrFEbO,['6m9EYPGGPleNS457wrg9p9'],1972,1972,9
 "[""jaap dekker's boogie set""]",In Een Groen Groen Knollenland,2LC5NBITCpgMlumh0eZ5R2,027FUgZIw6OOC1vdZdH7I8,['0b56UorOAGzljLJCUtcJ6J'],1972,1972,9
@@ -1813,7 +1794,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['sandra & andres'],Aime-Moi,4GZ8sb6ZV3frjzeIBe6wvZ,4AfWJqCRLeMdKL7v96znRI,['6l30WCGgvUeyAdbs9JvB6V'],1973,1973,6
 ['the moody blues'],I'm Just A Singer (In A Rock And Roll Band),7BoHyO42SDMe1b0M1AssoU,10ilfLRzXiF7M4ZTVvPyob,['5BcZ22XONcRoLhTbZRuME1'],1973,1973,9
 ['strawbs'],Part Of The Union,5ji8n7FCuVB992xQFMFEKC,4pGu3liODP3m5sA1jINMYQ,['7dtYyLTWjuZGOcweC3eD2f'],1973,1973,5
-['focus'],Hocus Pocus,2uzyiRdvfNI5WxUiItv1y9,55zdxBeCPm7XmuZCeCdRbX,['0ifzzRKdmtgaHy9cfnnyCR'],1973,1973,7
 ['donny osmond'],The Twelfth Of Never,2uM6Jb8bGOmv7h7bh67JWY,29wHd2bW5SC6uDNXvk6dYQ,['5ZEAzHE2TzAwUcOj6jMIgf'],1973,1973,9
 ['the new seekers'],Pinball Wizard / See Me Feel Me,2FssFDDDSTqXWOoaYOpXoB,1yw5JvF3aE10CYnPsTc62F,['4jrTNltJtTMUfXybDdsHDn'],1973,1973,9
 ['thin lizzy'],"Whisky In The Jar - Live at City Hall, Cork, 1980",01YLkVmSX0eJKjW1oLf3Qm,3HwFvvLBsprtIHhb88MQid,['6biWAmrHyiMkX49LkycGqQ'],1973,1973,6
@@ -1843,7 +1823,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['alice cooper'],No More Mr. Nice Guy,5D2eCwqbHcqOnfHOCM6TnV,4SlY4oyiPg6At7vyouZ7ep,['3EhbVgyfGd7HkpsagwL9GS'],1973,1973,7
 ['gerrit dekzeil'],Ik ben Gerrit,0RsbkyqqrTmwolQIshPVjX,59VFMA8m9YsjcCnTK9Zbxt,['7JCwsDBlp5mgNwDq8EyLa6'],1973,1973,9
 ['gary glitter'],Hello Hello I'm Back Again,3mXjfFqVZsyDHhgwD12ZZN,42r3DQVkJGl81Fi2bdFy7h,['61zv3hX7l838ZyhaDyAx8S'],1973,1973,4
-['bernd cl„ºver'],"Der kleine Prinz (Ein Engel, der Sehnsucht hei√üt)",2nmBKgK0SYt5cnFpfWOh0W,4ijmOq5hITeTuxm8OC28ZQ,['2w1Ujqp1ejaV3lSaScSqjG'],1973,1973,5
 ['procol harum'],Grand Hotel,6ZL68Lw2WdEKBlSBhCWRC9,5IVVAF53kGojw4SCY6Dgu2,['0GbqW5TJr7n4is453VOY4C'],1973,1973,5
 ['sweet'],Hell Raiser,2XUc3c8KqP043vEQ7CvfZC,1jEk0k3VNGLcezveTCUFfU,['3JaAGmSTpJK35DqWrDUzBz'],1973,1973,8
 ['the doobie brothers'],Long Train Runnin',4nXkbcTj3nyww1cHkw5RAP,0M2KWMbvY5x1sUnIKNpyUt,['39T6qqI0jDtSWWioX8eGJz'],1973,1973,6
@@ -1855,7 +1834,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['redbone'],We Were All Wounded at Wounded Knee - Single Version,3YUK2GVrHksgzgkYdYVnMf,00SZOqSZbz5mTeSExcaouj,['0w7HLMvZOHatWVbAKee1zF'],1973,1973,15
 ['george baker selection'],Morning Light,4OePepBEGgRk8ADSm6yzlr,5YKFdp4rB34KOsF8RlvhaI,['2MGJBRRGEj9m6MxJIq7fLn'],1973,1973,6
 ['sharif dean'],Do You Love Me?,3SnnPEQkFGAX1Plc75qVfI,0qGpvVf7bngy0wtINM7gCY,['7lpdMsWNMQx2NObTHnscMl'],1973,1973,17
-['cindy und bert'],Mega-Mix (Immer wieder Sonntags / Spaniens Gitarren / Wenn die Rosen erbl√ºhen in Malaga / Aber am Abend da spielt der Zigeuner / Ich komm bald wieder / Wenn die Gitarren erklingen),6T0zdOkIHgapgfvtsuNjNm,386ilLO8q3vjIIYR8kB0PK,['1keANZQthla9OD5kBKJDoH'],1973,1973,12
 ['albert west'],Ginny Come Lately,3Nh7SavT7LuKThi4O4B5Wp,13chtkFKZLJ0EzKKkfJhLq,['00BQd3WIu5VBBP2y1NvIrk'],1973,1973,11
 ['the detroit emeralds'],Feel The Need In Me,3GeGLYYoit5gtQ7CPlXAyn,047jkYpLlgZCw0vjcvVqrW,['51hRQLOySCpDBsBL6C03IZ'],1973,1973,11
 ['dimitri van toren'],H√© Kom Aan,6X8pXys5m7kIpaXWUNXfN7,3olYePqSyCQeR2jvXwKhiD,['6o8d8XXO1VTWSVoEg0j5sb'],1973,1973,13
@@ -1916,7 +1894,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['donny osmond'],Young Love,3vaBTaDimZdK0KqSRmCFZ1,29wHd2bW5SC6uDNXvk6dYQ,['5ZEAzHE2TzAwUcOj6jMIgf'],1973,1973,9
 ['mouth & macneal'],"Minnie, Minnie",7oStbn2UzIfOv9CKeRWTws,34t3fQgADTqchzm1IkH9t2,['51RYnAHfrE4xnMomva5kFq'],1973,1973,7
 "['dawn', 'tony orlando']","Say, Has Anybody Seen My Sweet Gypsy Rose - Digitally Remastered 1998",1IbElKiARztcn0HvvKP28Z,3VVewTnDOIwecO59w2DsNz,"['1vjeJ712UQutRhn6WJI4sF', '6PNZ6ZfwWLiUA2BrranFl3']",1973,1973,5
-['cindy und bert'],Mega-Mix (Immer wieder Sonntags / Spaniens Gitarren / Wenn die Rosen erbl√ºhen in Malaga / Aber am Abend da spielt der Zigeuner / Ich komm bald wieder / Wenn die Gitarren erklingen),6T0zdOkIHgapgfvtsuNjNm,386ilLO8q3vjIIYR8kB0PK,['1keANZQthla9OD5kBKJDoH'],1973,1973,6
 ['demis roussos'],My Friend The Wind,1qrLgHBCijtFtlIBUeqQBa,55tpknq7iLrRtH2IACxOsa,['0J9mbwg4BquN4XlHzdMK3X'],1973,1973,14
 ['the rolling stones'],Angie - Remastered 2009,6oD0TvHIYmObKNl5Mz05ri,00ZkRCzSTS6jwUJLpaTWcj,['22bE4uQ6baNwSHPVcDxLCe'],1973,1973,23
 ['uriah heep'],Easy Livin',6qn5Ysxo9H4z4QgEvwg1SK,0kOW78XBGL598LEvB2JjAz,['45O9BwPMyywM755SYUK0sP'],1973,1973,9
@@ -1950,12 +1927,10 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['greenfield & cook'],Far Too Late,6GtjU5Jq5PIug0ruJ4ylI5,1ExYHWKW2jtbiwxDL9tAKM,['6GG9LziWEIGw0CoAbAKFcX'],1973,1973,4
 ['boudewijn de groot'],Jimmy - Originele Studio Versie,479mjGN9qjXPgAWMhxvBIx,3jQCW6iuKAnDYZN9j67eiD,['3h6rezLYXc5QU08SCKZtyO'],1973,1973,11
 ['redbone'],Wovoka,668bBAlbIWfsVKoFDXQGQB,7HNboS0n64gNVx0rV3qT6a,['0w7HLMvZOHatWVbAKee1zF'],1973,1973,8
-['the rolling stones'],Sympathy For The Devil,4sFbojhVXQv7dBC9PVCcRn,5WZFtmADuJUZPtt0NER0Qi,['22bE4uQ6baNwSHPVcDxLCe'],1973,1973,5
 ['mireille mathieu'],La Paloma ade,3Qg9s37N3STHMWFC8MTAMg,5XNQDBAA2TrAosoywN8PJb,['6fAg4jVV9zANHej0mzaMG6'],1973,1973,9
 ['carpenters'],Top Of The World,4Hbj7GnBASAS6dUmsIMD6q,7MQcpWmGqxDm3XRntiGDSe,['1eEfMU2AhEo7XnKgL7c304'],1973,1973,5
 ['slade'],My Friend Stan,6Q1tkzyP1WaqjRKxP4rL3f,683jIJt9tHSvxnyvfVTmcD,['10n5lhNDoSMUHWLlnST1yw'],1973,1973,6
 ['the hollies'],The Day That Curly Billy Shot Down Crazy Sam Mcgee - 2008 Remastered Version,3dwvT66ZwtwlIZl3IISe6X,17gEubRfhqZEFoYEnHVV5H,['6waa8mKu91GjzD4NlONlNJ'],1973,1973,13
-['bernd cl„ºver'],"Der kleine Prinz (Ein Engel, der Sehnsucht hei√üt)",2nmBKgK0SYt5cnFpfWOh0W,4ijmOq5hITeTuxm8OC28ZQ,['2w1Ujqp1ejaV3lSaScSqjG'],1973,1973,5
 ['steve miller band'],The Joker,371VkfwKiXJxgH5ZPoQNHD,6jIR8ITF5YSa3i9ILvA9E1,['6QtGlUje9TIkLrgPZrESuk'],1973,1973,19
 ['ringo starr'],Photograph,1hwN2eAwsXgktvw9Qe8TrP,6zjenDV68SpvM3oEhorTDm,['6DbJi8AcN5ANdtvJcwBSw8'],1973,1973,10
 ['demis roussos'],Sch√∂nes M√§dchen aus Arcadia,0ez1djqlfaRqS0aJ66maIN,0JRliGLfYpctFwABX1S2qh,['0J9mbwg4BquN4XlHzdMK3X'],1973,1973,14
@@ -1997,7 +1972,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the new seekers'],You Won't Find Another Fool Like Me,1BA0MghfqYK3GzMfzRRHJ0,1yw5JvF3aE10CYnPsTc62F,['4jrTNltJtTMUfXybDdsHDn'],1973,1973,5
 ['kris kristofferson'],Why Me,6n3VD8CbR307p1e4RECHHb,4V0B2o4rSXh7CwzqbDX6xo,['0vYQRW5LIDeYQOccTviQNX'],1973,1973,3
 ['michael jackson'],Music And Me,2e3z3psAcC3YGN53gQxMil,6o7W0hkHepZ2cDBF4gJsEg,['3fMbdgg4jU18AjLCKBhRSm'],1973,1973,3
-['andr„© moss'],Rosita,2v5kYpbJ5RUAm3HIiOZeXB,027FUgZIw6OOC1vdZdH7I8,['4VYd2B6dO0RwTRuCCbm0fp'],1973,1973,14
 ['wally tax'],Miss Wonderful,5TbOB1yVo6NqFt6Rqne9Vg,1rGUXehPrMM97YI2EUN7rm,['7hr9TBB6EcKhZWPkb5tbTY'],1974,1974,6
 ['demis roussos'],Someday Somewhere,50HbnMLnOrXu7duahLQrmh,4hIKiyxuWZx9pNZwtrzIbv,['0J9mbwg4BquN4XlHzdMK3X'],1974,1974,8
 ['barry blue'],Do You Wanna Dance?,2IkEyhVYEw0sP6pNcF0SuC,2PAP3axArtYbZzYJE2DTrm,['6ea0ZyKO8ONgRBNCjrea7d'],1974,1974,5
@@ -2120,7 +2094,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['catapult'],Let Your Hair Hang Down,7avMFjKSsGzxxRgYm1o8fX,74pP2D0hYoq6rGQhH0akW3,['4tpalrvEtD2YyBfz6RG8UU'],1974,1974,9
 ['freddy breck'],Die Sonne Geht Auf,3PAKHVVFGAltojaND1UG8g,4q72CAZxSTEj9eggJzikHT,['1Y7JqAubXCTYEkLKKQEmMl'],1974,1974,8
 ['wally tax'],Evidently,2gq7aeMueWpreMNG5BHNuw,1rGUXehPrMM97YI2EUN7rm,['7hr9TBB6EcKhZWPkb5tbTY'],1974,1974,4
-"['george michael', 'elton john']",Don't Let the Sun Go Down on Me,0q90594hk25yo0xZmBTqCd,3coLNlyStg9h7f8CZ103Rl,"['19ra5tSw0tWufvUp8GotLo', '3PhoLpVuITZKcymswpck5b']",1974,1974,4
 ['nick mackenzie'],In old Mexico,5h6fIToj0hSIioR4GDwdrT,5E3zBlCMRmchx3wFFJYuIy,['1cBtogE3rULrcGMZYUGA0s'],1974,1974,5
 ['bobby goldsboro'],Hello Summertime,2AvX5aOfodkO2t8hsqQKx3,2CLD8RXxgDRmFQh3SLeTPY,['5gPEo032lzARtzuVqJIm9o'],1974,1974,4
 ['heart'],Lovemaker,248YUrqvr7DxJ7Oy93eKMd,3UAK4iWXKgd3swGQXZ6Ddc,['34jw2BbxjoYalTp8cJFCPv'],1974,1974,4
@@ -2137,7 +2110,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['bzn'],Love Me Like A Lion,52qbV1IDTtQuynLQhlb9fu,6yONJ28qWglsIZ6PJGFPNR,['1tF9HtIFX8fJfBo64FIJ8S'],1974,1974,4
 ['10cc'],The Wall Street Shuffle,0kVB6PeqBbN2HhwJdWumeZ,0sOJ1TztxZdEfUbX7f1CZO,['6i6WlGzQtXtz7GcC5H5st5'],1974,1974,14
 ['sparks'],Amateur Hour,36eYb0SaggHsFDHVtnG2EP,7HfC3Cd8qSkGKqbOZi4Nbz,['7pwjGKaqnfkvS7eQbHaqyH'],1974,1974,10
-['cindy und bert'],Mega-Mix (Immer wieder Sonntags / Spaniens Gitarren / Wenn die Rosen erbl√ºhen in Malaga / Aber am Abend da spielt der Zigeuner / Ich komm bald wieder / Wenn die Gitarren erklingen),6T0zdOkIHgapgfvtsuNjNm,386ilLO8q3vjIIYR8kB0PK,['1keANZQthla9OD5kBKJDoH'],1974,1974,8
 ['brotherhood of man'],Three Times a Lady,61qadVih4zLGZc8vjN0J8A,6qEWBPsDSekQabWa3AZb0j,['4Cyr5aqgXza16isOrQNOvo'],1974,1974,9
 ['albert hammond'],I Don't Wanna Die In An Air Disaster,4Kcn3bOKxqVpSka7XMhSHN,51YO1tSl0EFBwXBqGNHm0i,['34E3csCxpXunPGEkOVVX2g'],1974,1974,14
 ['peter koelewijn en zijn rockets'],Veronica Sorry,6ScWAcSGaF5mSpCn64SNdf,4PDrKOLrj9aN0BqtyeXY20,['4inB4rmxwWnwbszg23w4yj'],1974,1974,9
@@ -2164,7 +2136,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['spooky & sue'],Swinging on a star,2jBRiPpEMbchJFyFmCUMhA,5lWQgbd33nc9bnIXLPl8c2,['3CckpzD1fp1Wz5Ye79y3Vj'],1974,1974,16
 ['the kiki dee band'],I've Got The Music In Me - 2008 Remastered Version,148wRodgklV4oYyXcX1Bkg,2YNcuZI9dHsyH26F3snIBA,['4b4IZJ8ClQ3LayffEW061s'],1974,1974,9
 ['kayak'],Wintertime,48nBt8HXbAi1ftKb0l9UrA,6I845iSbO5VJPDiQUEFCQK,['3w34NmNWqcGYg85t7ALa2D'],1974,1974,5
-['andr„© moss'],Rosita,2v5kYpbJ5RUAm3HIiOZeXB,027FUgZIw6OOC1vdZdH7I8,['4VYd2B6dO0RwTRuCCbm0fp'],1974,1974,11
 ['carl douglas'],Kung Fu Fighting,04XdCMi1WhAjVyRJbAtaq0,6YxZJJWvWQvFhXgdSSFe6Y,['5Pqx4mXYDGIDcg8E5FYjZ8'],1974,1974,14
 ['ricky gordon'],Such a Night,5iGahby3xrld5oPOkJYpyW,52geSSLKzs8ZYvqP67PSh8,['6hZSUU0qtCzfl7UmI3dLrG'],1974,1974,10
 ['redbone'],One More Time,4BXScEkVnp9VdW0i4I5dnC,7GCljXMi3WChErr3b8xl8R,['0w7HLMvZOHatWVbAKee1zF'],1974,1974,5
@@ -2334,7 +2305,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['imca marina'],Vino (Waar Blijft De Wijn),3AWIhm2aCaB2Nj6w4SH61W,0huX9PWQ3GRT5PfpZhF6CZ,['43xjJMxn9QG0jEiBO3Hxe5'],1975,1975,10
 ['wings'],Listen To What The Man Said,22DRs4WcRgekceQ9r1XsWO,5KmV008tb0n0xusPf75Kd7,['3sFhA6G1N0gG1pszb6kk1m'],1975,1975,4
 ['lulu'],"Take Your Mama for a Ride, Pt. 2",6ngXQZkLbfJ3hD2BqZIqxu,3QkhoPmtvnusVW8hwZ1hNh,['0jYKX08u1XxmHrl5TdM2QZ'],1975,1975,9
-"['earth, wind & fire']",Shining Star,0RgcOUQg4qYAEt9RIdf3oB,5tXZfxvr2VaWibD74nw8VL,['4QQgXkCYTt3BlENzhyNETg'],1975,1975,5
 ['tammy wynette'],Stand By Your Man,2Cb2l4UoXynCHCeCYHRZN8,1m4lP2IzV8Z1oEUYMHMClr,['1LFKKuzn302wp15dYH28id'],1975,1975,11
 ['the cats'],Like A Spanish Song,0hbRAcTffG8fY7y2JiV1Pd,4ifT7ZPq4PA7qhRkDhlevG,['4mplweFSgMgpH03ruEMEMv'],1975,1975,6
 ['freddy breck'],Der gro√üe Zampano,5z0LhYojh8v4mG9Lwhkcyh,4q72CAZxSTEj9eggJzikHT,['1Y7JqAubXCTYEkLKKQEmMl'],1975,1975,6
@@ -2391,7 +2361,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['conny vandenbos'],Drie Zomers Lang,3fch9lhPjFD3m3B39kRkFu,39Ljd7Ra3oXlSY4RtRK0Gp,['4U9bAa04kxvEeWVVAGQiVC'],1975,1975,6
 ['gilbert b„©caud'],A Little Love and Understanding - Un peu d'amour et d'amiti√©,0aldkB7GXVA9EnVqJKVKz3,6lIq2YM60IsHUT6z3f2Imj,['31GFatrHl2ijnS4ZAWA9s0'],1975,1975,4
 ['billie jo spears'],Blanket On The Ground,5ua2PeQ2Up8kTwSped8oXR,6hM6tJ23u1Gc0eAPUBrvdk,['3Xt0yrWeurmp48fodXqMWf'],1975,1975,6
-['cindy und bert'],Mega-Mix (Immer wieder Sonntags / Spaniens Gitarren / Wenn die Rosen erbl√ºhen in Malaga / Aber am Abend da spielt der Zigeuner / Ich komm bald wieder / Wenn die Gitarren erklingen),6T0zdOkIHgapgfvtsuNjNm,386ilLO8q3vjIIYR8kB0PK,['1keANZQthla9OD5kBKJDoH'],1975,1975,3
 ['the trammps'],Save a Place,5Wu1dVxthFFJujc8It3V6K,6IBI01gmj7d5BpfiaD9cGh,['1zgNpeHQe8GulzfVkYP2VK'],1975,1975,3
 ['kc & the sunshine band'],Get Down Tonight - 2004 Remastered Version,6zbFTYeqNvZdms60HouEFT,2ogOjq2sGndRddcHXfne1l,['3mQBpAOMWYqAZyxtyeo4Lo'],1975,1975,8
 ['tammy wynette'],D.I.V.O.R.C.E (Live),3hWKteosv79AsQPY9UPWIg,0CKHUSUTLFl6YCAtu496UT,['1LFKKuzn302wp15dYH28id'],1975,1975,7
@@ -2527,9 +2496,7 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['roxy music'],Love Is the Drug,3wtMkvedoWMQ3XTKv7tqcZ,5Tpor3YZBVEJ9tWD5L31mH,['3fhOTtm0LBJ3Ojn4hIljLo'],1976,1976,10
 ['eric carmen'],All By Myself,0AQqrtK1pULuwZUXhwaaDz,3Faeb8KPVk4ntMz0GBGlJO,['2ekjTXgjxbWwBX5lTAj4DU'],1976,1976,6
 "['big mouth', 'little eve']",What A Beautiful Day,07W1gTTDXGj5lvU5bd8Eql,38ouNfar70mz36zIhvL65H,"['3Qhc71pMBMGbVwhCqRGrmV', '3rNYmpW57DRNyEmlrxLNpf']",1976,1976,4
-['tina charles'],I Love to Love,5jWI1xNxABzDRFTnD2yp8L,4tQ54MqaSzOZmi5aL2G647,['7Jbs4wPCLaKXPxrTxZ2zaa'],1976,1976,9
 ['abba'],Fernando,6zeWfgymg7GMKRaKbpi0PX,79ZX48114T8NH36MnOTtl7,['0LcJLqbBmaGUft1e9Mm8HV'],1976,1976,12
-['frankie valli & the four seasons'],"December, 1963 (Oh What A Night!)",7ePFDzrnLt3Ynqgy2UFWri,0NUEQILaBzavnzcMEs4buZ,['6mcrZQmgzFGRWf7C0SObou'],1976,1976,10
 ['emmylou harris'],Together Again,2RPUH8ONksBvsybrQn8QrS,2Ll8o3yR2mNnEqpKFgEko4,['5s6TJEuHTr9GR894wc6VfP'],1976,1976,7
 ['penny mclean'],1-2-3-4... Fire,5W24dQ7Fl7PhgtpnwArYb2,6emoF2QIOMja4hXwUt8v0I,['2EqPo7BwJq5UJsE5nWqgrk'],1976,1976,7
 ['elvin bishop'],Fooled Around And Fell In Love,6BJTagJUFeUxHpVWxTmatw,5Vh4H5yxqnzIBfCAws53Hb,['2G1yVp387GlUf9yvLk6V11'],1976,1976,7
@@ -2643,7 +2610,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['michel fugain & le big bazar'],Ring Et Ding - Fugain & le Big Bazar n¬∞4,3Y7xfb5R317UK6RUjaVE1W,1DzX3EqCQWllnry820X66X,['5KnLt0VENhwsfmQL3y2nsY'],1976,1976,5
 ['gerard de vries'],Teddy Beer,1u8wmNgaa5A3kkG3gV2pKc,2X9Y0QCl5xrDvqrsaVWj0l,['0NkWtmKhwsCX7VoMu0DpGP'],1976,1976,10
 ['albert west'],Memory of Life,01TQs6gc6887IoSuRhkNwS,13chtkFKZLJ0EzKKkfJhLq,['00BQd3WIu5VBBP2y1NvIrk'],1976,1976,7
-['tavares'],Heaven Must Be Missing An Angel,6J9paEX8rcBYuAIawdnzUj,5DBKj09NaZ23ZUj8G1lB6z,['3LfO03nEZMdWNHG2tLpMa0'],1976,1976,15
 "[""johnny travis jr. & his all star stars 'n' bars band""]",I Can Always Count On You (To Let Me Down),2XzJpEfQcPjP1mXZ7Bjuh3,7sLLxWixVoA7B4XPIsvcW7,['0MpNRzTO00642LNJsnZbo9'],1976,1976,6
 ['boney m.'],Daddy Cool,3WMbD1OyfKuwWDWMNbPQ4g,1KQUrny9y5zGpktF6hAGd4,['54R6Y0I7jGUCveDTtI21nb'],1976,1976,14
 ['classics'],Wings Of An Eagle,7k7jQX8jwEM9HaYskXS7KJ,0GboNNzkWzRLNGrcLIDQM2,['5r2MAwfEkxYPd4SuPancJm'],1976,1976,8
@@ -2656,7 +2622,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['m„ºd'],Nite on the Tiles,7dcEZj4M7PbTTG57ECFrQc,7kf3aYydkkr5CXF8oXcNmB,['5UAV0dbY4PpgUC6xZt8tKs'],1976,1976,5
 ['the manhattan transfer'],Chanson D'Amour,4QxQSsPRUqUkJSZZKIXhGi,6iuZyg7Hzd3qiEZ6os8yWS,['2dogRElUKV20C2khRHqjRc'],1976,1976,9
 ['andr„© van duin'],Onzichtbare Andr√©,5NJadvEfqsJAfXJCMsCf6v,5QDsIFFPEqWTZbTcz6MvPf,['1G2QbSM5dLTtqeZHYnxXsF'],1976,1976,8
-['tina charles'],Dance Little Lady Dance,1CLNWD0IK5YXc9KpTKaRF2,4tQ54MqaSzOZmi5aL2G647,['7Jbs4wPCLaKXPxrTxZ2zaa'],1976,1976,9
 ['the hollies'],Daddy Don't Mind - 2003 Remastered Version,35TSt2ZuifkPEjbyD1gid5,6pC4eWn4MsiLwTnGAENmoy,['6waa8mKu91GjzD4NlONlNJ'],1976,1976,6
 ['the real thing'],Can't Get By Without You,0mRHlsn0Vhl1oAcVDYwF8i,2Tkt9S8zeljTokUwbBtTEu,['1NUD5By34MFynmuUynCfSj'],1976,1976,8
 ['the ritchie family'],The Best Disco In Town,79eNiy8GqOx646aVCNtPd1,1JuWjbZz8k7NCneHAyPkWo,['3FxBwdg0z5WkLdlAbe7GHq'],1976,1976,9
@@ -2711,7 +2676,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['hot blood'],Soul Dracula,5YJESbNpuAlidqJwZzn1qM,5h8KcG5RrlRiiQ9Qk9wVSf,['4ahnElvHT3CdUxnnjpscDI'],1977,1977,9
 ['the hollies'],Wiggle That Wotsit,0GlNlpOXrv7XXcOuJyUQcK,6pC4eWn4MsiLwTnGAENmoy,['6waa8mKu91GjzD4NlONlNJ'],1977,1977,5
 ['elvis presley'],Moody Blue,5nP6bZZpeT9hbtvePmy9ko,08bROKoMarHS0jRzZOEv08,['43ZHCT0cAZBISjO8DG9PnE'],1977,1977,7
-['rita hovink'],Laat Me Alleen,1Z3Ns97nNVgXWGsgwOOQKG,6RBetjOqVEFWiaMePJCzIf,['7blaRp95WUYbzLU6wXO87m'],1977,1977,4
 "['toon de migra', 'don mercedes', 'sandy', 'anita en ed']",In de vreemde (verlaten) 2014,6oL5qAHzKr4uvC2veczB7w,5Zs32L9Z26JWa1Tq8oS5wR,"['3sRtZ8RXdMiASOe1V4KeXF', '3H1MvMGHin63uz3KHgjSW9', '78kq3vaYl3PdBNVKl6b0Ko', '0R5YjaR7uUYXsMk2Eh36gR']",1977,1977,7
 ['david dundas'],Jeans On,0uN4g8yIAUpbyjcLhn79t7,3ds59N5cIvWvvQlywM6eox,['1NcUsr07BOPEQHnREfVUPh'],1977,1977,6
 ['lia velasco'],Your Smile,51geCl07Vt6AwgWg03Sgkj,3hkuta20XJfQgjBr0p87Uh,['49k5Nd9FNwB6eOtvK6NAVC'],1977,1977,5
@@ -2721,7 +2685,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['leo sayer'],When I Need You,2EmS1b64xEjUdvDcLE1AuX,2qcpKdOFBiNMV7DNnTCW6x,['04LIHk1SobiQwt2tlupoAV'],1977,1977,7
 ['eagles'],New Kid In Town - Remastered,6Zyz8lsnMFpIrCTuvGurCB,2widuo17g5CEC66IbzveRu,['0ECwFtbIWEVNwjlrfc6xoL'],1977,1977,8
 ['vader abraham'],Adeile,4GUmAvU4SrLjfduDSYyhq2,3AIhCREAKrKk3YoNGtnIAq,['5OWsH2lF65ygWcLYWic6rq'],1977,1977,4
-['bzn'],Don't Say Goodbye,3R4zkUkFVAzqdT90uS7uLU,0NA3D0ZMGIe6h2yGJAsf3k,['1tF9HtIFX8fJfBo64FIJ8S'],1977,1977,10
 ['bryan ferry'],This Is Tomorrow,7utcI11TJOG04Vl3noomNX,5mop3U7FxoJDAP3AACa5x2,['5RNFFojXkPRmlJZIwXeKQC'],1977,1977,5
 ['bonnie tyler'],Lost In France,4nwt5NOCtAUHeob20jQqxP,5D43457Yz0FUwufF4ogvfA,['0SD4eZCN4Kr0wQk56hCdh2'],1977,1977,5
 ['chicago'],Wishing You Were Here,5hxPho3IcyDVhzzwfQ47Xz,5qWGV0fd7hpdptJYI4G9Dd,['3iDD7bnsjL9J4fO298r0L0'],1977,1977,6
@@ -2953,7 +2916,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['umberto tozzi'],Ti amo,07vLro0xCweIrBwqSS3K0k,7ISN6E5w5k67GyqpW3IhoD,['00w9sdZ78mWArooTmiSTld'],1978,1978,8
 ['peter allen'],I Go To Rio,0iCi4P0QGw1ycrXg75FzFH,2EbhHZgmdy362RoEAE3Rbt,['6748v9yNrbb4PPJuvfoMRa'],1978,1978,5
 ['darts'],Daddy Cool / The Girl Can't Help It,10b9TrZBf0uP1EtAZHcKNh,3xe1R7xAwmWqIfQqjbKhIa,['4PAOIh8yFHsrG0B0eDjOsY'],1978,1978,9
-['bee gees'],"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",6pyzBTIjcO2AMkKE6x2Otb,684Fi6YqIP9xU9JeboAgVM,['1LZEQNv7sE11VDY3SdxQeN'],1978,1978,16
 ['war'],Galaxy,2QRQ9eiwDzqbHmXomeOZHe,3AcuoNKfMP0oFp6OaGG56b,['3ICyfoySNDZqtBVmaBT84I'],1978,1978,6
 ['tol hansse'],Big City - Orginele Versie 1978,6VYh1IpW7OomkHYfTti12z,4nyWAnkyxhlcOjQotvVyLs,['2qSwdWpuJlUch30TG2gm0N'],1978,1978,12
 ['ian dury'],Sex & Drugs & Rock & Roll,1PwB9EADXS90I8LoewLXfl,5tuUAXD8S0QVhPW7M2aQb0,['5PFSmueeFLrjYXqn3agenn'],1978,1978,7
@@ -2975,7 +2937,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dolly parton'],Here You Come Again,6H7nDglS6xWpRidbhMwI2L,64yIGFoYJVg66fRXIxIYJr,['32vWCbZh0xZ4o9gkz4PsEU'],1978,1978,3
 ['kate bush'],Wuthering Heights,5YSI1311X8t31PBjkBG4CZ,5NKTuBLCYhN0OwqFiGdXd1,['1aSxMhuvixZ8h9dK9jIDwL'],1978,1978,11
 "[""luv'""]",U.O.Me (Theme From Waldolala),7KFKQNhUdjjLtM1OiJF03e,6ommxjAvsymPArKc1M1U9n,['21WrFLppRHVogsXTUKT54f'],1978,1978,13
-['bill withers'],Lovely Day,0ACACkoHUwgfgY5CxVIL4N,0XmgSYx9bj4sqpcXVgKs2C,['1ThoqLcyIYvZn7iWbj8fsj'],1978,1978,6
 "['udo j„ºrgens', 'judy cheeks']",Einmal wenn du gehst,57UukyXne0KzP2iz7kG7cW,43pgpOaM3nmuzalf3Mk7KP,"['2G0htB8PxlO2onxnIismur', '0H7YdwJ8xgHzCOECgiwZau']",1978,1978,7
 ['conquistador'],Argentina,0tBNWjJNfDIGA7Q9CAzPaX,027FUgZIw6OOC1vdZdH7I8,['4pGQIqbzhK1hM3RIh5HSfa'],1978,1978,13
 ['raydio'],Jack and Jill,5KDT5BDSmomPMe2AXuGInR,36AmrTuGmb1LyYSimTHRkE,['1VQ7baxc9Okx2YuRnpKMMR'],1978,1978,5
@@ -3000,7 +2961,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['de havenzangers'],Oh Heideroosje,3vp8hRJUvPspFNFnffEKLQ,5lezJJRdDTtXm3KmDmTKgZ,['52Q4TyDwkpvHsKdx5aPPEn'],1978,1978,8
 ['tropical highlight & vibetech'],The Assaut - Original,4Qu1776KUvofSZRE1SRekS,1LrklgYYdFHX9pxcu02V7V,['3mSaa57Xj7F5bEhWvomWdD'],1978,1978,7
 "['samantha sang', 'bee gees']",Emotion,1TSehAcbBAcmZlSNMjmf6U,3eMoXktkFOAWgM9WsW6Zci,"['1IvJtmPLbzpxDxfrw4rMFa', '1LZEQNv7sE11VDY3SdxQeN']",1978,1978,4
-['bee gees'],"Stayin' Alive - From ""Saturday Night Fever"" Soundtrack",6pyzBTIjcO2AMkKE6x2Otb,684Fi6YqIP9xU9JeboAgVM,['1LZEQNv7sE11VDY3SdxQeN'],1978,1978,13
 ['champagne'],Light Up My Eyes,2MU6DYZqxxE16IN3e8QIls,0E53UGMTJLgERBWlsKoqTS,['4i0NOuA8XvyzLJl7qqMUfw'],1978,1978,6
 ['plastic bertrand'],Ca plane pour moi,71yCMlsD6qbD7NmNUEoVNR,1wLw41yiDGcZowrw3L3Bkd,['1KeIof0zqga5ojkmOKg88P'],1978,1978,11
 ['de migras'],Het Stadje Kufstein (Kufsteinwalzer),1FHnazc3fyHrfqqSE1280x,1kS5LzlsAMj05WO3lphyPe,['7uRcQmEEb2Y7N4upthP2uB'],1978,1978,8
@@ -3068,7 +3028,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['henk wijngaard'],Ik Heb M'n Wagen Volgeladen,5ikxJsdqc9ncyj39k415Mf,4oaQMnqw89unxMh8hL2DDq,['0EyzZUO2ycn0hLjKDFT7Hb'],1978,1978,6
 "['quincy jones', 'nickolas ashford', 'valerie simpson', 'chaka khan']",Stuff Like That,40yrHG4jXm4FVrjKwl7OE3,2z6doaZFiwXCv2fpFpwcAh,"['3rxIQc9kWT6Ueg4BhnOwRK', '4X7jBy7ujZ6PSsHJPuCosZ', '7Lc8gVjpJFGo4xMHE0Ax7r', '6mQfAAqZGBzIfrmlZCeaYT']",1978,1978,5
 ['amanda lear'],Follow Me,2AUWwd0gmxzxQMfxzvuFT2,1k7WkNHGPNPnri2tsowvtg,['0Xkd9GsWwOYETVF0kPXZIG'],1978,1978,12
-['ike & tina turner'],Nutbush City Limits,06yREZ9X92R2e9RJpdzZ2O,6FkWiSUX7YAdxOlHPrIzMj,['1ZikppG9dPedbIgMfnfx8k'],1978,1978,9
 "[""manfred mann's earth band""]",Davy's on the Road Again,0jDZ3P4LFKO59BfDhSrFSU,2Cg9BAwbhnHxLsHj5tv5uS,['2utNxkLhreF1oIfO8kQT3q'],1978,1978,6
 ['linda de suza'],Um Portugu√™s,3RNCauktIo9mitpO3alDav,18Bemi4ZV7IcsLQZx2jcpR,['7gbVW4KLmHZkqa3cWbZ3tH'],1978,1978,3
 ['dire straits'],Sultans Of Swing,3LTMnFa0hhwisyq6ILahyj,3QEcBcqPmefFWd5ZrLNuDX,['0WwSkZ7LtFUFjGjMZBMt6T'],1978,1978,8
@@ -3191,7 +3150,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['bohannon'],Let's Start The Dance,0vT84T4aw786D4tnVpUor6,7KgbNdC4gX6ggHLAgW1cad,['3opvWF0Koer2VPIJVOqnU6'],1979,1979,3
 ['kayak'],Ruthless Queen,4STZrk4WSN9RxlvtQb5sde,2H6DPjcMaPbCZzxINySIQD,['3w34NmNWqcGYg85t7ALa2D'],1979,1979,10
 ['gruppo sportivo'],Disco Really Made It,0nhRvSjdWoO4xf4kso8OVj,5oAJnyd27mRLnKdeQmoQfk,['43NJEdCasDjCttH1AgahwO'],1979,1979,7
-['patrick hernandez'],Born to Be Alive - Original Mix 79,3XIEWK1V9n25PS9Vb6axj5,0kVK9lFFTzhnEb4ETElbCD,['1CcEgi464SWZsKY5579u7z'],1979,1979,13
 ['the jacksons'],Shake Your Body (Down to the Ground) - Single Edit,6lSVidZXCnOnYAWcgIqVDF,77dNyQA0z8dV33M4so4eRY,['2yrbLiuBmc9j81lTX3XUuI'],1979,1979,10
 ['bino'],Mama Leone,2vTEoZKGeLaQ6D2jCdNnFG,7y3bd9OyKI9W1acprOjSOI,['2BvXL6lc17tLwLNCpZI07k'],1979,1979,10
 ['japan'],Adolescent Sex,3o9RxWwwf3WfQXvniwV8ag,0b9T6GZMBmrLabXNQXleuQ,['7vPXrGlSGukcwpaPxUfKKR'],1979,1979,5
@@ -3286,14 +3244,12 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['chic'],Good Times,0G3fbPbE1vGeABDEZF0jeG,1UFBJkKiBe3Lzjr307UhuU,['0Xf8oDAJYd2D0k3NLI19OV'],1979,1979,6
 "['dolf de vries', 'gary brooker']",No More Fear of Flying,6750DwAukSaekyvlkbGqIC,4X9gFjvlKnPBByfaQKWeLC,"['6v2HZXm6FqFuhjlBrYsw2Q', '4ujjmWsaeth22P6EdnMCrR']",1979,1979,5
 ['third world'],Talk To Me,1Op4lsCqcxCT0xEEWDee8L,3trTjVtSIZUBqC9gG1zpxB,['6qfKnsgz1CwyqA7lTdieRJ'],1979,1979,5
-['sister sledge'],We Are Family,5IKLwqBQG6KU6MP2zP80Nu,4GSidaoqyGNwaG5mNKmuLT,['6gkWznnJkdkwRPVcmnrays'],1979,1979,6
 ['the surfers'],Windsurfing Time Again,71mJ2Ojbe9JPip9zmGN5iM,3hkuta20XJfQgjBr0p87Uh,['0HEYYCxiGofDc2SPExvo39'],1979,1979,6
 ['billy joel'],Honesty,5iteQZfH6xKjrm7tA3cU6h,7r36rel1M4gyBavfcJP6Yz,['6zFYqv1mOsgBRQbae3JJ9e'],1979,1979,4
 ['donna summer'],Bad Girls,3ZKQVyxT4Jg2lLZRLs7Vgo,233CjjNDv5fzytZixjAKwe,['2eogQKWWoohI3BSnoG7E2U'],1979,1979,9
 ['dave edmunds'],Girls Talk,7yzTZjFPfsb6otv22JQK9w,4hFP82vO2pcLaABIfIJyNB,['65Gh3BfK84aTIugiRCgLBA'],1979,1979,7
 ['jan boezeroen'],Vondel Was Goed,6wyaQeUhXizajyMqzUkXMJ,4Psj2ESf4RYHIgJMqDLqMj,['1gXWBLy7AR94Wu58HCBcjk'],1979,1979,7
 ['triumvirat'],Waterfall,1hmcu4gSunXb9RJGQgd86b,6njyXI9cKAS6cY2Vnez2sQ,['3lnV6khgTreN8QiqtSAAgW'],1979,1979,2
-['julio iglesias'],Quiereme Mucho - Yours,6uZuYp9eRdtsMnziCXVmLb,2mvTdPihXIOm17QqGlkK3i,['4etuCZVdP8yiNPn4xf0ie5'],1979,1979,16
 ['shirley bassey'],This Is My Life (La Vita),3FfWJJs7onYRlEodv2gLRV,1Z93NZrfSuKN9M02WWfJL3,['090VebphoycdEyH165iMqc'],1979,1979,10
 ['dire straits'],Lady Writer,2CZgzbPQPClQzJNClE3pjb,3FBmNpc0y5NcKdRyifH8cO,['0WwSkZ7LtFUFjGjMZBMt6T'],1979,1979,5
 ['rickie lee jones'],Chuck E's In Love,3Z7mFVDy2izZNCvUWGy13Z,6IzMnrSzyRykaltIvnlNuk,['0dYkMe3wK29DulSa0uR8Rq'],1979,1979,7
@@ -3357,8 +3313,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['abba'],Gimme! Gimme! Gimme! (A Man After Midnight),7r5bS08R8d0jZuDZutVeHQ,366R23DbfxqjZo6AUBrQjv,['0LcJLqbBmaGUft1e9Mm8HV'],1979,1979,9
 ['queen'],Crazy Little Thing Called Love - Remastered 2011,6xdLJrVj4vIXwhuG8TMopk,58alCatewkjNm9IM1Ucj67,['1dfeR4HaWDbWqFHLkxsg1d'],1979,1979,13
 ['lene lovich'],Bird Song,1fkjuY5vauCjIPqhGD0RFR,7pltfJ1ItmrO7VHmV9Y0jD,['1yFJnlNMiBUBplMaOP5CMX'],1979,1979,4
-['the buggles'],Video Killed The Radio Star,7o7E1nrHWncYY7PY94gCiX,2fgCz9kQCDy0miERCy0sCJ,['057gc1fxmJ2vkctjQJ7Tal'],1979,1979,6
-"['earth, wind & fire']",Shining Star,0RgcOUQg4qYAEt9RIdf3oB,5tXZfxvr2VaWibD74nw8VL,['4QQgXkCYTt3BlENzhyNETg'],1979,1979,9
 ['herman brood & his wild romance'],Love You Like I Love Myself,5FVb1IK12Fgn2bI9gfvSWH,0oFYJ8qJmnU00SCTTrCnUX,['25uGmqV7NJt81bSYlEMKB0'],1979,1979,6
 ['nils lofgren'],Shine Silently,3J4QEssyDShqdnI5SiSdvt,1IrBNTc364DkrvUBmISfMC,['2TpAfGX0XNikAg5QjrbbvE'],1979,1979,6
 ['the sunstreams'],Hoor Je Het Ruisen Der Golven,28R701UvkOAmr5Xoh7mlPA,6xvDNdEiddNmtHQwOkRWkP,['2k9eItilgGutDQRD0Jld6L'],1979,1979,5
@@ -3380,7 +3334,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the emotions'],I Should Be Dancing,2eBLSi3lxme4eab35951j0,0iBuDs2sNJMrWHDt3xkV3r,['64CuUOOirKmdAYLQSfaOyr'],1979,1979,3
 ['mac kissoon and family'],Love And Understanding,5w3PVJuj6vyjfte45AXD36,1Zcv18Jn8JZrtjT94MNzJg,['0EPSsQLkiaUDLIS56KjFLp'],1979,1979,8
 ['viola wills'],Gonna Get Along Without You Now,1mCI3atQyw3r8rd0icztLR,6hvKTCWcPzEFuED9veaOI9,['3zFfbTj9QY7pvmtjI53DB8'],1979,1979,8
-['julio iglesias'],Quiereme Mucho - Yours,6uZuYp9eRdtsMnziCXVmLb,2mvTdPihXIOm17QqGlkK3i,['4etuCZVdP8yiNPn4xf0ie5'],1979,1979,7
 ['dolly dots'],(They Are) Rollerskating,5lMshHVKnnSWhSsMp0CncG,2J1TbXAta6c4XDQTmzRArs,['7jQDCbxYM9t8bLCd2n8ONI'],1979,1979,6
 ['paul mccartney'],Wonderful Christmastime - Remastered 2011 / Edited Version,4gavOCQdZ2g86gkvi17FM7,7G2kEoHNNWxq6j8okgMvCr,['4STHEaNw4mPZ2tzheohgXB'],1979,1979,5
 ['henk wijngaard'],Asfalt Rocker,352EMA5fKXrXo400FkoJlR,0oXHOohTvlcBbGHY1hXYgE,['0EyzZUO2ycn0hLjKDFT7Hb'],1979,1979,3
@@ -3392,7 +3345,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['abba'],I Have A Dream,3eutisUAO0FOgAE4gnaIwo,2rp5riHULWgrXPsDtsp1ir,['0LcJLqbBmaGUft1e9Mm8HV'],1979,1979,11
 "['the kelly family', 'papa kelly']",Who'll Come With Me (David's Song),2T3E4LYpxtRiThdMIQys33,1Pp4fCQ5nLJrRfDLC2L2ot,"['5KU4DdFlZy6aiI5u6nhywP', '5d1YX6Nxl7aAp8Q7F4kyFB']",1979,1979,9
 ['golden earring'],I Do Rock'n Roll,28Iy29X8AmwzGdioCFG5aY,32DFMKLarAPN39ceYwFho0,['1iTlOqIrZy8DlvCPJY2sjS'],1979,1979,5
-['the sugarhill gang'],Rapper's Delight - Single Version,0tm6gsXe0LSm9zeSspyMQu,1oQef7548sivCtMQwK8Wgo,['7zliF6Q946WznVk3ZMYhZX'],1979,1979,14
 ['boney m.'],"I'm Born Again - 7"" Version",25TtwCqc6vFm1cIEnAxMDg,3qanmly9I3vfv593JutFbB,['54R6Y0I7jGUCveDTtI21nb'],1979,1979,7
 ['new adventures'],Come On,3gNqfqfVU7BnVjZbGjwvKZ,6yb6tTWQw16a9TUfo0IGdb,['0CkAvvQeemqMI5hg2FJdjE'],1979,1979,6
 ['amii stewart'],Jealousy,6gCSBVwTDBDZDbpwaa5Liq,6brPlzSCD2ucBdhqmasvdf,['7GPNaPWw3STF8NYp39pd8G'],1979,1979,5
@@ -3428,7 +3380,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the monotones'],Mono,6HQN3uxc1ZR4MqR3JPzV4u,0aRKZzd65pEO3uxipYz6Ud,['4zlddaMfzJQPueAYOn11kS'],1980,1980,7
 ['bzn'],Pearlydumm,01iTs6MMrda0mBlzj2MQyH,27uVF6Rr8I655Vn6VQf2h3,['1tF9HtIFX8fJfBo64FIJ8S'],1980,1980,12
 ['donna summer'],On The Radio,1VTiqr1DijJoBtO3GKqZ5a,4Ks7eVU4RMpWaS55Au1fbf,['2eogQKWWoohI3BSnoG7E2U'],1980,1980,4
-['the buggles'],Video Killed The Radio Star,7o7E1nrHWncYY7PY94gCiX,2fgCz9kQCDy0miERCy0sCJ,['057gc1fxmJ2vkctjQJ7Tal'],1980,1980,4
 ['ramones'],Rock 'N' Roll High School - Remastered,4FzPIalyruWIiefI91qe4B,4AZArreHFJ5m8mo1SZT3Iv,['1co4F2pPNH8JjTutZkmgSm'],1980,1980,10
 ['willy alberti'],Juliana Bedankt,68H8xto5OCKYGpzMmfmjJL,0RTQcwTduLSTx1w3ht2cBp,['4V3RSGZYyjAoaDrZqPmzUM'],1980,1980,5
 ['the specials'],Too Much Too Young - Live 2015 Remaster,0Hzqa2oqyUxCFRUTqekYSo,438rUpZvWR5C1O2piZn1Ui,['6xnvNmSzmeOE1bLKnYXKW3'],1980,1980,6
@@ -3565,7 +3516,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['oscar harris'],Disco calypso,16Y0z2R3Vc7iva5ml53FPD,1AFWSCCJsmYJ7d4lET4YsJ,['3fwBzAupoByJYJJwUCSj2e'],1980,1980,4
 ['the cure'],A Forest,0T6kwiueP62ten2KLLmQS4,7hhojBmp7o620ZSq1eP9a8,['7bu3H8JO7d0UbMoVzbo70s'],1980,1980,4
 ['randy crawford'],One Day I'll Fly Away,0J8A1ZVyJcRZxFNvtp6jRh,1nC1gaO03Yk2lnbRZAN3KG,['1twC2fwPG5FkvYcMpVBQRz'],1980,1980,12
-['queen'],Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,58alCatewkjNm9IM1Ucj67,['1dfeR4HaWDbWqFHLkxsg1d'],1980,1980,11
 ['delegation'],Put a Little Love On Me,6EOAOGls9pIdUJsrqytcXK,1um0JgV0FOnEg3UA0IF2hc,['1zKp43H1kLHOTkJAeyTIkf'],1980,1980,5
 ['the ritchie family'],Give Me a Break,0Urr3RdBEjgrtTBchui3bq,31SAtYkcwQDwHBUnzcWlEj,['3FxBwdg0z5WkLdlAbe7GHq'],1980,1980,6
 ['new four'],"Meisje, Ik Ben Een Zeeman",7kwqlSlDRCzYxhe2DkZXFV,5nKXZgJN5a8GpGqQQ6smU9,['560Mau24wTfUiy6jKnApur'],1980,1980,9
@@ -3617,7 +3567,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['rod stewart'],Passion,0vZCwj0Mq5uS8GwSIYo6Y7,27JkLpdO8Mh29l6k3hpQNF,['2y8Jo9CKhJvtfeKOsYzRdT'],1980,1980,9
 ['john lennon'],(Just Like) Starting Over - 2010 - Remaster,5y0YreEOnQiKFAnCrcFIXz,15q7N7Wo307mfjqR29NpjF,['4x1nvY2FN8jxqAFA0DA02H'],1980,1980,12
 "['ellen foley', 'jimmy hall children of the world']",The Time Is Now,1K79OIRIBpufkoP9NABlPK,58ce0Xwu0WNPFYk7qo9WPr,"['0puypnsWTRY3cwySIyMjhe', '4vTGBL67KydhU85J2xqlmA']",1980,1980,5
-['the kinks'],Lola - Live,3JbE6e17yvNdPggjPDrCyO,0siomtYa15lZBHSI66bNfP,['1SQRv42e4PjEYfPhS0Tk9E'],1980,1980,13
 "['barbra streisand', 'barry gibb']",Guilty,60mGckXEG1EzR4VmjYLfEW,5mMebbufullX8FIhpCxwCt,"['7jmTilWYlKOuavFfmQAcu6', '7Hd38PVp634oGEb9pIDs5d']",1980,1980,6
 ['air supply'],All Out of Love,6Nq8YtPAHuL1outooeiFde,5PXeBHFjvr8EykHfFxJMje,['4xXCRXOfQKQ2gjWxNhNzYW'],1980,1980,4
 ['madness'],Baggy Trousers,6RJXCT2WrJKduOyxCNf6tO,7H1OX0VnSK53Ff6FXCiD5m,['4AYkFtEBnNnGuoo8HaHErd'],1980,1980,10
@@ -3667,7 +3616,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['blondie'],Rapture,6F2vo4sxRNQ58VYe3pdiaL,25eZFwT2UvVK1kxC3wMoSW,['4tpUmLEVLCGFr93o8hFFIB'],1981,1981,6
 ['talking heads'],Once In A Lifetime - 2005 Remastered Version,38Ngied9rBORlAbLYNCl4k,3AQgdwMNCiN7awXch5fAaG,['2x9SpqnPi8rlE9pjHBwmSC'],1981,1981,5
 ['sister sledge'],All American Girls,28gKFaRNe013GtaKLtiHbH,0MJj5o9vLbyQEjuxhLgK4T,['6gkWznnJkdkwRPVcmnrays'],1981,1981,10
-['phil collins'],In The Air Tonight - 2015 Remastered,18AXbzPzBS8Y3AkgSxzJPb,1cM3r0WQZWNkCpEbmFjLln,['4lxfqrEsLX6N1N4OCSkILp'],1981,1981,12
 ['patty brard'],Hold on To Love,5ff8iWJeUD7CFwdYuRO7LL,76TaDhhv8Hgoi0d7PHOvzR,['08RBCWbP6eO3i9WcMwi2d8'],1981,1981,6
 ['sandy coast'],The Eyes of Jenny,6w8T2AwZ4k47OF1w2Jj2e1,7MdMBbgNqWncF10ULnk2pk,['2Ym4vFrYKclJDy0Jq4CpcR'],1981,1981,8
 ['supertramp'],Dreamer,4Hqh3uf5hSy9yijhlqArzb,3QMIDNCHQeFjjrtFL6n2SA,['3JsMj0DEzyWc0VDlHuy9Bx'],1981,1981,3
@@ -3806,7 +3754,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['juice newton'],Queen Of Hearts,6xBUWSz8INNHO6wFYuPtQl,0fSvQOkU8rRgcsW6MerdVw,['4L1z1IcfK7lbqx8izGHaw5'],1981,1981,5
 ['saragossa band'],Agadou,11bo0QJDtq8hOXVj9ZI8vY,5JGhzh4tfpzVW9teYVSpBI,['3nkVOtFjNXdUHntOHxtnix'],1981,1981,3
 ['hi-gloss'],You'll Never Know,15TCBcHCuyYMCpEN5r6jF4,31J1iOZVTNzbSPtIhsXPsp,['0F7G8LeDmCpHHEPX55FEgq'],1981,1981,5
-['johnny jordaan'],Ik kan ze niet vergeten / Bij ons in de Jordaan / Zo zo zo is de Jordaan / 'n Pikketanussie / Daar mag je alleen maar naar kijken / Ze mogen van ons zeggen wat ze willen / Pruimenpap / Vijf dagen naar Parijs,2TuVRzAXYfqTSUe4yFRWcn,0ThS25TXxuoSynDy4IrAmC,['0tlvzmFmhfItI4bdwby03e'],1981,1981,3
 ['the police'],Every Little Thing She Does Is Magic - Remastered 2003,60HDLY1Dh2Hy9wTVI3WPzO,5ghoXlpcDLKp3QNC2mzZ8A,['5NGO30tJxFlKixkPSgXcFE'],1981,1981,14
 ['bee gees'],He's A Liar,0OC07WCT5qN9mKcdf2A6ZO,1RtKYfxnF9xpe58iEAfO4Y,['1LZEQNv7sE11VDY3SdxQeN'],1981,1981,7
 ['adam & the ants'],Prince Charming,6kNCp2iYikDNptGzxfjYk1,6I5J3CY88CUK7VzhCd8b11,['2DppeCnNtvrLfEobq9Pw5r'],1981,1981,10
@@ -3934,7 +3881,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['men at work'],Down Under,46RVKt5Edm1zl0rXhPJZxz,6GYIy1SuhPDrugCZ5yNeQy,['0f3EsoviYnRKTkmayI3cux'],1982,1982,11
 ['doe maar'],Doris Day,2ePX2r2elB35PhEE0jCQUb,5dEuc3PFwHlw3OR2IwCX4S,['58hFVpwYRp8sQdtANcMpiE'],1982,1982,9
 ['al bano and romina power'],Felicit√†,7sXTcibuNYugjjYNfgf2kY,6rYKh2EVXdWs5Pe8MugvSM,['1c0wBsDBu0NqpvxBqjYjZS'],1982,1982,7
-['mike anthony'],Why Can't We Live Together,476GNpHZKJifNBz9jGy8gs,5OgFGuLPRPZbnq9B2vy7G4,['25uvtZDK1YJQW9udbrpDRp'],1982,1982,2
 ['elton john'],Blue Eyes - Remastered 2003,1rUu58wEd44nEzIbF2CYil,2IK2faEYu07GxN2mhZW0F4,['3PhoLpVuITZKcymswpck5b'],1982,1982,9
 ['willeke alberti'],Het Is Nog Niet Voorbij,30cYwrOFnVAwgNq7zyshVR,3olYePqSyCQeR2jvXwKhiD,['7monj8DXxygyUqgx7ncylV'],1982,1982,4
 ['paul mccartney'],Ebony And Ivory,3H7QXM59ubkX9yyKD1fEwK,5KmV008tb0n0xusPf75Kd7,['4STHEaNw4mPZ2tzheohgXB'],1982,1982,9
@@ -3944,7 +3890,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the buggles'],Lenny,2B9yOAIIrZHkvwIIQYqHyp,75SRdKt3Y6ncGJtJAaXTy5,['057gc1fxmJ2vkctjQJ7Tal'],1982,1982,5
 ['bloem'],Omdat (Parce Que),6E4QdEaBq03c8orj5Q8zbB,5usU8U80qi0ZdQNHVc8yva,['4Q7PRWyZrpaEWFd8I0gdtB'],1982,1982,5
 ['kim wilde'],View From a Bridge,0xdTHRkRv4sTrNikBNiz1u,6NPoxEiMqOpHZyymu1Begh,['73a6pNH4YtLNgDbPQwXveo'],1982,1982,8
-['mike anthony'],Why Can't We Live Together,476GNpHZKJifNBz9jGy8gs,5OgFGuLPRPZbnq9B2vy7G4,['25uvtZDK1YJQW9udbrpDRp'],1982,1982,8
 ['the quick'],The Rhythm of the Jungle,6MOVNg4RYjbkjBcwzWcakH,50M2o5oVvrG0LEt6ecgJXy,['64FKJFUVRdDPojgMNgfNSp'],1982,1982,7
 ['roxy music'],More Than This,6N7gPTru90HYLRUIVDQ185,3JXODSjT9mUz2lIb4YIErw,['3fhOTtm0LBJ3Ojn4hIljLo'],1982,1982,4
 ['status quo'],Dear John,4GjiBJ5eZCcFwlQ2jaRnKO,5jRoM406cCWAlrZ9Sp9OV8,['4gIdjgLlvgEOz7MexDZzpM'],1982,1982,5
@@ -3964,7 +3909,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['chas & dave'],Ain‚Äôt No Pleasing You,0ScvNAru6QoLl7SmnMC5ai,1kGDpcVUiWyd8HT3tlywL9,['38unGip4o3KhMfqHdHWB7K'],1982,1982,6
 ['boys town gang'],Can't Take My Eyes Off Of You - Original Radio Edit,38f6pFU4HRtrT198ZnyrK5,5UD6SOM4JtmtTTJ3SNt1cU,['0yrScqagPyABiZeoNHHe3H'],1982,1982,11
 ['spider murphy gang'],Skandal im Sperrbezirk - Original,0hgbkNcWjVflyBCfgCwxwd,6shoK0d4jnDvYCLeLP6c0J,['7LdEfCVOGOJ2jaAxsmnTeN'],1982,1982,8
-['hot chocolate'],Girl Crazy - 2011 Remastered Version,5LhVyL9Epc7QaAgKEsIXY6,75sqVZTa8HIi8pZzEUfoRk,['72VzFto8DYvKHocaHYNWSi'],1982,1982,10
 ['bzn'],Blue Eyes,0QVQDdP2v8JFGxduGxSu4e,0NA3D0ZMGIe6h2yGJAsf3k,['1tF9HtIFX8fJfBo64FIJ8S'],1982,1982,9
 ['blondie'],Island of Lost Souls,5xDOndGOZHlfO8U0avumDy,5HRB9TeaIHRBxfIm4XZTj6,['4tpUmLEVLCGFr93o8hFFIB'],1982,1982,5
 "[""guys 'n dolls""]",Broken Dreams (Tu Cosa Fai Stasera),5q4yYrZcUya4bfWF1Au71r,63rf4PvLsvCfkB9oQeZyuZ,['1XS8HBKwN0ZESL7MVDDpje'],1982,1982,7
@@ -4061,7 +4005,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['drukwerk'],Schijn 'N Lichtje Op Mij,7J9RIMJT1xZi54mg2S9iht,7Eb9oNFsOSU4jbjgjwVL4v,['5k1FBxAglBtDC8H26LOo4F'],1982,1982,7
 "['patrick cowley', 'sylvester']",Do You Wanna Funk,1S7VWDpdcFFzNVg6ZQNpRg,1ADDWk1kGAsgKes4fik49O,"['1pggi3bfbAPkwrylE63MEO', '5TGTpu4g8siFOIctZuQO7y']",1982,1982,6
 ['dominic grant'],I Won't Let Me Down,4WSqz0akc2wD8sP7x8wLAX,7asHy1vZsOSIgAMg5SLlOI,['3iU3LDrHaAo4ROFMEd0iKk'],1982,1982,5
-['james lloyd'],Keep On Smiling,60cOvFKI5UQDsVfYBBMPGR,2cshSc7T6C81ioj52mmFVC,['33EdGAT6HNpc9dFzyMGYje'],1982,1982,4
 ['het goede doel'],Gijzelaar,4xdgZcVRQXSowzDqD1oQeH,7jsLPQZWwTVLoamvnFdD3i,['73G7RMWMbWUGc8tkXeQoJQ'],1982,1982,4
 "[""rocker's revenge"", 'snafu']",Walkin' On Sunshine - Funky Radio Edit,5LVg54yxHu6WqPNge9bq9A,3bV5dStr3N6Vc4fo87rtSK,"['4HQUFZUKjXhvh9rS23DYzG', '4IjNLEdQccLGYrmMh6jLHa']",1982,1982,5
 ['roxy music'],Take A Chance With Me,1i7udkWd7YzALjdYQnzqvM,3JXODSjT9mUz2lIb4YIErw,['3fhOTtm0LBJ3Ojn4hIljLo'],1982,1982,4
@@ -4074,7 +4017,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['agnetha f„§ltskog', 'tomas ledin']",Never Again,4cp2FnHFz59ZPM6KaBK1Jx,2x4yLL2YW3TZGHVny9yXwC,"['7fUtt9kVZOyn9LWy0JbDRI', '518rTAIFPwQjLUSi4Pdzzn']",1982,1982,4
 ['divine'],Native Love (Step By Step),08z4YUOPIc6nS0nAUC5uDU,5O6UW3T8pR37aosytoTLcC,['1wASklF2AQfIVhSBWnUHwz'],1982,1982,3
 ['donna summer'],State of Independence,3mZ6PVxWBhCycZxeEJQDNs,5FrCkoFG25Zd6QVJTtviYW,['2eogQKWWoohI3BSnoG7E2U'],1982,1982,9
-['lee towers'],I Can See Clearly Now,4gta5a6wce8DOvSsx1GsRh,4OS3MZ9ttC3PrFwp0mwti6,['1J4tcPuHMmmMSTUXtJRApH'],1982,1982,7
 ['babe'],Together In Love Again,4ybLCB0aCacIQRslm9rLCM,6qnBUyykJ47WNBaHiXWTzt,['4sMa065SqHJi7JtCNz4hci'],1982,1982,6
 ['imagination'],In the Heat of the Night,16vObRGAKtbmSLybpEbnch,7FbF8LUVnfmJWkzYfBrvt6,['2CkhxuagMCG9uvlbKm5G3m'],1982,1982,6
 ['the pointer sisters'],If You Wanna Get Back Your Lady,4hvaeWhU8iF8BEuZf4gBpA,6QmOTNMb8Ab1ZbDd5sJ3AU,['2kreKea2n96dXjcyAU9j5N'],1982,1982,4
@@ -4130,7 +4072,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['henk wijngaard'],Truckcar Race,5V2SA7HqZIyi44h1baot2q,4oaQMnqw89unxMh8hL2DDq,['0EyzZUO2ycn0hLjKDFT7Hb'],1982,1982,4
 ['musical youth'],Youth Of Today,7nIPnglGERXpLiPrWGOnDD,2tSQIit38XqA1gYe4KfHvk,['2CuzDPkRD6BJBvdWqCrt2I'],1982,1982,6
 ['anita meyer'],The One That You Love,0vmqtMSDl4ZEavnZ8u7tcG,5MY0wd1GZZxMSMZ9hRzTVV,['7xxVm0cM4x7TUBadZQuz3S'],1982,1982,5
-['andre hazes'],Met Kerst Ben Ik Alleen - 2005 Digital Remaster;2005 - Remaster;,3ZnUqE5rsaJOHKgSCGao08,3ZcLqwqA6TglqLqmV2W6ye,['04MtOUkmIDC4LAxDDBjrOY'],1982,1982,4
 ['patricia paay'],Tomorrow,7rnA2Q7wrCyMSG0qKTBMB3,4yZEdbhWjZILUaSex1Dis3,['7wSSa5ZhfmxYBMM0LT5lEd'],1982,1982,9
 ['the alan parsons project'],Old and Wise,5Jt2AQv1c3RUF5ENtAYF1i,4BGd9BmpePqeSfHLeYiCDr,['2m62cc253Xvd9qYQ8d2X3d'],1982,1982,6
 ['vicky leandros'],Verloren Zijn We Niet (Verlorenes Paradies),4umVQK6U1ZrMw4UJ310iKW,1yf8PqrJ7CHmmcoAk52vMT,['68yjIBoc8l4GaliVFZDUcJ'],1982,1982,6
@@ -4155,7 +4096,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the jam'],Beat Surrender,0RoreocwJ9hfyOhufSvhDm,5tCafNFnLdK5orQH5Y9FFP,['2P560DaOMNDUACoH8ZhOCR'],1983,1983,3
 ['irene cara'],Fame,7yBl8YmvcgwwYlazJcvowE,2nE5WmbSq3qbyDrOpSTlnq,['3oZa8Xs6IjlIUGLAhVyK4G'],1983,1983,11
 ['bap'],Kristallnaach,2aZsp1KAJLMOaW2socza14,01DA2kVDaJ8I2Z6PETlZt7,['39ukKqQOSUFJDAM9OLKQZg'],1983,1983,8
-['eddy grant'],Electric Avenue,0upSMyj1Wzs6qyiZRuiFWD,3dybBHdC7BfEg1RU1eacS4,['6j2HWcd7z61iTLbi8eD0hA'],1983,1983,7
 ['het goede doel'],Vriendschap,13mvLR1T0GesAY3jhM9lAw,3FhvAa1JUA71NTX6AJBfpc,['73G7RMWMbWUGc8tkXeQoJQ'],1983,1983,8
 ['u2'],New Year's Day,7w3klLQ4XYHxEdYL50qX9M,7k7aHoW1MGWWQR0KXvswkx,['51Blml2LZPmy7TTiAg47vQ'],1983,1983,7
 ['john spencer'],Lana (Nederlandse Versie),20wxnWdKYezQ8xCOFX733B,4QvmBtqdDJCyP2xD8tMaw6,['59DTuMGsxnvkyq8Ulz8cvm'],1983,1983,5
@@ -4178,7 +4118,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['kc & the sunshine band'],Give It Up,7sm3orGGwNFqmWFSPRl8eT,7BWaaErn7vx53MFcpW8KRC,['3mQBpAOMWYqAZyxtyeo4Lo'],1983,1983,9
 ['kajagoogoo'],Too Shy,6WEBIVqiEsevfgJefTyuQQ,52koatNHePHRWEmmkP0z2Z,['0f3kLT4wvi2mFHlHJgV8Hl'],1983,1983,9
 ['divine'],Shake It Up,03AAIrcRJgzazS7R3eek5N,4pszojNDSBFpCwc7pqtxrM,['1wASklF2AQfIVhSBWnUHwz'],1983,1983,6
-['nena'],99 Luftballons,6HA97v4wEGQ5TUClRM0XLc,0V8ETNFjMiaCoG45ZPWsUs,['6Tz0QRoe083BcOo2YbG9lV'],1983,1983,10
 ['bzn'],Just An Illusion,1nZbyrWK2hZVv422gIGJ5l,3tmjOE121zgkbOB1hTAX7P,['1tF9HtIFX8fJfBo64FIJ8S'],1983,1983,9
 ['vulcano'],Een Beetje Van Dit,6NOqzYiiHN1mHhDr9jDEn9,1Oss81TfRg16E0vdmJfJ8e,['2tsjX3EgFU0t7Ure3FVvZF'],1983,1983,9
 ['kool & the gang'],"Hi Di Hi, Hi De Ho",341wo6oxiQoukvSP8sDg4M,52ZOtET6twyVA0ZBlDG2RP,['3VNITwohbvU5Wuy5PC6dsI'],1983,1983,5
@@ -4225,7 +4164,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['men at work'],Overkill,3iA4foXIFpekwHyma7pRs1,4GDchmJ8oESRJ58cDXvnE0,['0f3EsoviYnRKTkmayI3cux'],1983,1983,6
 ['daniel'],Julie,5rLIhnHkyJA2NEBfz0y5nU,19URQt2Yoxs3z6yXISdJTk,['2T23Kx4T2uZ7JFVpRiG2H1'],1983,1983,8
 ['agnetha f„§ltskog'],The Heat Is On,1qnG5n2LtWlyD2VYFgEMwI,5treLhXc6lmSbZJ0HHihEj,['7fUtt9kVZOyn9LWy0JbDRI'],1983,1983,10
-['hot chocolate'],Girl Crazy - 2011 Remastered Version,5LhVyL9Epc7QaAgKEsIXY6,75sqVZTa8HIi8pZzEUfoRk,['72VzFto8DYvKHocaHYNWSi'],1983,1983,5
 ['little steven & the disciples of soul'],Forever,5xMud3DRzhdjwN7Gv4ioRt,33VfHvUQEVKUYG4kS0k2Ie,['6jdYtcR0w0GozvhEWHEQjO'],1983,1983,6
 ['vitesse'],Julia,6uQ19fibuLTqk8RD92mpkB,3TsWlXjfDHsH5OADwjCWT8,['3E2fFjj2exI7FBNE8bxkXG'],1983,1983,3
 ['boys town gang'],I Just Can't Help Believing - Original Extended Version,3TdA5ZsIwkR6DhhfbXvKq6,6aVh29cSNxXPvQwn5YhqGZ,['0yrScqagPyABiZeoNHHe3H'],1983,1983,5
@@ -4343,7 +4281,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['freeez'],Pop Goes My Love (Extended Version),770TdF3vXLk9zwLtj5DG2C,3WgSvz4FgWDbPvoecchXXQ,['5titkTztShEPJSoCL9TXF2'],1983,1983,5
 ['big country'],Chance,6BzQFXmAByZMRXfO71cbQ1,5zXljJAoxFJzdKytvGomea,['1h8YIw9HLr6E8gdXVDRbVJ'],1983,1983,6
 ['unique'],What I Got Is What You Need,7q0YnBULjHB4Qe0EcsUKo0,1O7qIRwR6EbQGU7SP67bvk,['6MOzwCxG4EYv6nWo193Et5'],1983,1983,5
-['laid back'],Sunshine Reggae - Original Mix '82,0z0JSkE5Nw3i3nin3BBSuG,2PTte9WD2NqJzmbqNaDpa1,['2OLmN3LLWtLF7zerL4VdaX'],1983,1983,8
 ['gazebo'],I Like Chopin,2FHnN5ELL83TGbtXMDzoiJ,4eDKBINPlkkrz4AkZhx42I,['1Tzu45aHnn0Xz4msfhHRW1'],1983,1983,9
 ['ricchi e poveri'],Mamma Maria,7tVEeTbzEJkHP0EqUu6rmf,0WdZQGmbPI3U7eDF5jACGi,['5BwOOeKayeMZXa5SSaiRxv'],1983,1983,3
 ['de leidse sleutelgaten'],Joke Stop Toch Met Koken,7DL2hb41CIMNyCsA51euTZ,4xKGHN5JhHuaKsEN77g25r,['0EzfzcSiRKGHXSJIQFECEN'],1983,1983,7
@@ -4397,7 +4334,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dennie christian'],Schlagerfestival,2DWGxNAQnBmLB5iYXKeAaI,02vYFE3q3yBY18w607uYmR,['3rIFlp14SwbtFe5r70bGdC'],1983,1983,5
 ['anita meyer'],Sandy's Song,5feBXa64AkfkJZ2Vu17AmS,5MY0wd1GZZxMSMZ9hRzTVV,['7xxVm0cM4x7TUBadZQuz3S'],1983,1983,4
 ['culture club'],Victims - Live,3TGfqFJLblSGXKO4iqmP4g,3mWE9qfDCp4gBI5pTfyhRo,['6kz53iCdBSqhQCZ21CoLcc'],1983,1983,5
-['nena'],99 Luftballons,6HA97v4wEGQ5TUClRM0XLc,0V8ETNFjMiaCoG45ZPWsUs,['6Tz0QRoe083BcOo2YbG9lV'],1983,1983,8
 ['frank stallone'],Far From Over,3LUrih1nLwx0vL0QihnpdI,3SfepTCpUYg5C1UV7DvkJ1,['3BucZwouCkpiGi2UxqfWn9'],1983,1983,10
 ['the flying pickets'],Only You,1U2L6NW89IIy6Gw63C4eP2,1oi0pNpN3BM69Do9lIUNKp,['41A6Xdil8qhaD2DcS4X1wA'],1984,1984,8
 ['the cats'],Love Is A Golden Ring,5ixGyrLvvNXMAPloWVu0no,4ifT7ZPq4PA7qhRkDhlevG,['4mplweFSgMgpH03ruEMEMv'],1984,1984,5
@@ -4581,7 +4517,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['drukwerk'],Carolien,5TS8dxRFZvZBldhcoKd4a9,7Eb9oNFsOSU4jbjgjwVL4v,['5k1FBxAglBtDC8H26LOo4F'],1984,1984,5
 ['donna summer'],There Goes My Baby,0GXw1ViJHbJatCefgdpfDl,1M1p0adM3fZMjDhu3Zt13P,['2eogQKWWoohI3BSnoG7E2U'],1984,1984,3
 ['matt bianco'],Whose Side Are You On?,4ij2lt6gsMvXC4rx7Jujd5,3Oz9T6DyUBv5UVcEkXlbK4,['1WQky50vkzSvSCUl0ejWqb'],1984,1984,4
-['u2'],Pride (In The Name Of Love) - Remastered 2009,65E62rOSbm7SZbAMYjNTJq,6akaB3XfTnCwrY4DahsBCY,['51Blml2LZPmy7TTiAg47vQ'],1984,1984,11
 ['bob marley & the wailers'],Waiting In Vain,7FILn9Akg2468HPNsRZCkq,4qsXcmAgPNSliu6oMQGOQ9,['2QsynagSdAqZj3U9HgDzjD'],1984,1984,4
 ['the cars'],Drive,3wfujdbamR3Z46F4xav7LM,5ycnwHGkzOlTuMOI3Zh4iO,['6DCIj8jNaNpBz8e5oKFPtp'],1984,1984,12
 ['bronski beat'],Why ?,3asdFeuOqo7XODWHtESWWb,7sJwidjwY9gt44I1AioyKm,['2wpWOzQE5TpA0dVnh5YD08'],1984,1984,11
@@ -4604,7 +4539,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['tina turner'],Private Dancer - 2015 Remastered Version,5JjdJK0uGRUk4skRTuQdUZ,7gVHUNPQr0AE2A0Yf5MjqR,['1zuJe6b1roixEKMOtyrEak'],1984,1984,10
 ['paul young'],I'm Gonna Tear Your Playhouse Down,2Vr494fU9q4ihTcXW8KDlN,6bDQgC4mNcwz46wHKI6h2y,['6rqU9HQ57NYGBnBzbrY3a4'],1984,1984,7
 ['kim wilde'],The Second Time,3Di7OqNGzoLTFZrKwiBxHi,3uC55klsNxpsO8ky3dYQD6,['73a6pNH4YtLNgDbPQwXveo'],1984,1984,6
-['andre hazes'],Donker Om Je Heen,2ncUdMxM4114QbyHvrZCWz,0gCT4Y1EUY4XrlWvCE462K,['04MtOUkmIDC4LAxDDBjrOY'],1984,1984,4
 "['jermaine jackson', 'pia zadora']",When the Rain Begins to Fall,20U6jxOsN40kK95ZlFZMJA,75upqjYv1ElatK4kDhvcMn,"['1VDurPMbOKrNU8mcMP4X1P', '4xOk8sG1KBfhKhR4BOq7Mc']",1984,1984,15
 ['paul mccartney'],No More Lonely Nights (Ballad),3iuDPdkt1l3L4MH1kPIuGc,42XGL4SP2b0D3HoeMlPJHQ,['4STHEaNw4mPZ2tzheohgXB'],1984,1984,3
 ['sheila e.'],The Belle Of St. Mark,5I0620xa6ecXZinsDUUcYF,2fv3CMkuVgYRtQVnhv1rQW,['6OQrOpxSIfPai3cFaN4v4P'],1984,1984,11
@@ -4636,7 +4570,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['nik kershaw'],The Riddle,4DFHOaiMTmqtrSffaJa89c,69bhL4frY4toMx0No4DRQ6,['7kCL98rPFsNKjAHDmWrMac'],1984,1984,8
 ['golden earring'],Something Heavy Going Down,4UIsiM5haoS2Hkju9En17v,6rKDiebEULJR1OW3h0jl18,['1iTlOqIrZy8DlvCPJY2sjS'],1984,1984,3
 ['jim diamond'],I Should Have Known Better,5IyQVVNxWilHIYU5E5V2bs,0XBUyh0tnr0VLJSi1T8kge,['4MC3knlcFjcW7nt2hdn4Dk'],1984,1984,13
-['debbie'],Everybody Join Hands,6vhdicgilPvff83sXdDHZW,5LId39hGHqmw2PCm5VKxCM,['2sk0aTOPZiff9bUUkSKGEk'],1984,1984,3
 ['frankie goes to hollywood'],The Power of Love,5654uafGObRAqqbL5h1NO9,0Ql9kv7KQQm6Qyd2dHsIKm,['1mZu3rO7qSD09GdDpePHhY'],1984,1984,10
 ['koos alberts'],Gisteren Heeft Zij Me Verlaten,2xhSsRq5QryvxZzfwYi6UD,2AlvKLackQQaGYgRMOM7VR,['2x8IIf3l8n2kJgLOxcYP29'],1984,1984,8
 ['foreigner'],I Want To Know What Love Is - Remastered,1JLn8RhQzHz3qDqsChcmBl,4oQhDQDKMeI6IMlwpXt3j8,['6IRouO5mvvfcyxtPDKMYFN'],1984,1984,15
@@ -4679,7 +4612,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['shakatak'],Watching You,3SbbJLMBUHnieLkQyQUKIh,3QNv4jI7XoH2zK8oHVzwHK,['5FFtX4eFjh2vZQEl31d2XJ'],1985,1985,8
 ['chaka khan'],This Is My Night,1EZmeztCbpOM1vqDlGyJLQ,08yanJqA75TPyDowCXvvPU,['6mQfAAqZGBzIfrmlZCeaYT'],1985,1985,6
 ['mick jagger'],Just Another Night,3VsLjBNtsAjytkqGE5dVlU,4AXZg2u76JOqk2gV1iKH3x,['3d2pb1dHTm8b61zAGVUVvO'],1985,1985,11
-['sister sledge'],We Are Family,5IKLwqBQG6KU6MP2zP80Nu,4GSidaoqyGNwaG5mNKmuLT,['6gkWznnJkdkwRPVcmnrays'],1985,1985,3
 ['andre hazes'],Ik Meen 't,49EPxidDCfWYg0cIKmTxHB,0gCT4Y1EUY4XrlWvCE462K,['04MtOUkmIDC4LAxDDBjrOY'],1985,1985,11
 ['zz top'],Sharp Dressed Man,0f9h8awV1X4jSllHXXYdfX,20ZZfEgbODMenFN8EKlVFh,['2AM4ilv6UzW0uMRuqKtDgN'],1985,1985,9
 ['the temptations'],Treat Her Like A Lady,47Ci5BhB76pIe14V1yehoe,2fnKyAoCElu7MM0IfoE5CH,['3RwQ26hR2tJtA8F9p2n7jG'],1985,1985,8
@@ -4737,7 +4669,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dire straits'],So Far Away - Full Version,0h8pmQEibj5GUdMoaqrJnF,1NF8WUbdC632SIwixiWrLh,['0WwSkZ7LtFUFjGjMZBMt6T'],1985,1985,5
 ['alison moyet'],That Ole Devil Called Love - Remastered,5P1a7Qjt7Zmv3Y6L1MtOVG,4qPLlznZNLozPaghKFh3tr,['0s0rOb0gT2S9N0SDcjtPC4'],1985,1985,11
 ['roberto jacketti & the scooters'],One Day's Enough,6L3t8ivyMpw2RGpLCWHrxy,7AKE6GwrlsXKq092WFX2yZ,['0tncX2ikoA4Vzhu2a3Paun'],1985,1985,5
-['u2'],Pride (In The Name Of Love) - Remastered 2009,65E62rOSbm7SZbAMYjNTJq,6akaB3XfTnCwrY4DahsBCY,['51Blml2LZPmy7TTiAg47vQ'],1985,1985,9
 ['bryan adams'],Run To You,5uYftoQOkXRagzsBDEPjkb,1DCI0mQQdf0LYoXheONDXi,['3Z02hBLubJxuFJfhacLSDc'],1985,1985,8
 ['mai tai'],History,4ulL3iChIwCCDrY0GP0vVi,1jggaFoGo4JWbFt9TLWTgx,['0L0XA2oh77ZfPZiaBxw96D'],1985,1985,6
 ['loose ends'],Hangin' On A String (Contemplating),4p6oBRvpqyngp4qstr5GBe,7965W9duyzpmJuPeVrJigl,['4q3lWHEW55hoLJNzZskFVo'],1985,1985,4
@@ -4768,7 +4699,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['bryan ferry'],Slave to Love,7imzBhHn7KD6ag3letxmSt,7MCxE9Sx4zHSXL4xXHm4Im,['5RNFFojXkPRmlJZIwXeKQC'],1985,1985,3
 ['steve allen'],"Letter From My Heart - Original 12"" Version",1m2Nhacm0P7zxEia9xMMme,3dLFdLwD6YULEAKZT0WjG4,['2RsnV5tqDGDBOooPbpSVdS'],1985,1985,7
 ['glenn frey'],"The Heat Is On - From ""Beverly Hills Cop"" Soundtrack",60EtAySYm0qBlPj3LSXil6,1VIBf6mV4sFmVVYEzesspS,['3vMWY1bUrmYoSoEWLiQWOZ'],1985,1985,4
-['bruce springsteen'],I'm On Fire,4bSWx86yHmy6OOMsQPU60F,14IYDXybb1XKu51QHDryak,['3eqjTLE0HfPfh78zjh6TqT'],1985,1985,13
 ['talking heads'],The Lady Don't Mind - 2005 Remastered Version,6xaYStR8hIimvEmKLwv4Gh,5Dja2ASXd7MOM628iwYdtA,['2x9SpqnPi8rlE9pjHBwmSC'],1985,1985,8
 ['madonna'],Crazy For You,6B4oVElDIKRNcNUary0WG7,43lok9zd7BW5CoYkXZs7S0,['6tbjWDEIzxoDsBA1FuhfPW'],1985,1985,10
 ['time bandits'],Endless Road - Video Version,3h0wGeJiULJ34vCS2mcOLW,5KqK05b9TO7a5rmDnKX2da,['23DeFeMRFRhnfMfawvqFne'],1985,1985,10
@@ -4813,7 +4743,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the cure'],"In Between Days - Live At The Palace, Auburn Hills, Michigan",4uexN8lwDjGX5SQycpz97I,0oi8Xnmhy3lMsSlpeoXvmP,['7bu3H8JO7d0UbMoVzbo70s'],1985,1985,5
 ['zinno'],What‚Äôs Your Name?,6sc2tONyBCvZ3SyAbSkscp,2imzqf0QVuJD7WfVl9G9Xo,['7mE6yOY40tJyz39aV3AI6L'],1985,1985,7
 ['simply red'],Money's Too Tight (To Mention) - Live at Sydney Opera House,33HtDRQBr8dxOYI1qWl60A,6mGVxGqS2MW9MHyA2BHfbD,['1fa0cOhromAZdq2xRA4vv8'],1985,1985,6
-['tavares'],Heaven Must Be Missing An Angel,6J9paEX8rcBYuAIawdnzUj,5DBKj09NaZ23ZUj8G1lB6z,['3LfO03nEZMdWNHG2tLpMa0'],1985,1985,9
 ['bruce springsteen'],Glory Days,2Y90nL1ohB4sgYELDs7uNx,0PMasrHdpaoIRuHuhHp72O,['3eqjTLE0HfPfh78zjh6TqT'],1985,1985,6
 ['koos alberts'],Ik Zal Je Nooit Vergeten,3l3OzlnWLtDHwPO495gEdg,1ia0hACzZyGqzYEuIX9uLP,['2x8IIf3l8n2kJgLOxcYP29'],1985,1985,8
 ['rick james'],Glow,0uVmlKTU6RgCOkU5Tv4QCO,2SVr4d8a0OAg0RWvmD3Qb6,['0FrpdcVlJQqibaz5HfBUrL'],1985,1985,12
@@ -4900,7 +4829,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['david grant', 'jaki graham']",Mated,7nN88g4vdQH1i2A62sVFJc,5JA0FNU8f5qnzuX6QoNPIk,"['6nxKcnBm27DcV7ZbSdJW2W', '4i50i5M5whfhk1zFEfo36O']",1986,1986,7
 ['brilliant'],It's A Man's Man's Man's World,2g8uHTW5pRjyNFjyb6mZ3U,1MxSuojSE3RDir2U1M2aeb,['1zQHBGx7G1qS2sjPLhk0tv'],1986,1986,3
 ['drum theatre'],Eldorado - Dance Mix,0HLS1I7EJ6ve50PrWsm9gI,3goHSkdSCMhZQPe2zH8x0s,['08moU0GHUDr8UKnKIBgiki'],1986,1986,7
-['jan hammer'],"Crockett's Theme - From ""Miami Vice II"" Soundtrack",45r7mbXRbpFAYZavAoX6tk,4abeKxrbKcGJ8znhOdxs7U,['50zRydJXfkLzGIOj9mITfy'],1986,1986,6
 ['billy ocean'],"When the Going Gets Tough, The Tough Get Going",7uEhDh2dp3ka84LHWR15H4,5ciu3GM6WiMGBOSbQKgc5z,['5IDs1CK15HegSAhGEbSYXo'],1986,1986,16
 ['the waterboys'],The Whole of the Moon,11zWfCQaGkXJ9uIXROr4pa,4GQrd6FEVZXsYRrrSB9DC4,['5TnuP42pw475UrjjeabtwZ'],1986,1986,7
 ['moses'],We Just,04DNtU8wGFe0PRQlghKz9Q,5ZFIKRCuvoCvD7MxdqUfPm,['6ZWBf9fmLzxvvd5KlUoRZM'],1986,1986,10
@@ -5029,7 +4957,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['lionel richie'],Dancing On The Ceiling,1AwJGxWNl5n8O2CSlvPKYL,1b81mEDt3DmqDdQrZg3i8F,['3gMaNLQm7D9MornNILzdSl'],1986,1986,10
 ['miquel brown'],Close to Perfection,0yYbVLxpd794WeoLT5XlZL,6EU1NNMORzCGafFXc90Cum,['0y6KR72CWZyrsYZr8iAq4G'],1986,1986,7
 ['a-ha'],Hunting High And Low,5tewIdMVsaJWN19ZnmnPNN,1ER3B6zev5JEAaqhnyyfbf,['2jzc5TC5TVFLXQlBNiIUzE'],1986,1986,8
-"['safri duo', 'michael mcdonald']",Sweet Freedom - Radio Version,65AidmU3mqbvCP033IyDAm,2EWskdmA33wEgM25Fd4PpM,"['2UOx6w3eHpPKc3RBnNV3Rl', '24hJWbo98sH84tb0nkeaqy']",1986,1986,13
 ['spandau ballet'],Fight for Ourselves,2zepJjSQNpEuBGSTvSudKO,0WbSGIhu8lkTEkJIsVb6VM,['2urZrEdsq72kx0UzfYN8Yv'],1986,1986,6
 ['the housemartins'],Happy Hour,6IZWJhXyk1Z0rtWNxIi4o7,13gokJcmO1Dbc9cbHM93jO,['77D38RDgCtlYNLpayStftL'],1986,1986,5
 ['steve winwood'],Higher Love - Single Version,17Ng10tIgnYmAitl0SgT3R,4Z1n0xes29RVzPttal9QOY,['5gxynDEKwNDgxGJmJjZyte'],1986,1986,5
@@ -5200,7 +5127,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['carly simon'],Coming Around Again,4YVjOnSTkv0ZVdgI6sS7Wb,4e8tywT8lMIUakJnX6aFcc,['4FtSnMlCVxCswABUmdhwpm'],1987,1987,7
 ['freddie mercury'],The Great Pretender,1Wy3txSBcp6UpwdgQU1rKx,0cNJ6r0GDpExkBVu65egVK,['4M1FpEWs2PeYfJe7xxJfhH'],1987,1987,12
 ['billy vera & the beaters'],At This Moment,6LDRTOMCSx81hKXAk1LuHd,3f9rbliKGTav57Ivvb9Wzu,['1QQBo7mfkehMjDfz1tj5Pq'],1987,1987,5
-['bruce springsteen'],I'm On Fire,4bSWx86yHmy6OOMsQPU60F,14IYDXybb1XKu51QHDryak,['3eqjTLE0HfPfh78zjh6TqT'],1987,1987,5
 ['the cult'],Love Removal Machine,3w6URtAxoSs2JAw9PvYhbH,2Ah76CkWPKnhhuwQT8DcHQ,['49DW3KvkyjHO35mK1JnSyS'],1987,1987,3
 ['queen'],Pain Is So Close To Pleasure - Remastered 2011,4yBsKFDacDTa4UuvtrTmpK,0pEfDPZko6TnNOgrZMe5nn,['1dfeR4HaWDbWqFHLkxsg1d'],1987,1987,4
 ['cherry'],My Second Skin,3TfUxeEKE4TS39Du4fTlzE,6qnBUyykJ47WNBaHiXWTzt,['5Zxe6thJ9sxKhOpMuUIkXG'],1987,1987,4
@@ -5217,7 +5143,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the communards'],You Are My World,683gCNByRKM9Hdpqmh9Acl,1tLHfZGM9lKYjxYAYm45vT,['17U2ImH5IyYMvjkCfPhMHT'],1987,1987,4
 ['kool & the gang'],Stone Love,39Au0mD4IB5Jzj4zeB3cIu,3eG9j1MDKRQN2acek3KFgg,['3VNITwohbvU5Wuy5PC6dsI'],1987,1987,7
 ['club nouveau'],Lean On Me,4bQGI1roeSr8Q85on2tQNU,5bpExIDtRjmIzOIoGonn4R,['4kEAjV4pCBOkoowYYQydvO'],1987,1987,13
-['jan hammer'],"Crockett's Theme - From ""Miami Vice II"" Soundtrack",45r7mbXRbpFAYZavAoX6tk,4abeKxrbKcGJ8znhOdxs7U,['50zRydJXfkLzGIOj9mITfy'],1987,1987,14
 ['madonna'],La Isla Bonita,2Iib2MV3ECFJAourgP9dlY,43lok9zd7BW5CoYkXZs7S0,['6tbjWDEIzxoDsBA1FuhfPW'],1987,1987,13
 ['herb alpert'],Keep Your Eye On Me,1Xh1mNgvOolZ2TCFERLdnJ,42xsrSf6navPmdjbQsJbwI,['1PqdKx88nAgPolRy079lMl'],1987,1987,7
 ['alison moyet'],Weak in the Presence of Beauty - Remastered,6vtWb7wxOY6TDiXUyhisgh,7kwezyxShStyqj0PE8NvRw,['0s0rOb0gT2S9N0SDcjtPC4'],1987,1987,6
@@ -5305,14 +5230,12 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "[""alexander o'neal""]",Fake,3xqxyldhKovZBPuZgiaJXc,3bkOQXQal87E6YZjANusSY,['047D9GgqEzyMoULd2oKr7G'],1987,1987,6
 ['fleetwood mac'],Seven Wonders - Remastered,4DsFdZmkVhYjMAfEFctvqg,7CWZNdANL2ZYQs3JfdxoM5,['08GQAI4eElDnROBrJRGE0X'],1987,1987,4
 ['boy george'],Sold,0seGHDE29mS4P6emQ8c4gp,6B4RhkHgm341clE9eX8x0I,['2BWfZGPtsjRlRp7JTDqI45'],1987,1987,5
-"['gloria estefan and miami sound machine', 'miami sound machine']",Rhythm Is Gonna Get You,6gBcyxdwgcnA8UQnB9vwRc,3XWGJ1AnLkMtCq3w5t8ETl,"['2Gop8SbSVt5SaJzuaRFa7D', '18xgcedCGxFbqLbIQn5R8F']",1987,1987,3
 ['john spencer'],Seacruise,3wGDKxk7h1fzW0WHjoYI1z,1YHbxq9gpELwn3l7t5mSZH,['59DTuMGsxnvkyq8Ulz8cvm'],1987,1987,3
 "['michael jackson', 'siedah garrett']",I Just Can't Stop Loving You - 2012 Remaster,2fytePz8UsbUr8n33QBEcm,24TAupSNVWSAHL0R7n71vm,"['3fMbdgg4jU18AjLCKBhRSm', '7EVlecngyrLHfQUqFMpwkT']",1987,1987,11
 ['los lobos'],La Bamba (45 Version),0uMMLry3hzWGn3q3loqMkm,0FPwLfwQWd91kV5rZTzMlZ,['6OWapcJm9xd55ci9CYbAuT'],1987,1987,11
 ['bananarama'],I Heard a Rumour,7yPwc5aPWLWjO37iAey7Ww,4rf0QgMoJ4jVEjpX54GRH5,['3sc7iUG1Wwpwx7bHeZolgx'],1987,1987,5
 ['desireless'],Voyage voyage,2d8D7uk3tbAThjRkdfrx9c,17EANLCoErHdo9FpzMx25q,['1yjAx9cww4f1QuAaN3dUI2'],1987,1987,8
 ['bruce willis'],Under The Boardwalk,7mUKpNvf6inGCLI6T2wD4k,7jtBQieTulaxpZgnlFd3yV,['6UpHyjBIGRSHpna0GQ68bH'],1987,1987,9
-['tina charles'],I Love to Love,5jWI1xNxABzDRFTnD2yp8L,4tQ54MqaSzOZmi5aL2G647,['7Jbs4wPCLaKXPxrTxZ2zaa'],1987,1987,10
 ['elli medeiros'],A Bailar Calypso,5TFKyg8wjjlhzbe0I5IHQi,46GoinY2G4vtIQFYs7JQI7,['6gpCBsCNiMt5MO5sW0sexm'],1987,1987,4
 ['frank ashton & mariska van kolck'],Let Your Sun Shine,5pSu5cbQMxec5kYEguVGZc,78CKSs3PU3L857ChY2fGUs,['5vWAzIGgxZKmW6bo7PP5Jf'],1987,1987,9
 ['prince'],U Got The Look,2X6okzhnNPSzh9yxDMHHe3,1XsXHctYSQNyAd9BANCk2B,['5a2EaR3hamoenG9rDuVn8j'],1987,1987,7
@@ -5366,7 +5289,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['abc'],The Night You Murdered Love,3Bq47GRMz3D3SHHgQlSVCv,6ukRUak3PI7Q9khvRZLrew,['2s79xe5F6eUQkjwjww27Fh'],1987,1987,7
 ['jack e makossa'],Opera House,0musjx2HreOjm9GVVv4O3u,5L0vHINsqExBKy4Tn4FpV5,['5mpBXkoYXYDB0mrxXKVfRU'],1987,1987,4
 ['rick & lisa'],"When You Gonna - 12"" Version",3B86IKn90wMJzxPjv42ioS,1Z4mmy8lxFTVc6iYcZO5jc,['3HGBQ5JslMmAxXlDb63NIL'],1987,1987,6
-['tina charles'],Dance Little Lady Dance,1CLNWD0IK5YXc9KpTKaRF2,4tQ54MqaSzOZmi5aL2G647,['7Jbs4wPCLaKXPxrTxZ2zaa'],1987,1987,6
 ['sinitta'],Toy Boy,1T1WtUy7iy96qN1k5KDTDz,0pvhletDH7CphbKErUtPCF,['1nUUfnmwd9mdpTPwMcM1hd'],1987,1987,3
 ['ub40'],Maybe Tomorrow,2NsDEYOsmvRpBLs4wBRZTV,32NYTYNu7lEZUyZOKLcbAm,['69MEO1AADKg1IZrq2XLzo5'],1987,1987,11
 ['george michael'],Faith - Remastered,0HEmnAUT8PHznIAAmVXqFJ,34K1Kvskt9arWy8E1Gz3Lw,['19ra5tSw0tWufvUp8GotLo'],1987,1987,13
@@ -5547,13 +5469,11 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the contours'],Do You Love Me - Mono,3ftFWHyNulLMkKfaLjyOrf,4uMzvja8iPrU9UB4NB5uok,['2ugPdplEWBmyU6EcIzlcY1'],1988,1988,10
 ['toto'],Pamela,3LFdvM7nIV8t02zyhYLvJo,7LVxCg18peWcBBdu7Xr6r3,['0PFtn5NtBbbUNbU9EAmIWF'],1988,1988,9
 ['sade'],Paradise - Remastered Version,0vhyCB8RvI8Ruvy324USy5,3JYT9f8X9LOfpTzbKDWN4a,['47zz7sob9NUcODy0BTDvKx'],1988,1988,4
-['patrick hernandez'],Born to Be Alive - Original Mix 79,3XIEWK1V9n25PS9Vb6axj5,0kVK9lFFTzhnEb4ETElbCD,['1CcEgi464SWZsKY5579u7z'],1988,1988,5
 ['belinda carlisle'],"Circle in the Sand - 7"" Mix",6SVga7VUytRcZvaBc6eCTW,3fzHLg5RfRXzQlHlR4F7JG,['7xkAwz0bQTGDSbkofyQt3U'],1988,1988,6
 ['andre hazes & het nederlands elftal'],Wij Allemaal (Zullen Achter Jullie Staan),1G57qD7bUEFPZz24VwnRRu,4JsfceecKCRAMuNtDm8nuH,['1GikE2BMqNzYZSUmVJKxVc'],1988,1988,7
 "['fat boys', 'chubby checker']",The Twist!,3twrTFBQLEallkcHzoM0Gh,2EbhHZgmdy362RoEAE3Rbt,"['3537Phr9t8GWkY2GtxDpnt', '7qQJQ3YtcGlqaLg5tcypN2']",1988,1988,10
 "['bros', 'ric wake', 'bob cadway']",I Owe You Nothing,7cho9WFjszw2QCzbBSQQnR,5WNsuSsYHQhXB4ZCOZMa5Q,"['2LKrAJVB1842xPDvx4uuwU', '7KFVI7yFvLDdoSzO6clGp6', '6B1sxaPpj8VcfRAKlHWMhV']",1988,1988,10
 ['bruce springsteen'],Tougher Than the Rest,7i0VrdLCDhvgWXfcT6EQJG,5Qcef60m4gcckV24PmPYVq,['3eqjTLE0HfPfh78zjh6TqT'],1988,1988,9
-['frankie valli & the four seasons'],"December, 1963 (Oh What A Night!)",7ePFDzrnLt3Ynqgy2UFWri,0NUEQILaBzavnzcMEs4buZ,['6mcrZQmgzFGRWf7C0SObou'],1988,1988,8
 ['de hollanders'],Het Oranjelied,6SX1ZhkVYyPH5MHOK52Uqj,56p5fBuILtc4rD0tdMhiRK,['5YoUiLUehItlZHoLRfv0Si'],1988,1988,6
 ['inxs'],Never Tear Us Apart,3pyTksNccLM1jRvzQ4zTke,7CJvhqb2PJq5fBcY6eKqjl,['1eClJfHLoDI4rZe5HxzBFv'],1988,1988,10
 ['bvsmp'],Be gentle,5zKW812KV4aVqNRmZRDJCo,3TlAg2u5t1UtdrIwcRqi2N,['6SvHD2ng8SJDspkRZgIekg'],1988,1988,6
@@ -5564,7 +5484,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['matt bianco'],Don't Blame It On That Girl,10rWqJtPxZbp1aQ977igop,3Oz9T6DyUBv5UVcEkXlbK4,['1WQky50vkzSvSCUl0ejWqb'],1988,1988,4
 ['londonbeat'],There's A Beat Going On,24XtGATC0iY2TAV3DVgmDS,184ULv7WgNE67VETvP8y8I,['0gcMPgunYh4rX1UOdvZKBn'],1988,1988,6
 ['james brown'],I'm Real,6DzXw0IEY1ErHfiVagW33j,0nWs5H9EEUwvpyPlqaxfeD,['7GaxyUddsPok8BuhxN6OUW'],1988,1988,3
-['prince'],"""Eye"" No, Alphabet St., Glam Slam, Anna Stesia, Dance On, Lovesexy, When 2R In Love, I Wish U Heaven, Positivity",22lmcBp9KjKcn4C3MAcxF6,49YqSdLkadJY5RADpR3LsZ,['5a2EaR3hamoenG9rDuVn8j'],1988,1988,6
 ['vanessa williams'],The Right Stuff,5gU6ypKcDRNjiNquuhmRn7,5hhZNNh67rpmpmjUfYGKaS,['75L9s8KVrhCNtBUkZFnDFW'],1988,1988,9
 "['sam brown', 'pete brown']",Stop,2IWYi4NJyJvhpJVjVs2pm8,1Co1PfkD3RSirfxw6h2KfJ,"['3gvT4Mc7kn54IUy08Y0Tr5', '67OKa82otrQqKDsfTDfSYA']",1988,1988,15
 ['the robert cray band'],Don't Be Afraid Of The Dark,6jg6WeKQ8nfvLXZkiLhFEO,5bmhBhh45NY8yTuE4Tzv9z,['6cAtGdArQhrU7tTBoeWY3P'],1988,1988,8
@@ -5616,7 +5535,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['toto'],Mushanga,2ixCoRL71z0cmHKwZGEhYE,7LVxCg18peWcBBdu7Xr6r3,['0PFtn5NtBbbUNbU9EAmIWF'],1988,1988,6
 ['bobby mcferrin'],Don't Worry Be Happy,5YbgcwHjQhdT1BYQ4rxWlD,5QXK9xXDSYvSOXYSJHdwOD,['2FjkZT851ez950cyPjeYid'],1988,1988,11
 ['mark anthony'],919 Main Street (Extended Version),7A4Hvky3a8qbmuGrCqodNe,3TVocS7TbjKyhbeAP1WOhu,['17WYNffxM4BtN6QQmXxIVW'],1988,1988,5
-['bill withers'],Lovely Day,0ACACkoHUwgfgY5CxVIL4N,0XmgSYx9bj4sqpcXVgKs2C,['1ThoqLcyIYvZn7iWbj8fsj'],1988,1988,8
 ['bros'],I Quit,4u81WQFRuA5L4COoPfePQ0,2Fge13BVj9xQN1VAzylpu5,['2LKrAJVB1842xPDvx4uuwU'],1988,1988,3
 ['marc almond'],Tears Run Rings,7jEQ43V8AA7UQ6NcG4x1ki,3HIPNQXH9gtsvrlt74dUXR,['7nBZYpVAH6bD0QlD7Mpil7'],1988,1988,8
 ['wee papa girl rappers'],Wee Rule 2009,24MmJ6RBgU5M8ufmnNjIPF,1YoUFZPrLt2GTESeRjUAXj,['3QxcBtX7cC2VfnNTY5PDBq'],1988,1988,12
@@ -5625,7 +5543,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['robert long', 'martine bijl', 'simone kleinsma', 'robert paul']",Vanmorgen Vloog Ze Nog,2WZBD5MI3pVaKIweuZj5pc,5bsv5G1wExKRiRGcu2emUl,"['5rNgNQ6whrIS3jkbzW4WPf', '5ayboLANPe5lXssiZopVb8', '7xNISTVPefpc5iesdJQqz0', '0esNt1hWsO271oogWw8c2o']",1988,1988,7
 ['muddy waters'],Mannish Boy,58PSYdY0GFg0LFb2PxYk4T,4fOVcN7X7vQ8L41is621uJ,['4y6J8jwRAwO4dssiSmN91R'],1988,1988,7
 ['inner city'],Big Fun,4PyhlL1vrSvPlhYLdphszr,2CwxbRPETEraKmAKDNrEcs,['0vUJ3QLN3MlRfjOc2LjGWp'],1988,1988,9
-['prince'],"""Eye"" No, Alphabet St., Glam Slam, Anna Stesia, Dance On, Lovesexy, When 2R In Love, I Wish U Heaven, Positivity",22lmcBp9KjKcn4C3MAcxF6,49YqSdLkadJY5RADpR3LsZ,['5a2EaR3hamoenG9rDuVn8j'],1988,1988,5
 ['yazz'],Stand Up For Your Love Rights,5ZdteNvPyuK1NRkJsSVY7G,1yHgARlOz9tenR7UONuPgs,['5ApKaVHAStk5kAuyBW1wG8'],1988,1988,8
 ['labi siffre'],Listen To The Voices,6eyKldvrtmRfTyie4i6lY5,1eY6wnXsy13mXFzMyP5Iuk,['5CzlICF8GCY0pRC82MKrhX'],1988,1988,5
 "['tom jones', 'the art of noise']",Kiss,7kH8DJlIfQJUWB3njRKZsY,2RTw7VSbOKkniM20HE2vzJ,"['1T0wRBO0CK0vK8ouUMqEl5', '4rTMvUby1hok4EPeBzmGNt']",1988,1988,10
@@ -5669,7 +5586,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['inner city'],Good Life - Edit,5sJiLlgQKBL81QCTOkoLB5,2CwxbRPETEraKmAKDNrEcs,['0vUJ3QLN3MlRfjOc2LjGWp'],1988,1988,9
 ['henk wijngaard'],'N Sneeuwwitte Bruidsjurk,3h0VP0YQq73pcZSu8NgEjL,4oaQMnqw89unxMh8hL2DDq,['0EyzZUO2ycn0hLjKDFT7Hb'],1988,1988,10
 ['rory block'],Lovin' Whiskey - Live,5537Y4aYjibeVdTSX3w7y2,5Ddl3TDgLugEaW0mWZJGwF,['6hkNj3GAqFbkEUCs3R1dY3'],1988,1988,7
-"['marc almond', 'gene pitney']",Something's Gotten Hold Of My Heart,68O1r5xQADu0JjvBibg9zN,3HIPNQXH9gtsvrlt74dUXR,"['7nBZYpVAH6bD0QlD7Mpil7', '3ap1NzHNV9QA1x1V6z3gSe']",1989,1989,10
 ['edelweiss'],Bring Me Edelweiss,1UJXIy75TXsWlhRkzsC9Yk,1EcwgWWlBJfZF4UIqYnxLl,['0ENIMUvgMyBoKcnoZ2K1Df'],1989,1989,11
 "['bomb the bass', 'maureen']",Say A Little Prayer,1quneaDXwcNXostqraSxOj,6T5Qpiq4xzeWldSKuVZrHS,"['1G3Eh23f2hwhEnAMw7HsZ6', '7wwXA9KhwowtjMA6vUwIY1']",1989,1989,8
 ['neneh cherry'],Buffalo Stance - 12'' Version,3XWgwgbWDI56mf1Wl3cLzb,2AyJzvREOnlnYhaBzF1Kxp,['3JxCEqL9zjKnDJgUhRuRJD'],1989,1989,13
@@ -5690,7 +5606,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['barbarella'],We Cheer You Up,1d7BXndNnxj4nzoo9AQPvj,6ebJKcm5fR3a67ju3eaa2h,['6GepgDVQdRC0s1bl7WulcE'],1989,1989,11
 ['kim wilde'],Four Letter Word,6KvaoqprRrzDNXvJWEBeKZ,4fgP7Dm7cXELg3lcRBVmvh,['73a6pNH4YtLNgDbPQwXveo'],1989,1989,7
 ['sheena easton'],The Lover In Me - Remix-Radio Edit AKA Greg Ski Edit,16axt8sSozXBqkcbxVGGmo,6UiU0fghMcE10eGw9uXuRy,['5dcOK4stT4JDkP6Dqhbz5s'],1989,1989,7
-['bill withers'],Ain't No Sunshine,1k1Bqnv2R0uJXQN4u6LKYt,6N8uPmDqbgXD3ztkCCfxoo,['1ThoqLcyIYvZn7iWbj8fsj'],1989,1989,5
 ['franky boy'],Wat Ruist Er Door Het Struikgewas,3zyFKn34qxJQdgTk7UqFLd,4CPgxwX6ISp0WigpwIX2z0,['3y1uW168h36cFYXKmqD8s3'],1989,1989,3
 ['simply red'],It's Only Love - 2008 Remastered Version,6i1uWZYWabNHq2wQnoca58,0R8Pl54TXSwXWtAEVaP7ew,['1fa0cOhromAZdq2xRA4vv8'],1989,1989,7
 ['level 42'],Tracie,6ANCf7yk8isM8h1AXaAE61,24S7ZubxlsWpDawLbRKoN3,['0L9xkvBPcEp1nrhDrodxc5'],1989,1989,6
@@ -5698,7 +5613,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['samantha fox'],I Only Wanna Be With You,7d6gTSWc9PYrY5bct0QKkT,0ULg91Rf3twUQOlCc6ElY6,['0ym94xKp2PIOJtTZKpxbAa'],1989,1989,8
 ['simple minds'],Belfast Child - 2002 Digital Remaster,3fKDSSIgOngs8YYzFJO6eD,17U68dqp73T4E3Kte15ben,['6hN9F0iuULZYWXppob22Aj'],1989,1989,11
 "['glenn medeiros', 'elsa']",Love Always Finds a Reason,6fTPw2Wy3rFT0zMU5ggOOW,6KJsqxQY4XB2Bc246FWqOy,"['0bByarMN8ryEFQsRo6iCUN', '4JsqnEAyQMCBeXlgtTBf9f']",1989,1989,6
-"['gloria estefan and miami sound machine', 'miami sound machine']",Rhythm Is Gonna Get You,6gBcyxdwgcnA8UQnB9vwRc,3XWGJ1AnLkMtCq3w5t8ETl,"['2Gop8SbSVt5SaJzuaRFa7D', '18xgcedCGxFbqLbIQn5R8F']",1989,1989,10
 ['rick astley'],Hold Me In Your Arms,3WIWloYCsGOTjsJDrlMwUa,6g6MQ90r65VqHZlLnmumEE,['0gxyHStUsqpMadRV0Di1Qt'],1989,1989,4
 ['tone-loc'],Wild Thing,1V0gwyK3CFf16wdLapjR1r,7LS6KZqicIiCbXFVSglJZd,['5Y8EphH8Vdqu5SLj6K5vjj'],1989,1989,9
 ['bobby brown'],My Prerogative,0FjMLXne5a6RXzlZyl6ftr,4JYhOe7TlnOQkwWNAcCfPt,['62sPt3fswraiEPnKQpAbdE'],1989,1989,9
@@ -5745,7 +5659,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['sandi patty', 'larnelle harris']",More Than Wonderful,7xQbgnFg2plj5UceYPxNwS,5o5kGd6hZ7Fs4rqq2n327P,"['6RJYPm4gcrIuOjQiqu9VXu', '71Hbg7TBSSZv12f7EWZp3b']",1989,1989,10
 ['simple minds'],This Is Your Land - 2002 Digital Remaster,2Y3DUESfUwyxTLtBWkK0fY,17U68dqp73T4E3Kte15ben,['6hN9F0iuULZYWXppob22Aj'],1989,1989,8
 ['golden earring'],"Turn The World Around - Live At The Panama, Amsterdam",12EpOxWqWwdLBZXrKz6ljW,7CEJl8SGlOCxMm22fNu7lb,['1iTlOqIrZy8DlvCPJY2sjS'],1989,1989,8
-['phil collins'],In The Air Tonight - 2015 Remastered,18AXbzPzBS8Y3AkgSxzJPb,1cM3r0WQZWNkCpEbmFjLln,['4lxfqrEsLX6N1N4OCSkILp'],1989,1989,5
 ['hithouse'],Move Your Feet To The Rhythm Of The Beat,6MMPi40jcGAPRedkTwTsVb,59NujO1WEDnbgwwR169iPD,['0Cgm3m8kDUeNJXAAcruwGp'],1989,1989,4
 ['kon kan'],"I Beg Your Pardon (I Never Promised You A Rose Garden) - 12"" Remix",0QBI6UIpWb6zWI7Um8HhFE,2nNlh8YALH5jfecAnkyLvh,['1c4WjNh9IM9AlX5FO9dIUc'],1989,1989,9
 "['soul ii soul', 'caron wheeler']",Keep On Movin' - feat. Caron Wheeler,4NMtuxWfOPR6yNjAX0AWrR,5VxTLm2IZsDQn3r9eX1qfa,"['2sIx6SmAMw9IBySG3Uj0jf', '2RhMHmV21ZDcSGZ872U4ZY']",1989,1989,8
@@ -5819,7 +5732,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['grandmaster chicken'],Check Out The Chicken,777wSET43t2TissIuOvr4T,157tFVxIjQ6Q0pZ3dKHeUU,['2L8GrZbJSjdrJcJP5nqejV'],1989,1989,7
 ['the beautiful south'],Song For Whoever,137S6Ito005mADw1sfjefo,72eqB9vN7wP7Av1dhxSxTI,['4fomCZiFUMX73KJ0YQ0V90'],1989,1989,6
 ['margaret singana'],We Are Growing,6gXxgqUXfLRi8wWfRUyZle,62BVE6x499QVclBJSByIiq,['2wEnRmR4q5C80gLSbC29rX'],1989,1989,11
-['diana ross & the supremes'],Reflections,6SxbPcftDHejqcCcyYq0hD,2Q2j3zAH1gCfHsn3ldQ9gf,['0rXI0q8Cahq6numvPlloaq'],1989,1989,10
 ['tambourine'],High Under The Moon,0wpvrmNAljdIyxZYuFkpGT,5vWP5kKZEsCWdxgL6gIh58,['16Vk3dhf2XmcvNlKHn0NWa'],1989,1989,4
 ['heavy d & the boyz'],We Got Our Own Thang,7qUvIpu8le9gHunduvgOXg,3ZtCbD0E3Wn5m41sUlkOgk,['4KHdmkq99PXA6QEJ2lKpA3'],1989,1989,8
 "['maurice ravel', 'orchestre de paris', 'daniel barenboim']","Bol√©ro, M. 81",5U4X3Jxfkx55qPiFNATbf5,3fdhyyPASB81NxFJAYYqIb,"['17hR0sYHpx7VYTMRfFUOmY', '0iERWmMl3nIvcDxnJsKZBd', '78sEozQOEJxzXegUuqRSgH']",1989,1989,6
@@ -5847,10 +5759,8 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['technotronic', 'felly']",Pump Up The Jam - Edit,7BwwjDFcpn72BrxCCRqs7d,6nqizbBgkRug5YRnP1YWiO,"['2Cd98zHVdZeOCisc6Gi2sB', '5ZLDs5UjQ4qoGzmG1KEmYE']",1989,1989,11
 ['rod stewart'],Crazy About Her,3aJlgysR26p6rToB9zBi69,2Y7dwu7XmkrGi6zphZiYsu,['2y8Jo9CKhJvtfeKOsYzRdT'],1989,1989,8
 "['lisa marie', 'malcolm mclaren', 'the bootzilla orchestra']",Something's Jumpin' In Your Shirt,00wIUQ40nxvqi5Bw70Z7ig,1T6VXkSGLyGwJ1l0555IBb,"['1z676UwffUl4tpUPOQ9GSN', '4ihCM8I0fpWodgjo0mTlhZ', '7oNW0FHu1FMVPZPtyRzGpB']",1989,1989,9
-['the sugarhill gang'],Rapper's Delight - Single Version,0tm6gsXe0LSm9zeSspyMQu,1oQef7548sivCtMQwK8Wgo,['7zliF6Q946WznVk3ZMYhZX'],1989,1989,4
 ['bzn'],If I Had Only A Chance,0V9cLlQaGbwaRspnxhqSKH,0NA3D0ZMGIe6h2yGJAsf3k,['1tF9HtIFX8fJfBo64FIJ8S'],1989,1989,7
 ['janet jackson'],Miss You Much,062mh4qAZyDV9dIQK70iu0,7jtBAkD6DL5yn7komrFTxE,['4qwGe91Bz9K2T8jXTZ815W'],1989,1989,8
-['queen'],The Invisible Man - Remastered 2011,6VoiY3rukFPoqzP4AoGPU8,3h6SV9wHJtNL1YswZUJs8V,['1dfeR4HaWDbWqFHLkxsg1d'],1989,1989,9
 ['aerosmith'],Love In An Elevator - Single Version,5zZ3ivuobLMt4fypSqsP80,5DS04MgiAZ1dI2jWUpDuGd,['7Ey4PD4MYsKc5I2dolUwbH'],1989,1989,8
 ['andr„© van duin'],De Hotdog,6PgZu62mz4lAjLQrDOIV2N,5QDsIFFPEqWTZbTcz6MvPf,['1G2QbSM5dLTtqeZHYnxXsF'],1989,1989,4
 ['eurythmics'],Revival - Remastered Version,3puTA8OXfPFQm81gSFEig9,07GxuB87kJgj9xklkc1beN,['0NKDgy9j66h3DLnN8qu1bB'],1989,1989,4
@@ -5925,7 +5835,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['2 live crew'],Me So Horny,0eZIecYmURpvEIuVAK9P6z,77ixbyLUdkomNcrztcbrkD,['58Dx4HPzeOO3dbpD9YYEes'],1990,1990,11
 ['the christians'],Words,01oPilVDZSabQRz8UkUfaT,7aKljM1kqDskUQ4yashruk,['5cPYngDFgZ8cOapCBCrs14'],1990,1990,10
 ['u2'],Everlasting Love,6X8gyMIccucl15VcwnQszU,2HfBqhcHmDZz235xhvVAZX,['51Blml2LZPmy7TTiAg47vQ'],1990,1990,7
-['queen'],The Invisible Man - Remastered 2011,6VoiY3rukFPoqzP4AoGPU8,3h6SV9wHJtNL1YswZUJs8V,['1dfeR4HaWDbWqFHLkxsg1d'],1990,1990,5
 ['neneh cherry'],Inna City Mamma,4GVaolTPW6jw5fN6nX9FuC,2AyJzvREOnlnYhaBzF1Kxp,['3JxCEqL9zjKnDJgUhRuRJD'],1990,1990,7
 ['dusty springfield'],In Private,3vgMukvxHil1fefb1QE1l4,1BaI2hXjX5HK59hXy8rTvm,['5zaXYwewAXedKNCff45U5l'],1990,1990,9
 ['fast eddie'],Git On Up,2R3UG06L8WBC45d3dOxahJ,0ZCP7q3fjDKlOv4hlQLPFr,['19slOlozrbxkEIMD8L3Qsv'],1990,1990,6
@@ -5982,7 +5891,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['beats international'],Dub Be Good To Me,2VsSnYZzq8mhAtdhwzYxXi,5odU0U2oqgd75UJKX6XXEc,['6C5gMdsVmZHJG6yJuC68sp'],1990,1990,12
 ['sybil'],Walk On By,2FDIwfqSI44hVE9D6RmLQQ,6aOF3agLPNHtnLx0A5GaJM,['1EbIfIjVcauDatNO4vagL1'],1990,1990,6
 ['zucchero'],Diamante,6fLutWYQE6b4hi4evACwwa,2I8UrYjiscfyn4jcw9WNUN,['2KftmGt9sk1yLjsAoloC3M'],1990,1990,6
-"['guru josh project', 'klaas gerling']",Infinity 2008 - Klaas Vocal Edit,3aQz0z86zrKjd1mcZlonxE,1uyF93NDsuRn4LqZIl3lyY,"['4ME85YvMUi1hdqhbind7gy', '7MT8RxUMl67q0mlaMOv6Fi']",1990,1990,12
 ['lonnie gordon'],"Happenin' All Over Again - 12"" Mix",5H5tPofXVa9FfCe1ueWZjG,3n2rC1TkaIeV5gPuVsHsbI,['34ugek7kTxRhRSsT1d9Yer'],1990,1990,3
 ['black box'],I Don't Know Anybody Else,5CcM19gH1zYf9NGt3qb7RM,6r4vIr4aUsK00mGHDiQkrl,['6tsRo8ErXzpHk3tQeH6GBW'],1990,1990,3
 "['rob n raz', 'leila k']",Rok The Nation (feat. Leila K),0xnMEIpyHNHVVlgZFhMWzK,4BJgNoVIHWHCHtxMor67oL,"['3Dm7LtboNpBXP9FkhKacj8', '61Da4fqVMgPoo9mYY0R3k6']",1990,1990,4
@@ -6382,7 +6290,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['andr„© van duin'],35 Koeien,5Mef9RIepb5Gpn3eMJK59t,5QDsIFFPEqWTZbTcz6MvPf,['1G2QbSM5dLTtqeZHYnxXsF'],1991,1991,9
 ['garland jeffreys'],Hail Hail Rock N Roll,16t6sX4zD6NtVNAB6ZEDnI,1nG6lW98PBEDpk0XcWdB6Q,['6BLhUZMqXO8eXjhToNRteA'],1991,1991,8
 ['banda blanca'],Sopa De Caracol,5jBMSbo3AZzsen4gCOKxKB,02y6LIwA03oT4gQ9YM8wC1,['1Ykx49KpY0FqIXUwyuD3TJ'],1991,1991,3
-['ike & tina turner'],Nutbush City Limits,06yREZ9X92R2e9RJpdzZ2O,6FkWiSUX7YAdxOlHPrIzMj,['1ZikppG9dPedbIgMfnfx8k'],1991,1991,8
 ['pater moeskroen'],Roodkapje,4gPO2nAc66y47KYbiCj1DT,5KURMQNxRxp4sJlBnrokTw,['5Wx0laye9jwDsOQDOPmnWl'],1991,1991,14
 ['gordon'],Kon Ik Maar Even Bij Je Zijn,0vWOq4z0mDYs0GSs7imUEd,1dxE4FTB0e9gtDEqjByt0J,['2lzeV1nxm8MB7z85L53JV2'],1991,1991,16
 ['la toya jackson'],Sexbox (Instrumental),1COQL2tRBHK3pJTrxZxOyN,2jcXZGaYGDIwiSUYQKMJRI,['2CJdnZNDpgUZXPcb0job3V'],1991,1991,4
@@ -6420,7 +6327,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['henk temming'],Ik Vraag Aan Sinterklaas Een Heel Gelukkig Kerstfeest,47nuTWcjQUxwC7Sy0JbzZt,04QCIojyOC1GPEr1OCph8q,['5ARyKajnXstAddT5CWO3mL'],1991,1991,3
 ['hanny'],Elke Vrouw,6ak4dcfLltay3EGwSBk7ad,7sAQflZUAjulC6nxgguMZv,['192dcyn9q1MqypeEL4UKiU'],1991,1991,3
 ['ome henk'],Olee Olee Sinterklaas Is Here To Stay,3nyMjPQC7IkNl0A77qbitp,1kB2E2gUEtvIPEcNbLciTr,['2F5wMdLUctQWVWCrn2TsiO'],1991,1991,4
-"['george michael', 'elton john']",Don't Let the Sun Go Down on Me,0q90594hk25yo0xZmBTqCd,3coLNlyStg9h7f8CZ103Rl,"['19ra5tSw0tWufvUp8GotLo', '3PhoLpVuITZKcymswpck5b']",1991,1991,16
 "[""guns n' roses""]",Live And Let Die,04MNKrAnzrHDUzuXAtNoLr,4L5pz06MVlsWaTEjSQPN8h,['3qm84nBOXUEQ2vnTfUTTFC'],1991,1991,7
 ['simply red'],Stars,75CgD6l7K4qMzZrn4CbZqz,2WOo1KEogmN7MdDMjVCusC,['1fa0cOhromAZdq2xRA4vv8'],1991,1991,6
 ['alison moyet'],This House - Remastered,2xWuLgSFURwI2WagNZ7Ebv,7kwezyxShStyqj0PE8NvRw,['0s0rOb0gT2S9N0SDcjtPC4'],1991,1991,3
@@ -6523,7 +6429,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['tevin campbell'],Tell Me What You Want Me To Do,0IhHkW1fnUSMEcLSHmKhrJ,7Hucjo5Y8VSidz9dKnBf6q,['5VfqJBmXcf6ZqXoGij5qTE'],1992,1992,3
 ['lionel richie'],Do It To Me,0NuQUoVm6N9raaMbQHC2jX,4pUmZ5E6H5Ap70Ti4tDiZL,['3gMaNLQm7D9MornNILzdSl'],1992,1992,9
 ['kris kross'],Jump,27AHAtAirQapVldIm4c9ZX,5bGumbB29JBPlv4ECVURka,['2zrZfs23sjuHDv4E6YRmNf'],1992,1992,12
-['metallica'],Nothing Else Matters,1znPMY3zq78mVuTAmOA9O7,3A4zAmE5c4dUAAqEJz6hCH,['2ye2Wgw4gimLv2eAKyk1NB'],1992,1992,14
 "['lidell townsell', 'm t f']",Nu Nu - Radio Apella,1JvnRomgfpO0fKZj2fRXW9,7AzpfbyBHzSwraE8YgT3b6,"['1kLU4FT0l2Bayn8Vir6jo3', '0RBsn08bagbVECVD8FLbSq']",1992,1992,6
 ['swing out sister'],Am I the Same Girl,1wwZXkfrNPcFnolwf1NtxL,68ynJ1QtE4ncD1wWynbUd0,['4phr5rAgWhcZtWJu8w8lKv'],1992,1992,7
 ['iron maiden'],Be Quick Or Be Dead - 1998 Remastered Version,7kMZGMJlckd50Mhfaq7gVD,6NWFRuPH02C5mBf909pQ26,['6mdiAmATAx73kdxrNrnlao'],1992,1992,4
@@ -6602,7 +6507,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['the shamen'],L.S.I.: Love Sex Intelligence,1P20GKz3JyDMHUdQ9vHSn6,2qqBB0ifiEG4sKnRsJf1Y3,['5E704N5StxMVKpalhaJ5L3'],1992,1992,4
 ['jimmy nail'],Ain't No Doubt,5qbrpQ5ac44s48PU1ouUVC,1SJamO5H1EerRJXXvq18Yi,['5JmiJ0uN4rutaRsDfBUPHl'],1992,1992,7
 ['2 unlimited'],The Magic Friend,2GWSva6MTRfsBLuBH5s2mF,31ZELjZPFpr5326F1uojYm,['18JD8DVlD1fakDAw7E9LFC'],1992,1992,11
-['bobby brown'],Humpin' Around,52t5L70Ap9iHYSbIJ0jZFM,7piJQaxpsN7PJSHnqUA92F,['62sPt3fswraiEPnKQpAbdE'],1992,1992,9
 ['manic street preachers'],Motorcycle Emptiness,5ibELGcXGqX5x9TWFeNPxY,17n0hrkbvXosApi3q1ANiv,['2uH0RyPcX7fnCcT90HFDQX'],1992,1992,5
 ['right said fred'],Those Simple Things,2NbfNgo66mMHoVm1abHm00,1qgGxfnTXeBOkBNnLzDi36,['15ajdFAi5bjj5pS9laBfBL'],1992,1992,5
 ['house of pain'],Jump Around,3TZwjdclvWt7iPJUnMpgcs,2z37UnazitI7yDEF0IjE0v,['0AuW7OCyKfFrsMbtHrYgIV'],1992,1992,7
@@ -6740,7 +6644,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['duran duran'],Ordinary World,0wokCRaKD0zPNhMRXAgVsr,0PqCkTvKFJxzr9uujq7a3T,['0lZoBs4Pzo7R89JM9lxwoT'],1993,1993,8
 ['michael jackson'],Give In to Me,1euDTbMNRPNfKd8zZz4zTT,0oX4SealMgNXrvRDhqqOKg,['3fMbdgg4jU18AjLCKBhRSm'],1993,1993,10
 ['consolidated'],You Suck,0Y6Xpo3sFDiQK7HVa0YZPS,33Oa7jdUP62mAW4LBZ4zGa,['2GQYazkEEYH4jJnDLpofHL'],1993,1993,10
-['golden earring'],Another 45 Miles - Live,6XwkXBVLgSFr3TekaclR0Z,4G4pOSzkMoAldqeu0Mju9H,['1iTlOqIrZy8DlvCPJY2sjS'],1993,1993,5
 ['jackyl'],The Lumberjack,6Lm7q87UKarM7YtgLxUOq4,5qpMzA5nZaZGIHuQchxi9w,['3jdirYL01245TvAH39GfM6'],1993,1993,8
 ['van halen'],Jump - Live Version,67bGOBxjYNsPTcJlm8tyGu,61mBoFyJYFvz1liCNwR6j7,['2cnMpRsOVqtPMfq7YiFE6K'],1993,1993,7
 ['ace of base'],All That She Wants,6kWJvPfC4DgUpRsXKNa9z9,5UwIyIyFzkM7wKeGtRJPgB,['5ksRONqssB7BR161NTtJAm'],1993,1993,20
@@ -6782,11 +6685,9 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['willeke alberti'],Ome Jan,6UWOJvPjoFA4NoCbLw8wzI,1FJhxTagODYnKjA4PJakmk,['7monj8DXxygyUqgx7ncylV'],1993,1993,10
 ['thelonious monster'],Body And Soul?,1KbNgewni1zU25NvDIfWBo,70NhJckf0Sjh37ZBG1Hvr2,['79wfwGHz2ByenSDM0VaB70'],1993,1993,3
 ['whitney houston'],I Have Nothing,31er9IGsfFbwqy1pH4aiTP,7JVJlkNNobS0GSoy4tCS96,['6XpaIBNiVzIetEPCWDvAFP'],1993,1993,5
-['robin s'],Show Me Love,4t0UsYzmmmZRMTWn77jiGF,2xpjgSvZVYjzdlWxeAJFy8,['2WvLeseDGPX1slhmxI59G3'],1993,1993,18
 ['de ajax selectie'],Ajax Is Okay!,4SyuC0eBOHYmZmnyilMk9s,6gBvsvK6SwtkmPUDeiRMKH,['7xmNuCnKJPinZO8GU7SnJH'],1993,1993,6
 ['eros ramazzotti'],Cosas De La Vida (Cose Della Vita),0z3Voyxi0FH0SQBc7c4wri,6nWZLgTAuIgulKZcJxgsg4,['61J0BktHv7PuP3tjTPYXSX'],1993,1993,10
 ['leila k'],Ca plane pour moi,7MMHXZAMavcZW2r1NyUPGX,2Lb5mIrqMfoTYcxxUVthrA,['61Da4fqVMgPoo9mYY0R3k6'],1993,1993,4
-['cappella'],U Got 2 Let The Music,79zbbqdbNXtRY6govKU8Z9,5xA73n1xmSkC6S44muzOFJ,['0NPwkUJRrRiWYdHpLXBkxg'],1993,1993,3
 "[""cut 'n' move""]",Give It Up,1Hh5gDiXZGhtKfHzJYYhSJ,6Dvs8Sy0kCLhx0yDWvIhym,['2OQkm6IvTu9MeHkGQQ4cSK'],1993,1993,7
 ['ruth jacott'],Vrede,0iALwZLgyN8rNOHtF9xEu9,1ba5louPwSaXr0BBuHEjsc,['0NM27i2hSW1lbc7rYa5D6u'],1993,1993,7
 "[""guns n' roses""]",Civil War,4LM3MtaBdn0bTZW1GqzRVd,5NL0MCTSbQtO13G62ofWAf,['3qm84nBOXUEQ2vnTfUTTFC'],1993,1993,6
@@ -6845,7 +6746,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['twenty 4 seven'],Slave To The Music,2QzyjSN4WlRHMFfN3r6Ca3,0YEAWwNhPrcevDDX50MgOF,['39QjUR6m5slbxO36zayaMq'],1993,1993,15
 ['whitney houston'],Run to You,6M1M6cRtVkm5d0qTzkSEuK,7JVJlkNNobS0GSoy4tCS96,['6XpaIBNiVzIetEPCWDvAFP'],1993,1993,3
 ['dance 2 trance'],Take a Free Fall - Radio Edit,2RhBMZGPNm4hd6gYuUH9Io,2aB8zPjwikBShJAExhG8TZ,['2gjCxL5WzDhJS8ed5orxiK'],1993,1993,3
-['los del rio'],Macarena - Bayside Boys Remix,3ktQWLu1mVhc4GTMrdPLEG,0GYe1hVcwpkLm6n1XBmf4w,['2JXn03fudjyRkQ1Ye9f5rk'],1993,1993,4
 ['ac/dc'],Big Gun,7zjzu90Q4mtNNaE9Ol9Zbv,0I7FkYrckzJtK1ND8vzqoO,['711MCceyCBcFnzjGY4Q7Un'],1993,1993,6
 ['gloria estefan'],Mi Tierra,3JmmaIlJ2xKlI60gqSQVE9,7tpRFmImdA2lXhq86OLz25,['5IFCkqu9J6xdWeYMk5I889'],1993,1993,3
 ['dj jazzy jeff & the fresh prince'],Boom! Shake the Room,6l2haiCg21JT5KS1j0gUoH,5N9QAscaF9QeZS0a4ZcnwG,['1mG23iQeR29Ojhq89D5gbh'],1993,1993,10
@@ -6911,7 +6811,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['chaka demus & pliers'],She Don't Let Nobody,4DvhsvVb6ucPs4d7h4GnQO,3MvOWcHQP67OGTJvr9TPFi,['6RQkaOWddQmiLLJqSgnTbm'],1993,1993,5
 ['valensia'],Gaia,7DGLCAl6rlruZgJamCBj7A,6913mGnk3e9nDj4FRTS7xZ,['6ljBEJzbkE8z1pMkfcMw3G'],1993,1993,11
 ['captain hollywood project'],Impossible,61mZhS7jWQWus3jmpmyPN8,26J12c30ae5mc71Uxm2SIP,['3El2sJgqTWkg1kkyHHAEu4'],1993,1993,6
-['janet jackson'],Together Again,1GrikfH0jDejDvrxo84n4P,6ZANEjETQ9L9pjBuvOAhCQ,['4qwGe91Bz9K2T8jXTZ815W'],1993,1993,8
 ['right said fred'],Bumped,6TXuyHI88fio5ER8Q2C3Fw,2yAcQenJXX0rQ1SUkxmM6p,['15ajdFAi5bjj5pS9laBfBL'],1993,1993,3
 "['def dames dope', 'phil wilde', 'peter bauwens at soundsational studio']",Havin' a Good Time,6UknzvbzUShflIQH7SS150,4N7R1AxsLMcHCNIZDHyg1t,"['0ua6axmxUhTW6TO0KzMIUB', '5cCjYJS2xp2HKNT3kls1nH', '5ClOstvSy04AxZUhn8C9S5']",1993,1993,5
 ['2 unlimited'],Maximum Overdrive,2DvZjRV9ybZdhi6hnuC9MG,31ZELjZPFpr5326F1uojYm,['18JD8DVlD1fakDAw7E9LFC'],1993,1993,9
@@ -6927,7 +6826,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['4 non blondes'],Spaceman,38qmQU7qWQAW3Lz1LjO2Tu,7oqXnxR9Xg9Okhs17hL9aS,['0Je74SitssvJg1w4Ra2EK7'],1993,1993,3
 ['ramirez'],El Gallinero - Tambalea Mix,6FVjnnC2xdFzm2lDBvE8Wf,2QxNkMXJOuur67Gve8l1LJ,['5V13vBtcBjgL3LWxvVXhty'],1993,1993,8
 ['u2'],"Stay (Faraway, So Close!)",0Abb2lo8gicipdZ73ReYjT,27kWhG6vYQDkk0cIe8RXaZ,['51Blml2LZPmy7TTiAg47vQ'],1993,1993,8
-['cappella'],U Got 2 Let The Music,79zbbqdbNXtRY6govKU8Z9,5xA73n1xmSkC6S44muzOFJ,['0NPwkUJRrRiWYdHpLXBkxg'],1993,1993,10
 ['urban cookie collective'],Feels Like Heaven,7HlxqDDzdWE3gK0i6fS6Bt,6IjQa4ZCnkSa9cnUvA3yJG,['1QYMj6ouUhi6yis1HE8M68'],1993,1993,9
 ['tom petty and the heartbreakers'],Mary Jane's Last Dance,5xS9hkTGfxqXyxX6wWWTt4,6E2lDnV61v2HJaNCjLgOIg,['4tX2TplrkIP4v05BNC903e'],1993,1993,3
 ['paul de leeuw'],Ik Wil Niet Dat Je Liegt,76ikfBK8uCzlSmhlYKQMLm,2zWo1Ql9eSAWxXxKqYU3yW,['2UWFwMXUXbEs79qbI4NdTT'],1993,1993,19
@@ -6942,7 +6840,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['andre hazes'],Uit M'n Bol,2mZUXzCoYAhKqXmEJqyBpr,0gCT4Y1EUY4XrlWvCE462K,['04MtOUkmIDC4LAxDDBjrOY'],1993,1993,4
 ['rene froger'],Why Are You So Beautiful (The Questions),1PIwZecTsUDulIm24eV14a,4l8nLcGXsNbCeAlD0ALMcO,['5MvyMusqNikgVgkKHLc3pb'],1993,1993,7
 ['ace of base'],The Sign,0hrBpAOgrt8RXigk83LLNE,5UwIyIyFzkM7wKeGtRJPgB,['5ksRONqssB7BR161NTtJAm'],1993,1993,14
-['sonny & cher'],I Got You Babe - LP/Single Version,2SWBfqj1FrS8t8z56G55rP,5QzkzMcvCJSk30pQS2mqia,['71lGEtP9qYXDsSXjfexTqO'],1993,1993,9
 ['blind melon'],No Rain,6txWz9UapYHVxEd7dDIHXT,55jET4vDioHHd7ztX7OX3h,['5sD1ZLf2dGQ9gQ3YJl1eAd'],1993,1993,5
 ['take that'],Babe,4X1RZn86wq9RbeKX4q5X6s,602GFhC2XWPK8WeeaTUysX,['1XgFuvRd7r5g0h844A5ZUQ'],1994,1994,15
 ['culture beat'],Anything,0KTMFCUZgDOaXkdqyhQYwd,4WiN45TcjcmOnnk8ZPzIIO,['0BZ3BHzfYwpd3k5TDnvAz8'],1994,1994,11
@@ -6953,7 +6850,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['enigma'],Return To Innocence,2UKkLqST2xWpK8n1b0Xr5Z,1t4hf9yHMQBoTz2CxTBJKj,['3DmG65yHQsMms7WAvrZOdt'],1994,1994,13
 "['chaka demus & pliers', 'jack radics', 'the taxi gang']",Twist And Shout,2XCI7vQB1pnGR3nuPtoejf,3MvOWcHQP67OGTJvr9TPFi,"['6RQkaOWddQmiLLJqSgnTbm', '0YeIluqMsCUwn5NC3TG2iQ', '2Af07b1sTnXHHSdCqdLSfy']",1994,1994,8
 ['aerosmith'],Dream On,5MxNLUsfh7uzROypsoO5qe,19lEZSnCCbVEkKchoPQWDZ,['7Ey4PD4MYsKc5I2dolUwbH'],1994,1994,8
-['doop'],Doop,4vWBwSdktMaQkgEMLWZn2O,26J12c30ae5mc71Uxm2SIP,['3IgrARF9uItsAbJ4G3uiIC'],1994,1994,8
 ['hanny'],Ik Fluit Naar Alle Mannen,1q2stfdQ7hkiCZ1I9PL9WU,5LLwZKuN7pzDS4VYTQIisD,['192dcyn9q1MqypeEL4UKiU'],1994,1994,3
 ['positive k'],I Got A Man,4IjKyR9JIO8Cr8doVtbVqj,02xVk8MJawj5K1iW84YuU9,['5NtJpNZgRqBvRCq6OE08ZU'],1994,1994,5
 ['normaal'],'T Wurt Tied (Dat Wi-j Weer Es Goat Dansen),6p1ygazdixq37FNxWrLFKj,5HLr5YvoVKBEV2Px6GmMv9,['2QU0ew2k2IZJifa8VWevSv'],1994,1994,9
@@ -7009,7 +6905,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['take that'],Everything Changes,2SM8wz5NKOvRCIUl3lwzBz,602GFhC2XWPK8WeeaTUysX,['1XgFuvRd7r5g0h844A5ZUQ'],1994,1994,8
 ['sonic surfers'],Don't Give It Up,5oIWttKKSWsdYZDpkjCioz,39pIljbXctlc0hsny173sG,['6RIal0MC6YZN4GaLIK7fWy'],1994,1994,9
 ['ub40'],C'est La Vie,11ziwT3Hlfi4Eec0exgtVN,0B0RuH2PSWoEkIvi75xY5d,['69MEO1AADKg1IZrq2XLzo5'],1994,1994,3
-['doop'],Doop,4vWBwSdktMaQkgEMLWZn2O,26J12c30ae5mc71Uxm2SIP,['3IgrARF9uItsAbJ4G3uiIC'],1994,1994,6
 ['whigfield'],Saturday Night - Radio Mix,59VRFpPnC8pOhIH2WCWXF9,2svgyeZtPdcWOq5Hmj5uud,['0lHoDF96DNKSIcIpcOfMnq'],1994,1994,12
 ['new timeless'],Where is the love - Live,5cNeroIsz7SVjIkuGsBHGj,7fMwIUxqcqSLWG67QwDa3a,['0cITHw68HPLMChQETduF5D'],1994,1994,13
 ['nico landers'],Liefde In De Nacht (Love Is In The Air),1ArKp3cMrE4QppWIFrVzgj,2nCbKucxHCPeqC8Xn7L6hH,['1UHDrnoEHrUNYhuSdY44KF'],1994,1994,10
@@ -7135,7 +7030,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['pet shop boys'],Yesterday When I Was Mad - 2001 Remastered Version,73IdevHHla6ZRLMfHD0bFv,6isi41U6Wdh0JBglB26rKX,['2ycnb8Er79LoH2AsR5ldjh'],1994,1994,1
 ['the rolling stones'],You Got Me Rocking - Remastered,6QPaiM2qBKKAYNd8WiSR7u,62ZT16LY1phGM0O8x5qW1z,['22bE4uQ6baNwSHPVcDxLCe'],1994,1994,2
 ['maxx'],You Can Get It - Airplay Mix,4QZyUeFNAwyreX1EZ2FVpN,2QKxAQq1uwYjWyGGaBZnxA,['6zkbUEItDv8gNXeO5WkkNX'],1994,1994,4
-"[""livin' joy""]",Dreamer - Re-Original 7-inch Mix,08GRfpoCGo9ycQxvTNakNh,4N0xrChOeaQdayE1vQX6QR,['3PUzVXdNnsJGPDTIU7xvqu'],1994,1994,4
 ['bobbie eakes & jeff trachta'],Love To Love You (In The Morning),5I4WuprL3SLgYlwAkWydud,1SZMqlAxJ1rOc9nt1uZyMs,['17w0yAG8KfoJkeaWUfDnyC'],1994,1994,2
 ['wet wet wet'],Goodnight Girl '94,6QaibuI6sf8ykAUmIQNJV3,1mnjhNxGlBdesgCqqileGw,['2u0gw0uCWBMiqV7h0N8kai'],1994,1994,6
 ['take that'],Sure,6hvrBjUNefOpw2Gzjt8xOM,0Roig21lheelthCcmLyjYO,['1XgFuvRd7r5g0h844A5ZUQ'],1994,1994,5
@@ -7252,7 +7146,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['cappella'],Don't Be Proud,1lWlCf6w8L5yzCd3ZZjNu6,01htlsfgnnMtHFxuzPKM4M,['0NPwkUJRrRiWYdHpLXBkxg'],1995,1995,5
 ['2 brothers on the 4th floor'],Fly,0CLgqEoBCMtMlgY2sosTmD,0jO1N9TGcEl7b4oy0wbejF,['5wsBGjgRsASMggXLPF7pYm'],1995,1995,9
 ['wet wet wet'],Julia Says,4vzRjtAnvujbtOhs7wTkgp,2lODNMYgdKlOXvj8K4imjE,['2u0gw0uCWBMiqV7h0N8kai'],1995,1995,9
-['scatman john'],Scatman (ski-ba-bop-ba-dop-bop),623rRTKwGmgjH6sjE9uWLh,2MRWFajfjxfLAF3wwmdv5j,['4omQQTNN7ILiMsSB2k9eqX'],1995,1995,14
 ['charly lownoise & mental theo'],Together In Wonderland - Video Mix,6sojc43td5yKE9rNvUIq1Y,2VDYE3MgwJcX5csT8q4idL,['5GLFbwgiU1YyAoQD8C4nvC'],1995,1995,9
 ['freak power'],"Turn On, Tune In, Cop Out - Radio Mix",7rEhkWEwm8IU9POxlmEQuu,1PePHpjhEWUZJx79CZM31j,['0uh9TDn4yP8gqCmrnIcOPJ'],1995,1995,4
 ['rowwen h„®ze'],'t Roeie Klied,2J7mZNpo4xtA6ASV4pNivn,2tw8rXiHgAyKZNm4j3XmxA,['5icZHFQjI6SRsvXNOKUXZ1'],1995,1995,7
@@ -7303,13 +7196,11 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['mokum'],Ajax Heeft De Cup,3YCTR4seLinVydQtMWjrmq,6bnbolqL3OzO0X1vqiCnZd,['3BYmM3Q0f0zupYsMqwqXrs'],1995,1995,2
 ['dj bobo'],There Is a Party,4XTmk1wKjnZ6SK5xVibzEz,5xKmo9qM1wHQTGPyB7okrS,['14dmbYen0AciYxu5n4Fkpd'],1995,1995,5
 ['clouseau'],Passie,34oyuLfWrmAPXENXDa9kvX,1urDkwjhvrgs30RYsxierf,['1aK4CAEPdOJS3wBL0OnQts'],1995,1995,18
-"[""livin' joy""]",Dreamer - Re-Original 7-inch Mix,08GRfpoCGo9ycQxvTNakNh,4N0xrChOeaQdayE1vQX6QR,['3PUzVXdNnsJGPDTIU7xvqu'],1995,1995,4
 ['diana king'],Shy Guy,3ldG6XCLDXxWg1N6XhrSKo,5lwkQjfbO515jO9jwfzs6b,['221iMiF62DFPnVuCLJakP1'],1995,1995,13
 ['de sjonnies'],Dans Je De Hele Nacht Met Mij,0kd4Br1X9dw2lZxeHQl7Wj,0DvNs9Ozl7viPlteEZ3D0Q,['4NmiKq5IMQAq7cRBnmEs2S'],1995,1995,9
 ['everything but the girl'],Missing - 2013 Remaster,79WrmdVsLbwRTUCiH7cPsa,0Ia2c7KTHgiw9nphwouaUQ,['13ccXrK7AmXb4TddMkE7jy'],1995,1995,24
 ['east 17'],Hold My Body Tight,7j6vxP5np4KiNBrkVinHOg,374fbyA2Mcu33vrz0TP7Dw,['6lOC7lwSO1ql4Gc2Y3QObY'],1995,1995,3
 ['wolter kroes'],Laat Me Los,1hA6iyCGPBkRXO6M7fIAMf,04A6XDsHTIrqivMVtAIqf7,['3aERYLqcdKbyI7pjmOgIpU'],1995,1995,5
-['scatman john'],Scatman (ski-ba-bop-ba-dop-bop),623rRTKwGmgjH6sjE9uWLh,2MRWFajfjxfLAF3wwmdv5j,['4omQQTNN7ILiMsSB2k9eqX'],1995,1995,12
 "['skibby', 'king lover']",Feel My Riddim - Original Radio Edit,4M32iRjMcEP7chQ9qWB2Dy,0ERz0rzTRInVsVGbOM0yvp,"['7yTroxczktIUe8ZOoLHEZs', '3IRajmLarGFNoiDTMepXUg']",1995,1995,5
 "['karl jenkins', 'adiemus', 'london philharmonic orchestra', 'mary carewe', 'jody k jenkins']",Jenkins / Arr Ratledge: Adiemus: Adiemus,7v6qx4vePauKFz3utATfRD,1dwuqHWFqYpZStgq1DaSoc,"['1q1wfzh2xtpj27TnIAqIvd', '73GJmUlQIaIhau1wiDsXVB', '3PfJE6ebCbCHeuqO4BfNeA', '2ZYdpQgTZ31R3tjiX25XNT', '1E2FklbWddSiwbUtGq0oKu']",1995,1995,6
 ['dr. dre'],Keep Their Heads Ringin' - LP Version;,1rylJ0VXvhOzLGNm401iaI,74iv82AYPjxyWpGbt9LNuP,['6DPYiyq5kWVQS4RGwxzPC7'],1995,1995,9
@@ -7323,7 +7214,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['wildchild'],Legends Of The Dark Black - Pt. 2 - Renegade Master Mix,4IJUjaESubZukthuepivKY,0IQ6w8TuL05gLtmJ6yYPfX,['3fCIHi2QCYERvmrXa8fWjn'],1995,1995,3
 ['pizzaman'],Sex On the Streets - Radio Edit,5haRtDPKdT4tJ5HWBwWIM7,6SxPPHnWasOGX9odgSEAfM,['1VXkvM7lA7cCcfrT2FguoX'],1995,1995,5
 ['dana winner'],Westenwind,1VAhKe3cFvWXD3GCjI666V,402SeK1GNxlBvsOLZGCi1k,['6pmObcotPmooyBYA0PbxPW'],1995,1995,5
-['bobby brown'],Humpin' Around,52t5L70Ap9iHYSbIJ0jZFM,7piJQaxpsN7PJSHnqUA92F,['62sPt3fswraiEPnKQpAbdE'],1995,1995,3
 ['foo fighters'],This Is a Call,2wO8aOvN1ogLy1N8XT1WJE,4EnNuo8fG7dMoxMefbApRY,['7jy3rLJdDQY21OgRLCZ9sD'],1995,1995,2
 ['flair'],"Oh, Middernacht",0POK6I0aTkNWNvXegeXIXu,01I4rIFxCZOzrzZ6UbI8AS,['5Uy7rUKBJztJyIAbGSwuEX'],1995,1995,6
 ['sin with sebastian'],Shut up (and sleep with me),4WNIF5VxdbxNbmlmCzwZp2,19u4PQSuf75wCBSX8XVkM0,['0M898uhr3b4OPIUC4pse47'],1995,1995,10
@@ -7358,7 +7248,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['andre hazes'],Leven Op 't Plein,5G9ihtBK7a7PS6SISNUdpY,69ruYZfLJ8rRsJYSOJ79aH,['04MtOUkmIDC4LAxDDBjrOY'],1995,1995,3
 ['rene froger'],You've Got A Friend,4ViKEmcDIv3nT8gWwuoz95,48uWyjU5hkfA4LAiME5bVY,['5MvyMusqNikgVgkKHLc3pb'],1995,1995,6
 ['dj paul elstak'],Rainbow In The Sky - K & A's Radio Blast,2PVqPbRv7mlCp2JYzDeMsc,5NOu6WXdxUoMoqTgseVIbT,['123hDJRbi4KtCdBaaKNHW6'],1995,1995,10
-"['faithless', 'rollo armstrong', 'sister bliss']",Salva Mea,6mk7JS6wLfGnGM5pNJI2Mz,79l06Tq9jLX8ZUmSN9l5ma,"['5T4UKHhr4HGIC0VzdZQtAE', '6hFSukEzqXAkCIcXNnctZ4', '4tc9NREea7ncB7JzqdBsj5']",1995,1995,4
 ['c„©line dion'],Pour que tu m'aimes encore,6qlpXtA29VcxCNgLWR5IWx,0DdTKXdgMLcSqccdyj6D9p,['4S9EykWXhStSc15wEx8QFK'],1995,1995,20
 ['2 brothers on the 4th floor'],Come Take My Hand - Extended Version,67LwOmbVW0jQpG9G6nnCYz,0MZQn1pzHB7CRqnO9I1ok8,['5wsBGjgRsASMggXLPF7pYm'],1995,1995,11
 ['dune'],Are You Ready To Fly (Radio Mix),6V9KsnGcteAK9BFG6SGkU4,5hAcH6CTDKGj43pMhp4iwR,['4u78tFtzvcrrs8kzkXsW4r'],1995,1995,6
@@ -7516,7 +7405,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['c„©line dion'],"Because You Loved Me (Theme from ""Up Close and Personal"")",1NOeZ7ZIVKMebuza26rofd,55UPmpHLvZKGgTPUD1woES,['4S9EykWXhStSc15wEx8QFK'],1996,1996,15
 ['marco borsato'],Vrij Zijn,2O7y7BMzGn7uNLnslt5y1b,2vWVzv7zd5NQuT4TNru6hb,['3D2GUXbtlL3r2d5HJEnsFD'],1996,1996,14
 ['the cranberries'],Salvation,2jTGd685DHpxAjluVFh5gs,4phhXynEsCdxXklm5vczTB,['7t0rwkOPGlDPEhaOcVtOt9'],1996,1996,3
-['los del rio'],Macarena - Bayside Boys Remix,3ktQWLu1mVhc4GTMrdPLEG,0GYe1hVcwpkLm6n1XBmf4w,['2JXn03fudjyRkQ1Ye9f5rk'],1996,1996,26
 ['bette midler'],To Deserve You,5xG0YSgDMTkLlqksbBPjO6,1x8qDtzukufkHK2ZuKv0Es,['13y0kncDD4J9wxCyfKr10W'],1996,1996,14
 "['eros ramazzotti', 'luca bignardi']",Pi√π bella cosa,12FPhpN32Y9AyQIUZIREGo,5MDsDepmrXoKkYwY8ZyS3r,"['61J0BktHv7PuP3tjTPYXSX', '19YAQxr2xw4CZ6TlRwsY1C']",1996,1996,4
 ['dune'],Hand In Hand,27y5jZCsr3sy4lfno0QMfM,62hz0NzMiC2kvo6oqSxT0K,['4u78tFtzvcrrs8kzkXsW4r'],1996,1996,11
@@ -7530,7 +7418,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['bryan adams'],The Only Thing That Looks Good On Me Is You - MTV Unplugged Version,056lCqmko9I9XAaJ3tXmbP,17ixV4uTZRqattFeU4h8th,['3Z02hBLubJxuFJfhacLSDc'],1996,1996,5
 ['rowwen h„®ze'],Limburg,73I6ItRxUde63sVOva6TW2,306XLcXeyptPX7YIQHrx4o,['5icZHFQjI6SRsvXNOKUXZ1'],1996,1996,8
 ['metallica'],Until It Sleeps,2M2XIGKd4sF8GcYteFN9n2,2y3CggQI4N4EpMCGNHR56S,['2ye2Wgw4gimLv2eAKyk1NB'],1996,1996,5
-['backstreet boys'],Get Down (You're the One for Me) - LP Edit No Rap,6KPMiBhU6O9RBImTQXQNCe,1oWxRkI4V9d3hH3PqWpx9H,['5rSXSAkZ67PYJSvpUpkOr7'],1996,1996,10
 ['deep zone'],It's Gonna Be Alright - Dj Guan's Club Mix,4naGrUoLU5bWxAS6EKJXcZ,1oodbSZr1eEm0n0rqkcico,['41nTSwlYFLk86zBOu9Mlj0'],1996,1996,6
 ['u96'],Heaven,3gpFz8oAnbKQz83jf17yco,3CmchxGaji4Tt4ro5JDIhZ,['0RhnKJThw36HFitqY6dYgd'],1996,1996,7
 ['frank galan'],El Bandido,4OAP3tBhTudhOJWSbr89PM,5fMAswJX9JUxyJ0c4a7wBI,['4W9Qd21A3mUPFufnSvdFWK'],1996,1996,7
@@ -7677,10 +7564,8 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['red 5'],Da Beat Goes,45MBH9L5q2oVLZ9jOnsiXH,3GMozweUPhrkvZiuGF6hKw,['0Qjo7H3y6eUcAIfNN9yfqY'],1997,1997,7
 ['delinquent habits'],Tres Delinquentes - Radio,6EoiDyFLeF4QX5IfFKXSYF,6oX0gpxTxSrCZ1QJikDhMN,['0Ph64AJnzKQwXj4y7bWi2U'],1997,1997,3
 ['en vogue'],Don't Let Go (Love),06TuMCjDEYjTOJScCRzmjf,3mn8mLqRknZCD8o7Ruy4BN,['5fikk4h5qbEebqK2Fc6e48'],1997,1997,17
-['erik hulzebosch'],Extase (zonder jou),066VpprkGzxtCrNMKFcVDD,0g7iFRUj3NIAJl58f7Vyim,['4Ur98tTL9iGvmRg3JecmQk'],1997,1997,5
 ['i.c.t.'],Lasciati tentare - Italian Mix,22sCkLGoTufldml3Ch7RkV,449YrpoTziABnAKvSdR3By,['75sdFBiygPrsQa041W3AEj'],1997,1997,10
 ['*nsync'],I Want You Back - Radio Edit,221LRlPHPuevgE1tuUlof9,7K5qlneuWF1CcY6ERzwkLB,['6Ff53KvcvAj5U7Z1vojB5o'],1997,1997,9
-"['faithless', 'rollo armstrong', 'sister bliss']",Salva Mea,6mk7JS6wLfGnGM5pNJI2Mz,79l06Tq9jLX8ZUmSN9l5ma,"['5T4UKHhr4HGIC0VzdZQtAE', '6hFSukEzqXAkCIcXNnctZ4', '4tc9NREea7ncB7JzqdBsj5']",1997,1997,5
 ['george michael'],Older,1oMNeGkqwyEOLMUTrgdIr2,45evuVVrY9LzPez8geNEIF,['19ra5tSw0tWufvUp8GotLo'],1997,1997,2
 ['david bowie'],Little Wonder,0TcXlhDwt1TJpVZ7CMzCwR,4yRoLvuzNxFDdodNNrZAEM,['0oSGxfWSnnOXhD2fKuz2Gy'],1997,1997,2
 ['puff johnson'],Over and Over,3qvirSwQU6gnZkyLNtvCDr,4q7fJQkMk1J3jmyXXk6GPN,['4tZuiycQazMlEVhiPXuKLk'],1997,1997,12
@@ -7773,7 +7658,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['puff daddy & faith evans (featuring 112)'],I'll Be Missing You (Instrumental),0jKMnHAycHc9qO6R6UyhMc,7E9BjLPr2QCNB0HyYEMKZZ,['3Av0FrUSEIw7fPvTEV0TuU'],1997,1997,20
 ['bellini'],Samba De Janeiro - Sean Finn Remix / Radio Edit,2G7q9SHZJMFcM39lcNdtoI,2rnSEKBBFfsN4TBrewVH6U,['2CzPCLry0VHxB4JNva2du6'],1997,1997,12
 ['shola ama'],You Might Need Somebody,71YRxs1q0TaGGNbsmVCkCA,4qvu6A0d3w3ME3UkkKVLdS,['1XCorAp4vtEceWjPgyiiw6'],1997,1997,13
-['lee towers'],I Can See Clearly Now,4gta5a6wce8DOvSsx1GsRh,4OS3MZ9ttC3PrFwp0mwti6,['1J4tcPuHMmmMSTUXtJRApH'],1997,1997,3
 ['charly lownoise & mental theo'],Just Can't Get Enough - Radio Edit,2l2zYplvdjpRDEAmoHKX0t,2VDYE3MgwJcX5csT8q4idL,['5GLFbwgiU1YyAoQD8C4nvC'],1997,1997,6
 ['carrilio'],Samba de Janeiro - Classic Radio Version,4f6xL4o4eXxAqSDaDqmPM1,5uOW6qu4nieJcGSog5WXBx,['0oQW2Jyh17sM1r1XzFKc6L'],1997,1997,5
 ['damage'],Wonderful Tonight,37YcF4FXawb42aNIw7EeJY,3RoOsxFVtVkmQenKxpe5Nu,['6Pwy6Wat9hp8g83y6gih5g'],1997,1997,4
@@ -7875,7 +7759,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['george michael', 'till br„∂nner']",Last Christmas,1NKX7xZoWBkW1tkuNZbW9d,2Z46mv6B7Ppi5wzidO3RWa,"['19ra5tSw0tWufvUp8GotLo', '3Q4xYZ2ZuFaAsZZyjPIfc8']",1997,1997,4
 "['all saints', 'unknown']",Never Ever,7ziHnshbknkpFLDW5yGBjO,73aw7T2ZpoDvcPe2uSlWxF,"['5TDVKqW9uhqGjwwwKGuma4', '7CztClnGe7oHnn1ZUAJwf5']",1997,1997,19
 "['kenny g', 'toni braxton']",How Could an Angel Break My Heart,4X3y3QTcFefiXmcxGrJQZr,6rxtWZH5ua9eANwWdwwf9o,"['6I3M904Y9IwgDjrQ9pANiB', '3X458ddYA2YcVWuVIGGOYe']",1997,1997,4
-['janet jackson'],Together Again,1GrikfH0jDejDvrxo84n4P,6ZANEjETQ9L9pjBuvOAhCQ,['4qwGe91Bz9K2T8jXTZ815W'],1997,1997,21
 ['natalie imbruglia'],Torn,3APayTEWiUl9Ssep4BOXR2,5snQakFpbHsJmrAvhgeuHX,['0dlOr0VIysztGWvU1dpjmP'],1997,1997,17
 ['u2'],If God Will Send His Angels,4dnVLJ8zdP9IrAa4749AO0,67Q70XtbXmJ4nlAyTcn0dA,['51Blml2LZPmy7TTiAg47vQ'],1997,1997,3
 ['flip da scrip'],I Knew It All The Time,4KMhriFpKcXQ6wqzNZfWxq,1mMRfCpqSalRez5dCK0aVU,['62PX3OQkEoeKHjbsZfpOgV'],1997,1997,4
@@ -7890,7 +7773,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['pearl jam'],Given to Fly,3vL9lPWBuv0ZR3c5YmdhDl,5zsDtoSrXK4usJ4MB1tCh2,['1w5Kfo2jwwIPruYS2UWh56'],1998,1998,3
 ['vengaboys'],To Brazil!,6a8LkI05t201QTHsCuvhHl,5t02mTYT9ks9sOC1ihea4a,['0cwmNvclzPd8mQnoHuIksj'],1998,1998,7
 ['de kast'],Woorden Zonder Woorden,4aawAEfNW2ClBIhx7w0ISo,0mMsYu4KfiMiCRP0B1ZOWF,['0X6CDvMiFMeLxVnKUq9oWy'],1998,1998,11
-['nina simone'],"Ain't Got No - I Got Life (From the musical production ""Hair"") - Remastered",5VgcM58bybW45T2WgTdbeY,1ZRMX4V4gDAJzRmwUfjMYg,['7G1GBhoKtEPnP86X2PvEYO'],1998,1998,8
 ['dj quicksilver'],Planet Love - Video Mix,3xrvoCnTE0MBWDAZsiT9zR,24zKRFO7CTXPZ9c2IaiYMB,['1RSKoT6hnzaLjvL0LCF0ew'],1998,1998,4
 "['guus meeuwis', 'vagant']",'t Dondert En 't Bliksemt,5rgTXjUWeNTEJh578O7GCc,0jhSgbLJrdCfLxm80ZCsKP,"['72qVrKXRp9GeFQOesj0Pmv', '2ZywabPnRCoHjfPJfQavrA']",1998,1998,8
 ['espen lind'],When Susannah Cries,6rgASmUhE4RXNYRIAOwZzr,67dtfcKeCen9JdLmQc8Rne,['1N5566ZYn9C7qtdIlEeHM8'],1998,1998,11
@@ -7908,7 +7790,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['will smith'],Gettin' Jiggy Wit It,0weAUscowxeqDtpCgtbpgp,2esWeP8Ln1sXA0jbDmi3Zq,['41qil2VaGbD194gaEcmmyx'],1998,1998,11
 ['bl„òf'],Liefs Uit Londen,30rhqBqlKBtdjuraRzYnLs,6CXlCKvZ8vyIEDlOIDZZUp,['0KQX2wRHV2VLjuscfJFNxB'],1998,1998,11
 "['keith sweat', 'gerald levert', 'johnny gill']",My Body (feat. Gerald Levert & Johnny Gill) - Live,6d0Dk5LVCcEv0tCaVZP9NU,0A1LY2TUwcjf9yu2SnI6VY,"['2r09Inibex3C4ZNTUVSG3m', '7BLOa6FxCbMnowidkQfLIA', '7oHzn7edwmrYClrPRINkbn']",1998,1998,3
-['carlos'],The Silmarillia - Radio Edit,5vOrOnnbs8L542upCrH2GT,5HTcQmto5xKC7lHK72wLcy,['5YYbSUNzTPWjvBoKWxLfKc'],1998,1998,6
 ['frans bauer'],Wat Ik Je Zeggen Wil,51b7Juat38ZAFV8sMhve1f,3EJZAfvkygfjy8EI1luwhV,['0v4CvkMzWBQ1wZIMl2BqQW'],1998,1998,8
 ['eagle-eye cherry'],Save Tonight,2hdhm6piUJnmKXmEmskXCg,2zJcrLrN7EAcDYXm4j99k1,['3ngKsDXZAssmljeXCvEgOe'],1998,1998,12
 ['steps'],"5, 6, 7, 8",0IMOKJyVkk1qgLEkAWOaxo,6GikBlo9eN41ecdJDCfIJh,['17UkABEasVRlCcIFZ3wHb7'],1998,1998,9
@@ -8023,13 +7904,11 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['manau'],La tribu de Dana,1EKdQjHLQHgJ0LTJfVJAml,5W9H2idIj6FmdVNSWrg5f0,['6k68jYvlUy3CXOwhG1NDBL'],1998,1998,16
 ['bl„òf'],Wat Zou Je Doen?,5iKaPg25J8rrEBHXsM8SLx,6CXlCKvZ8vyIEDlOIDZZUp,['0KQX2wRHV2VLjuscfJFNxB'],1998,1998,15
 ['robbie williams'],Millennium,1nrackcWUBo87xecPgry2G,4sgNyq4LbcoRnNhte25GPs,['2HcwFjNelS49kFbfvMxQYw'],1998,1998,5
-"['the notorious b.i.g.', 'avery storm', 'diddy', 'jagged edge', 'nelly']","Nasty Girl (feat. Diddy, Nelly, Jagged Edge and Avery Storm)",4GIsskMpViPkt0uzPJTJSp,2M6rjUsC2T3KJ8Ku2uTTQG,"['5me0Irg2ANcsgc93uaYrpb', '79OSA519ScnPY0MVDpu8ZV', '59wfkuBoNyhDMQGCljbUbA', '7Aq8lpLMSt1Zxu56pe9bmp', '2gBjLmx6zQnFGQJCAQpRgw']",1998,1998,3
 ['ms. lauryn hill'],Doo Wop (That Thing),2Uu8IiLkLY0UXhCHka4Dlr,2Uc0HAF0Cj0LAgyzYZX5e3,['2Mu5NfyYm8n5iTomuKAEHl'],1998,1998,11
 ['r. kelly'],Half On a Baby - Radio Version,1bUNFlRKqHBDYCi52FYDKH,4yRYsQZfQpzkoVWH2XCX66,['2mxe0TnaNL039ysAj51xPQ'],1998,1998,8
 ['jennifer paige'],Crush,7aOGFnnVDivtRO1PrYhx64,4OwmsF9YyOVMrPVbOcZzCz,['26PDtWYDJ1KD0brukKsJH1'],1998,1998,13
 ['monica'],The First Night,5rWzxloNXvbRPhlC1O2b6T,6mIyViyBHV4eoQqI4JZByh,['6nzxy2wXs6tLgzEtqOkEi2'],1998,1998,8
 ['mel b'],I Want You Back - Feat. Missy 'Misdemeanor' Elliott,7eU7mrPH3wG8pgAyFlQS3g,5nQBpgNce3qxwawV3BMAS2,['2vJU4d2jRQb4zJJIQRkyDB'],1998,1998,9
-['queen'],Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,58alCatewkjNm9IM1Ucj67,['1dfeR4HaWDbWqFHLkxsg1d'],1998,1998,7
 ['the kelly family'],I Will Be Your Bride,6TBDfijepPOiMTj2QlgQfI,6BvRPhn8Y36JMnS4dGx4w4,['5KU4DdFlZy6aiI5u6nhywP'],1998,1998,5
 ['niels van gogh'],Pulverturm (DJ Tomcraft Remix),1BSyG9AMPTogxKoWuN8xX5,2UZS5geadu2rZHe5JcUbfy,['6L8Co7Voup4dISwbSl3owl'],1998,1998,8
 "['kelly price', 'r. kelly', 'ronald isley']",Friend Of Mine - Remix,2v3tkziHu65g94o9UbtD2o,0QUEbd0Ec7PmdgJwZKJGOl,"['49FeZO3eSrJs7oH7lYLU1r', '2mxe0TnaNL039ysAj51xPQ', '6W9RUw7xnNRYtgh8dimg7L']",1998,1998,7
@@ -8051,7 +7930,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['cher'],Believe,2goLsvvODILDzeeiT4dAoR,0jZfbz0dNfDjPSg0hYJNth,['72OaDtakiy6yFqkt4TsiFt'],1998,1998,24
 ['jewel'],Hands,1Nchgvmv9DUrB8X1n442EH,66oHhkpwRWqMU0xwwfEFXy,['6FbDoZnMBTdhhhLuJBOOqP'],1998,1998,4
 ['emilia'],Big Big World,5sPd9erdKeRvdO2wc9jyNp,5odU0U2oqgd75UJKX6XXEc,['1sPuAjy8SuvfwXNVgt52jg'],1998,1998,18
-"['marco borsato', 'matt simons']",Breng Me Naar Het Water - Bonus Track,5JzpyVGEXe87V15jPg883K,1Ukxz1dgbTrDvzkIMDmQ39,"['3D2GUXbtlL3r2d5HJEnsFD', '1g0fXhQMHAxlRyIBkCbuE7']",1998,1998,17
 "['the tamperer', 'maya']",If You Buy This Record - Your Life Will Be Better,7LEL1euxHKgH57iGrRa9lt,0haYOajxt6lngW9EfJHoYb,"['1hK5unnJvXQcBMO25YxOFZ', '4ofqDJW8PTs5YGdO0QZ55A']",1998,1998,7
 ['tina cousins'],Pray,2ythTsnUtYWtpMaOaJhsHz,7D0xnocXwTZQaVbHq7FQCx,['2uhEmRPgI5Ppg2T3o8VP31'],1998,1998,4
 ['close ii you'],Friends,6Ax4XrxWmyyhL3gSVZxy8i,6JoB3mTZvFOXfnPCzhyR0V,['0aHdlh99ee5gaOplHz6Cyt'],1998,1998,7
@@ -8259,7 +8137,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['rollergirl'],Dear Jessie,7h2jT3YLmtDAxf4cF6rSQu,1CRIidVn4zBI4qCIuSEMFs,['4OA1c70ANsRopn5bWmJ0Rk'],1999,1999,12
 ['kane'],Damn Those Eyes,4V794XzFIhbBi8nnVlCd54,7qCFhs5YoPhOnrNayHxgLK,['7rgKxnnBAsZ7Q04d6jICu6'],1999,1999,7
 ['cliff richard'],The Millennium Prayer,6ak9eBEt7YV2fW16gehBrp,6YZb35WBIM7ZlJf782E6gO,['2nvKpWcP8etYTq4JrRiUiy'],1999,1999,3
-['metallica'],Nothing Else Matters,1znPMY3zq78mVuTAmOA9O7,3A4zAmE5c4dUAAqEJz6hCH,['2ye2Wgw4gimLv2eAKyk1NB'],1999,1999,20
 ['ricky martin'],Shake Your Bon-Bon,1yKDl9K9lrbIFSpPBzEQtb,1k1Cr3nlJDa8pvwZUJ5xfj,['7slfeZO9LsJbWgpkIoXBUJ'],1999,1999,3
 ['christina aguilera'],What a Girl Wants,231WyXR4WZi64gPSuOC27u,2alhzWaLZ5wXZ0oJAo38aS,['1l7ZsJRRS8wlW3WfJfPfNS'],1999,1999,12
 ['boyzone'],Every Day I Love You,5HY5VpkhXkqESYMqwsZndm,4k5K5bCfX94vbWm9SCkFEa,['6X9aYHnQ75YI8o08aoa0iS'],1999,1999,2
@@ -8341,7 +8218,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['s club 7'],S Club Party,3r2EtAEybamz9jJm8W47lA,6QanSklvTjKC0M7CTQb3t6,['1kM5rgJvkiDMOoKX56H6pX'],2000,2000,4
 ['dilana smith'],To All Planets,15cRTCUphluZO2gVbIEvRO,72QiJxX4aAXGbZMxtPTAGu,['5BVYMo0Yqfi3EFTbzjH4zM'],2000,2000,3
 ['zombie nation'],"Kernkraft 400 - DJ Gius Mix, Radio Edit",7g8cjrj0sXScNE727685JE,2qmrRoUZQemrKFr9PBMDHd,['7vFpNLbCXbBFs4kFBUlkSl'],2000,2000,9
-['bon jovi'],It's My Life,1zOaxkbS1kAY1gIi0g8sOm,2R8sO7coUsDazpoQzmGIWp,['58lV9VcRSjABbAbfWS6skp'],2000,2000,14
 ['alice deejay'],Will I Ever,42vplZSyKjmELGTcD44miF,1hc7cfd7WdYtx2WVYiz78E,['0aNCjE72yyrhKQB1qfPBpi'],2000,2000,10
 ['montell jordan'],Do You Remember (Once Upon A Time),6JEkH6ufD9FmtigU5w6J6U,37NzUuSoEWf1a2nKWcRHv4,['0iVrCROxeyon7MZUW3MfzT'],2000,2000,10
 "['norris windross', 'grant nelson', 'kallaghan']",Right Before My Eyes,32uavLCIlX2ngYG2XvmBqx,4b5Md63obUODg2wcUlVhT9,"['4y4JUSu50FKluxD2WZyEfZ', '6uEi6lYYhf6Fkd40ZVCKqi', '6LRnhfpFmAkcorvoqZuO5u']",2000,2000,2
@@ -8368,7 +8244,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['paffendorf'],Where Are You 2K17 - Edit,5fiEwtFc6fNvMwx1bzqSbh,6WkLg4aC4Cc7QgrcFYlJ0V,['6ncUTZAXal93c05AUvr94d'],2000,2000,6
 ['eminem'],The Real Slim Shady,7KccdUP4IslFXUNNseqBc7,5xifZlByZcZecgkP7sYSoW,['7dGJo4pcD2V6oG8kP0tJRR'],2000,2000,12
 ['e-type'],Campione 2000 - Radio Version,5zPHDwHKbJeMMWzfTxov7D,2DHNkg5iYT0megqdTnzb3z,['53I4RAzuXWvaO1vzrCBJbD'],2000,2000,4
-['backstreet boys'],Get Down (You're the One for Me) - LP Edit No Rap,6KPMiBhU6O9RBImTQXQNCe,1oWxRkI4V9d3hH3PqWpx9H,['5rSXSAkZ67PYJSvpUpkOr7'],2000,2000,6
 ['moby'],Porcelain,2UKYMN7VnsQo40n0qCt6Sa,3wRlU7n3LULfjL0e9RtB5Q,['3OsRAKCvk37zwYcnzRf5XF'],2000,2000,2
 ['red hot chili peppers'],Californication,48UPSzbZjgc449aqz8bxox,2Y9IRtehByVkegoD7TcLfi,['0L8ExT028jH3ddEcZwqJJ5'],2000,2000,10
 ['craig david'],Fill Me In,5c0gNby3UO6SEk5uJvdSMz,1zjuWiovPW0Z3faqevG0mg,['2JyWXPbkqI5ZJa3gwqVa0c'],2000,2000,11
@@ -8386,7 +8261,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['anouk'],Michel,4rn5MWk1ZPrW2Qjhv3xt5t,1r1ojSn9TwXWeYY481dTR1,['6ltVunYjAAD70YtVO6rxvX'],2000,2000,15
 ['toploader'],Dancing in the Moonlight,1FHNctV68GUNLgXclG2DtR,3Yxy4ITyguWRkdXwrB9uC9,['6xeFne1rkxMhKSW3ipvkdV'],2000,2000,5
 ['limp bizkit'],Take A Look Around,2xI7o9zYcqynmueNH4foku,3hGM52SddRWwI4yatyZYmb,['165ZgPlLkK7bf5bDoFc6Sb'],2000,2000,14
-['laid back'],Sunshine Reggae - Original Mix '82,0z0JSkE5Nw3i3nin3BBSuG,2PTte9WD2NqJzmbqNaDpa1,['2OLmN3LLWtLF7zerL4VdaX'],2000,2000,6
 ['angelmoon'],He's All I Want - Extended Mix,4eNjHNH4DJqjbl2WEx6qDp,1bXdDoztySMrWPuBbYRZUZ,['0bho7TIvC2nxlGVF2hyc7Q'],2000,2000,2
 "[""destiny's child""]","Jumpin', Jumpin'",4pmc2AxSEq6g7hPVlJCPyP,283NWqNsCA9GwVHrJk59CG,['1Y8cdNmUJH7yBTd9yOvr5i'],2000,2000,10
 ['darude'],Sandstorm,6Sy9BUbgFse0n0LPA5lwy5,0Xks5v0dve8Gh2tRHIekjo,['0LhHRmSd1EYM5QdNeNnCoQ'],2000,2000,13
@@ -8448,7 +8322,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ricky martin'],She Bangs - English Version,1uPrIHgYztXSkkcts9jet8,3zI9R2ktXKRwcPpZH1zpPe,['7slfeZO9LsJbWgpkIoXBUJ'],2000,2000,8
 ['ilse delange'],Livin' On Love,40wMY2bAicJpBwyE4NgzR2,3c7XPav9lVFFeTfOTL8fyk,['3FTKP1k9VbOng3m1rgnsqx'],2000,2000,2
 ['kane'],Can You Handle Me?,3VKp5mj7kD7HsdCOljxHx8,7qCFhs5YoPhOnrNayHxgLK,['7rgKxnnBAsZ7Q04d6jICu6'],2000,2000,13
-['milk inc.'],Land Of The Living - Radio Edit,0n7WgacZXU3YjPIsDkZL2H,2eATvNPLguQaLU2U7RMM0b,['2sgikskblKZFbDpsYO9anB'],2000,2000,12
 "['soul providers', 'michelle shellers']",Rise - Original Mix,0F69XICRjvSCP6JfW6O3g5,2IR9K0NcGMnXrSLtuDq0kh,"['12VxeLNcf9ulBEWYDVsVIZ', '6nT13KD6zp5yKAdoWBuO2u']",2000,2000,3
 ['backstreet boys'],Shape of My Heart,2rgHU2Zgd6owbyavzhrk8U,4v1UrTu6OMhmnf9BipnLmM,['5rSXSAkZ67PYJSvpUpkOr7'],2000,2000,8
 ['sugababes'],Overload,3HHkKnJf9oAR7V5KzlxeZo,4M4E4RaGbYS4BJMsCmGYWr,['7rZNSLWMjTbwdLNskFbzFf'],2000,2000,12
@@ -8492,7 +8365,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['whitney houston', 'faith evans', 'kelly price']",Heartbreak Hotel,4J9u7UsXH7F6sFI32KnYuP,00NABajpGsPCObfcl4LJsM,"['6XpaIBNiVzIetEPCWDvAFP', '5NDMothbpdpq2xHqSjrrWn', '49FeZO3eSrJs7oH7lYLU1r']",2001,2001,2
 ['outkast'],Ms. Jackson,0I3q5fE6wg7LIfHGngUTnV,2tm3Ht61kqqRZtIYsBjxEj,['1G9G7WwrXka3Z1r7aIDjI7'],2001,2001,11
 ['the spooks'],Things I've Seen - Radio Edit,1h2Q3Um4SJjbqq4FceESL3,4ffiHFK4YFz83XcOdqvtja,['5UEdalZXwxU3mzNl1xWr5y'],2001,2001,16
-['anouk'],I Don't Wanna Hurt,0nAKwLwzpqggnhW12FUtZZ,1pQxvRJV11lBX54KmuVIq0,['6ltVunYjAAD70YtVO6rxvX'],2001,2001,8
 ['hammer house'],The Jumper - Mass Medium Remix,6UkKhgHQDh6oAb5TjmjHTg,6SZH5JSVqSxsoMpdS2PAwX,['7eh776e6NmW68TTYLGd5zA'],2001,2001,2
 ['u2'],Stuck In A Moment You Can't Get Out Of,1klDPm7SfsS32hl7KHV9iy,7a5U0GPoAvT3gvEY66FRuN,['51Blml2LZPmy7TTiAg47vQ'],2001,2001,10
 ['birgit schuurman'],I Know,4s0ly4JCeYGxcdoL5vGqqq,7eEfCoMdmEvjl812YPOKuc,['3t8YK94jSx9SebLHxsrAba'],2001,2001,17
@@ -8592,7 +8464,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dj jean'],Lift Me Up - Radio Mix,0UqviUCnK1H40hNEunISiT,69hzCLwyNDH2m7m2YV6FAH,['73MDPnjHtoqOexpBNe4FPl'],2001,2001,7
 ['brainpower'],Wat Een Jinx Is,1XX8pakFLSajFa0SVA731g,5SaZRH1c5OJ7lJfoY1XCq4,['6LfIVTnSSc9zNqjpfVPs1w'],2001,2001,2
 ['klubbheads'],Hiphopping,7gI7l9kG0y6aCmpxDftTkQ,1CmJSOvHeCYN12VQCRkRC9,['2j9KNQNo5B2mQ1isoa0eIe'],2001,2001,7
-['eddy grant'],Electric Avenue,0upSMyj1Wzs6qyiZRuiFWD,3dybBHdC7BfEg1RU1eacS4,['6j2HWcd7z61iTLbi8eD0hA'],2001,2001,4
 ['lifehouse'],Hanging By A Moment,6jWLyg8AuMQ9LtIB2UlfOF,18ttJAJKeQvaAg8cpnn9uM,['5PokPZn11xzZXyXSfnvIM3'],2001,2001,19
 ['n.e.r.d'],Lapdance - feat. Lee Harvey & Vita,4h8jlFuIYJJRhpQm9CqLwT,3McMIW9iCiwEUWvEvn4cGU,['5wPoxI5si3eJsYYwyXV4Wi'],2001,2001,4
 ['mauro picotto'],Like This Like That,3Yek9Ik3dduwhCv0lKZQG3,6YvP4jnV1o5QL02rykTm1a,['0MNSDAOCHF7f2ZfAYxZ9bp'],2001,2001,3
@@ -8611,7 +8482,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['todd terry', 'gypsymen', 'copyright']",Babarabatiri - Copyright Remix,20HUvtNSEtO0xnX8FS3eiT,2fLF9ekd19x8HxUgpa8Nsn,"['3dE92yGWcrboP1kC5SWyqu', '4AoyJusH9fqC2kiko5L4ms', '1QcNpVT6u0dHxmjpZoJtHd']",2001,2001,6
 ['roger sanchez'],Another Chance,08fMRujpKhEDTanKN9l2ud,6qu9ns8pdYAWJphzLszkny,['1HT9k1ZSUL9IczSstOAgWJ'],2001,2001,12
 ['jennifer lopez'],Ain't It Funny,04pr6orXAsttpWeg0Votmq,57rgRewm7i1f1qmCKfOXvm,['2DlGxzQSjYe5N6G9nkYghR'],2001,2001,14
-['robbie williams'],Eternity - Radio Edit,4EobPoOInfzWFalFkU5NR8,3KnJzJIjhNYr7G1VErTLH3,['2HcwFjNelS49kFbfvMxQYw'],2001,2001,14
 "['zachary black', 'mariah k']",Loverboy,5rnep3ddpIk0eCukGJOhO3,4a8iD7gymbeoygshT18OW2,"['2HAzgZBGB4ELFMNcGZaj55', '19NaFA9VfTpSXfl8MoXC8M']",2001,2001,2
 ['titiyo'],Come Along,7GmHOAdriOnI9s5S79GAUr,3o9WyvK7ivIuR00cCnPOof,['2s5enJCtVBAAdWD94jOIbM'],2001,2001,16
 "['foxy brown', 'spragga benz']",Oh Yeah,0V3FPv1CNCtZoqjYfScRoU,01KfIKSoUE1mfuAxOJifUp,"['1wvlC6NwleHt1iRD6d5X2C', '2RUW6D53228zMHAXjaQI8f']",2001,2001,2
@@ -8632,7 +8502,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ti„´sto'],Flight 643 - Radio Edit,2xHiYZnnaa9Qg87WtGH0Q5,285IDbC2qfQaVGgqCdBXIt,['2o5jDhtHVPhrJdv3cEQ99Z'],2001,2001,9
 ['raven maize'],The Real Life,02TaGQZsRELViRutlIgFFr,7yJEGvJUmktyDv0yLfRfX9,['5WbKRCtdFObAHIPrbF32si'],2001,2001,5
 ['alicia keys'],Fallin',0KQx6HOpJueiSkztcS0r7D,5qUlPoDmNxCSzqVx81RDLJ,['3DiDSECUqqY1AuBP8qtaIa'],2001,2001,18
-"['armin van buuren', 'perpetuous dreamer']",The Sound Of Goodbye (Mix Cut),0KQE68hgRXf7tvND6TYr51,5Jm7eYiFi1UBrf4P6beYIg,"['0SfsnGyD8FpIN4U4WCkBZ5', '1J4lVvwCqmAwOJ5kqKamBy']",2001,2001,5
 ['mary j. blige'],Family Affair,5q4I6I0ytvTKuYe1Fquxnx,5S8QQNDeDTHaSXsJMo4qoC,['1XkoF8ryArs86LZvFOkbyr'],2001,2001,15
 ['jamiroquai'],Little L,5sS4g0adkAUXvLJHQ1i2kj,2M50cB74zAc1lQNlrlYHxY,['6J7biCazzYhU3gM9j1wfid'],2001,2001,2
 "['blu cantrell', 'foxy brown']",Hit 'Em Up Style (Oops!) - Remix Radio Mix,4zYTZvtcww7OWKie7fxA9E,3EIwRVOXjqWAxVLt7raduU,"['6vytZ677lz4LzCrUDcDokM', '1wvlC6NwleHt1iRD6d5X2C']",2001,2001,12
@@ -8826,7 +8695,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['diddy', 'usher', 'loon']",I Need A Girl (Part One) (feat. Usher & Loon),7lVNTXkI3cHFvcXiI8damb,5Bp5PZqYJ9tiz0Hf6lOD5Q,"['59wfkuBoNyhDMQGCljbUbA', '23zg3TcAtWQy7J6upgbUnj', '2gie1bU1LwnxdFAJoTLjzT']",2002,2002,20
 ['dance nation'],Dance Nation - Playboyz Remix,1MAVGQawaIvAj5Q3OX0ggq,7lnBE63NzDH24QS2NZ3pYd,['5ukuMJsKj4MuEuOTcoJww4'],2002,2002,5
 "['jennifer lopez', 'nas', 'cory rooney', 'poke and tone']",I'm Gonna Be Alright,3gCkStZBiwRS4SW2kkG5Cb,0yrEC0zQQa0Gf8PfqnOYsp,"['2DlGxzQSjYe5N6G9nkYghR', '20qISvAhX20dpIbOOzGK3q', '6v0jNVxRKCvjwXIU2SuqKo', '7M8EwIpyu0mZ9oA8sqcsWj']",2002,2002,20
-"['safri duo', 'michael mcdonald']",Sweet Freedom - Radio Version,65AidmU3mqbvCP033IyDAm,2EWskdmA33wEgM25Fd4PpM,"['2UOx6w3eHpPKc3RBnNV3Rl', '24hJWbo98sH84tb0nkeaqy']",2002,2002,9
 ['o-town'],All or Nothing,7pbNNVcFePJV3Wani6zH8q,1MmcmLfKCDfdMKkv9VzftG,['4zKhX6hYCQPNs406umP9Fx'],2002,2002,10
 ['tiziano ferro'],Perdono,6WRrn0GiACa4IgG8auaasm,1H0XS7GQqwI0eXD8xLL4W0,['11TplWqOPQBTmg2eiSLt1m'],2002,2002,13
 ['de dijk'],Ga In Mijn Schoenen Staan,7ISrL5ArWNpYlgw2u5cDrm,1mUYDIiCsQwg6B7HgxRoIR,['4jFkB3Lzjku9SFKUTP33WV'],2002,2002,2
@@ -9213,7 +9081,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['basement jaxx'],Good Luck (Feat Lisa Kekaula),0UyQ9TuZ1lG6eJi4eRKDfO,7cQ3HqZc1Rz1H6Wcm0IhW4,['4YrKBkKSVeqDamzBPWVnSJ'],2004,2004,4
 ['svenson'],Sunlight Theory (Trance Energy Anthem 2004) - Original Radio Edit,0icfuOEPJSbJOYdAWzJ7I2,0psHOHTEE3yylc3FcjyBE5,['69L1dSd8TzElYlV3Js86mw'],2004,2004,4
 ['dj jose'],Hecitate - Club Mix,4JVwmLvVy64cNFcz3ljzgE,2pvMkKGRCow1oEJvuczikX,['4pugYBYlQfhhuNkbwmmx0a'],2004,2004,2
-['bon jovi'],It's My Life,1zOaxkbS1kAY1gIi0g8sOm,2R8sO7coUsDazpoQzmGIWp,['58lV9VcRSjABbAbfWS6skp'],2004,2004,3
 ['kurt nilsen'],She's So High,3Yi21KBstONWGrdjuWszlt,3DxDrFCJ6uALdQXL3mbSZW,['49HPMFWsosCuRf810Ay1Vv'],2004,2004,12
 ['gebroeders ko'],Tringeling,3KhURJ48rv57PoPb3rfBzq,5iLYzhjREOwpActz4Doa86,['1N7uYpBFTTOHK9pJVRjR36'],2004,2004,4
 ['hilary duff'],Come Clean,1E8eHgcdz1aOJjgYRPzRwn,0V1VnWfgSeNea1H919CJX4,['2S9W9aSAd7e5mp8WqWxN2h'],2004,2004,9
@@ -9361,7 +9228,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['armand van helden'],My My My,7zkcY1CrKhj2kCIS9Q7TyP,5HqYW3uc0xt5aYm1o7aWL6,['3cQA9WH8liZfeja1DxcDYE'],2004,2004,16
 ['djumbo'],Hide and Seek - Pak me dan,54OaRxZuGtSsEvcJgLm9EV,4P0iDOPx5PmjG14MJEiduZ,['7BqE4BXcOntGJ2oyvSGGWB'],2004,2004,12
 ['sugababes'],Caught In A Moment,7I0dKuvHWeFN7Clx3afQgv,1s9BRhmwSGLc71q1j5JY5e,['7rZNSLWMjTbwdLNskFbzFf'],2004,2004,3
-['robbie williams'],Eternity - Radio Edit,4EobPoOInfzWFalFkU5NR8,3KnJzJIjhNYr7G1VErTLH3,['2HcwFjNelS49kFbfvMxQYw'],2004,2004,6
 "['benassi bros.', 'dhany']",Hit My Heart - Radio Edit,1gP9feeY5DxLh0gJsIFAoC,61YHzlDAxEShdM2J9506yE,"['0yrjYlutW9HgmJlnX479Mx', '7HiP69UJp8p2pKxnRaPqYF']",2004,2004,4
 ['dido'],Sand in My Shoes,4yCh9DjpjMGdNcTJdxToGK,0X9QCwbxIRm4MWKWnIHNaA,['2mpeljBig2IXLXRAFO9AAs'],2004,2004,3
 ['andre hazes'],Zij Gelooft In Mij,4GrQPpjaZmBf67b9Uh83T8,6toU0S9DdSnpkwFaguQgIe,['04MtOUkmIDC4LAxDDBjrOY'],2004,2004,7
@@ -9404,7 +9270,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['band aid 20'],Do They Know It's Christmas? - 2004 Version,3drPcekysGfjSyicFRLP7X,5v6oVunOk4DA8SMlBFqsKG,['71UcB6UtI3juKDx2wsOaqn'],2004,2004,4
 ['maroon 5'],Sunday Morning,4T5cqerbDXueYSVfXkIITo,7gGcnUEEQgIMV2JRwVQbrF,['04gDigrS5kc9YWfZHwBETP'],2004,2004,11
 ['green day'],Boulevard Of Broken Dreams,1hwJKpe0BPUsq6UUrwBWTw,2sIWM1FzNqLCccNwXuC4SA,['7oPftvlwr6VrsViSDV7fJY'],2004,2004,4
-['andre hazes'],Met Kerst Ben Ik Alleen - 2005 Digital Remaster;2005 - Remaster;,3ZnUqE5rsaJOHKgSCGao08,3ZcLqwqA6TglqLqmV2W6ye,['04MtOUkmIDC4LAxDDBjrOY'],2004,2004,3
 ['robbie williams'],Misunderstood,12MIVUhF6tEoNSDBT1MpKJ,3KnJzJIjhNYr7G1VErTLH3,['2HcwFjNelS49kFbfvMxQYw'],2004,2004,8
 ['kylie minogue'],I Believe In You,1AKJnUOmNwlyXzOYptQhwx,0CiGpBVREJ9teXHMFMabgC,['4RVnAU35WRWra6OZ3CbbMA'],2004,2004,10
 ['men2b'],Bigger Than That,0bPZuzLhRBc1M4IOrcvfKy,6MyVSHap2UHBLcRmwDeTyc,['52lR11rWYxbnLcjSpcvjXl'],2004,2004,8
@@ -9657,7 +9522,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['bl„òf'],Aanzoek Zonder Ringen (met Kodo),2Cgmtn8LfyWUm8cXqcwn44,6CXlCKvZ8vyIEDlOIDZZUp,['0KQX2wRHV2VLjuscfJFNxB'],2006,2006,16
 ['sean paul'],Ever Blazin',0wMGccSxwaLDpDqowlkJT7,5dllg7LmHBB2pOSzr9aOg0,['3Isy6kedDrgPYoTS1dazA9'],2006,2006,3
 ['katie melua'],I Cried For You,53StYvwNaVDR0grdYFdzVI,39LGwjgf2oV1BlCPsuLp4S,['5uCXJWo3WoXgqv3T1RlAbh'],2006,2006,3
-"['the notorious b.i.g.', 'avery storm', 'diddy', 'jagged edge', 'nelly']","Nasty Girl (feat. Diddy, Nelly, Jagged Edge and Avery Storm)",4GIsskMpViPkt0uzPJTJSp,2M6rjUsC2T3KJ8Ku2uTTQG,"['5me0Irg2ANcsgc93uaYrpb', '79OSA519ScnPY0MVDpu8ZV', '59wfkuBoNyhDMQGCljbUbA', '7Aq8lpLMSt1Zxu56pe9bmp', '2gBjLmx6zQnFGQJCAQpRgw']",2006,2006,5
 ['jamie lidell'],Multiply,1EZtB75i7g87yZzJucQKOq,6eF9NbDs1uiIuhNJMLy1oM,['6ASGmWCYupa0CXGtsDdYSI'],2006,2006,2
 "['beyonc„©', 'bun b', 'slim thug', 'bama boyz']",Check On It - Bama Boyz Remix featuring Bun B and Slim Thug,1hAZ85DXjpBeVM6w7O2EGl,6NTnhz59okJ1lShujpQnkD,"['6vWDO969PvNqNYHIOW5v0m', '45a6gCQWq61lIUDmr1tKuO', '0st5vgzw9XkH5ALJiUM1lE', '269r7gpyiINrCfgPHhfx33']",2006,2006,11
 ['gabriel rios'],Broad Daylight,6x08VJ0Kf5QwkRCRWbNekn,226LHFsSMjsZ49NGNQPuWw,['0pF1TxZmwCJ3gGpkBQwdtT'],2006,2006,10
@@ -9851,7 +9715,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['vanvelzen'],Burn,6GEP55Ahj3giQ7eYcEyZz5,3Z7vjuWjdUIEtKUn7jaEzV,['3Lq6Tb3SbS4n6dVuCx0Zzi'],2007,2007,12
 ['the fray'],Over My Head (Cable Car) [Acoustic] - Live,2IQvTnOS1sicZ3plBZL6KR,0NgiEbNqjo4ZqnSuMApXHz,['0zOcE3mg9nS6l3yxt1Y0bK'],2007,2007,7
 ['fouradi'],1 Ding,1CaMJMWJdSqGgHjPFQ3TyW,7Mq8XqyDyIDXTBtEtwZhcc,['3Llaa1wsUdDPjKmkgkQWw9'],2007,2007,7
-['carlos'],The Silmarillia - Radio Edit,5vOrOnnbs8L542upCrH2GT,5HTcQmto5xKC7lHK72wLcy,['5YYbSUNzTPWjvBoKWxLfKc'],2007,2007,12
 ['the fratellis'],Chelsea Dagger,1bCmvezFg5MRcENzCGG1Cy,7avNT7QnpWXl1Khqnsguaw,['3M4ThdJR28z9eSMcQHAZ5G'],2007,2007,12
 ['di-rect'],A Good Thing,5KY8vB2smoCuQkavdLlREB,7KY5KeJOVgOFX8OpCkwIWm,['0d1nFNO90pwRmCeeqjOx2Q'],2007,2007,12
 "['the pussycat dolls', 'timbaland']",Wait A Minute,4DF1j2aUCXLphMkCHzZ5eJ,0ylxpXE00fVxh6d60tevT8,"['6wPhSqRtPu1UhRCDX5yaDJ', '5Y5TRrQiqgUO4S36tzjIRZ']",2007,2007,12
@@ -9906,7 +9769,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['frans bauer'],1000 lieve woorden,5QwWlkDFe9OFltzyZsBDCx,0QHaW6i41MOBLoJsc5Ocds,['0v4CvkMzWBQ1wZIMl2BqQW'],2007,2007,5
 ['dj jose'],Turn The Lights Off (Single Edit),4uQKJfCF6vYNEcWsJwmo9y,2epyOkB0z2oBLmPEJQm0Ty,['4pugYBYlQfhhuNkbwmmx0a'],2007,2007,11
 ['ne-yo'],Because Of You,0C80KJWvQWIGjbOiIurV1W,48ben69fRtEbMTGqGYU8Qw,['21E3waRsmPlU7jZsS13rcj'],2007,2007,10
-['bzn'],Don't Say Goodbye,3R4zkUkFVAzqdT90uS7uLU,0NA3D0ZMGIe6h2yGJAsf3k,['1tF9HtIFX8fJfBo64FIJ8S'],2007,2007,4
 "['keyshia cole', 'diddy']",Last Night,24NPziq3dayIMKppeI94Um,3rTikJLDugcmBvhAnsy1WD,"['1vfezMIyCr4XUdYRaKIKi3', '59wfkuBoNyhDMQGCljbUbA']",2007,2007,3
 ['michael bubl„©'],Everything,4T6HLdP6OcAtqC6tGnQelG,3h4pyWRJIB9ZyRKXChbX22,['1GxkXlMwML1oSg5eLPiAz3'],2007,2007,19
 ['the fray'],How to Save a Life,5fVZC9GiM4e8vu99W0Xf6J,1IM3GwptCGYjRkzCBolyFK,['0zOcE3mg9nS6l3yxt1Y0bK'],2007,2007,8
@@ -9924,7 +9786,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['cascada'],Truly Madly Deeply - Radio Edit,5VFIPsjq4KRvsphqJUuZoj,2jYO6IuvdX7qTbUIQCX3Bs,['0N0d3kjwdY2h7UVuTdJGfp'],2007,2007,4
 ['jim bakkum'],"Doe Dit, Doe Dat",72Ai5Z6C8cbKwg1RLjEqWb,4qLIP8Ijk3kYpkMv44Ap7J,['0RJ6eS1cimNNF64vRXGwfD'],2007,2007,5
 ['kelly clarkson'],Never Again,2fWe3kyS3VrCeuE4R2K5tp,0UxWN628tSTCaR4NVpqSHM,['3BmGtnKgCSGYIUhmivXKWX'],2007,2007,5
-['erik hulzebosch'],Extase (zonder jou),066VpprkGzxtCrNMKFcVDD,0g7iFRUj3NIAJl58f7Vyim,['4Ur98tTL9iGvmRg3JecmQk'],2007,2007,7
 ['patrick jumpen'],Holiday - Radio Mix,1D2mWLOcb3GlMKVrQnSEs7,1kNC2TP8SLc7dw3kYfZ2xy,['0573tcD4lTzVzi6yeTKqRg'],2007,2007,11
 ['bon jovi'],(You Want To) Make A Memory - Pop Album Version,0Bs7l7TMJVnQoqgjEh0zoD,6WH0K5eRm1chsOF5cXNoOF,['58lV9VcRSjABbAbfWS6skp'],2007,2007,5
 ['het huis anubis'],Hij,6Lqlf6U5w9MHolwixkMDf8,10Z52hSmcbnKg9GGLCfgPJ,['45MgaGrbX0sAFPly2kXBGP'],2007,2007,8
@@ -9945,7 +9806,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['k3'],Kusjesdag,4gxikox1EWqRGG38IfL9LF,1KlQ9tTAd0BEBElzhaI78Y,['1eZrOVQ8ady3sDTNdG9E4D'],2007,2007,7
 ['joss stone'],Tell Me What We're Gonna Do Now - feat. Common,5RWORiPPEnwaniNnTqDf1c,6Z8HL0drVRDIGrqIrSM1Ad,['7bvcQXJHkFiN1ppIN3q4fi'],2007,2007,9
 ['ferry corsten'],Beautiful,3tGmReQqSskD3iQZpAOqXw,1pCQacp6hfoSrrE5ymKcyV,['2ohlvFf9PBsDELdRstPtlP'],2007,2007,3
-['milk inc.'],Land Of The Living - Radio Edit,0n7WgacZXU3YjPIsDkZL2H,2eATvNPLguQaLU2U7RMM0b,['2sgikskblKZFbDpsYO9anB'],2007,2007,9
 ['sunfreakz'],Counting Down The Days - Original Mix,2cq0GKhCzYHJ1nr4vWOL30,0AXd3ZRrdwN1FTKP5Ev6un,['0B5wTZkVN31t4d6BcgLWm2'],2007,2007,11
 ['john legend'],Stereo,5XPpizt2S1gtSuPbFgUVBR,1ZWwFwSKaREGLWxpGiPAoF,['5y2Xq6xcjJb2jVM54GHK3t'],2007,2007,12
 ['monique smit'],Wild,3BlLawNHPJzeeuIZjmF5HO,3olYePqSyCQeR2jvXwKhiD,['5z4lUxGyk6fWkbqoITgJTv'],2007,2007,10
@@ -10016,7 +9876,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['michael bubl„©'],Lost,6vhYDNMZgffPwcdXdvMqCS,3h4pyWRJIB9ZyRKXChbX22,['1GxkXlMwML1oSg5eLPiAz3'],2007,2007,11
 ['anouk'],Good God,31pITHYFBUbmsGusvYZYDG,1pQxvRJV11lBX54KmuVIq0,['6ltVunYjAAD70YtVO6rxvX'],2007,2007,15
 ['rihanna'],Don't Stop The Music,6tXjP6xgPJ7Xr1igrO6bOE,1G2ZRwcqN6warfakvcPgEs,['5pKCCKE2ajJHZ9KAiaK11H'],2007,2007,20
-"['armin van buuren', 'perpetuous dreamer']",The Sound Of Goodbye (Mix Cut),0KQE68hgRXf7tvND6TYr51,5Jm7eYiFi1UBrf4P6beYIg,"['0SfsnGyD8FpIN4U4WCkBZ5', '1J4lVvwCqmAwOJ5kqKamBy']",2007,2007,5
 ['alicia keys'],No One,0JEqGkvUiMTQmFY6sgL9kg,0neqylYFL6s6Ikdf3UFmUo,['3DiDSECUqqY1AuBP8qtaIa'],2007,2007,23
 "['ali b', 'gio', 'darryl', 'yes-r']",Groupie Love,6GXWsLL2g1ud5wHFN23Q3h,7Duv5mQX6qZrx4UNM6XbpN,"['5quv5QEyL2XAloebaau69m', '6EYEbuEhF2WMVU47iUJNBS', '5DfAmTDpY9atls7sejWX5x', '26W6sq5yZeIhzfO6d8g9NJ']",2007,2007,10
 ['acda en de munnik'],Dan leef ik toch nog een keer,49TipugO6FB7Ykrlp1MPc8,4eyuG12Hu6efq8ol7z0anF,['040Fqhc0l7a4MPeDx6cneh'],2007,2007,9
@@ -10058,7 +9917,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['lara'],That's It Baby,0m5QqHgGyOu3wGKCW2fLI4,6YHUtZ5kYWz35AWnHw4itu,['6WBMFOh0oUKGpPtHWXL3lG'],2008,2008,7
 ['hardwell & greatski'],Never Knew Love - Radio Edit,3kZeBFQWZVNpHEEFMMLmPJ,0CPpper8u8bIp7VVq5JbLe,['2eewCPTQ7Qd52pK2fyYERE'],2008,2008,3
 ['dj jean'],The Launch Relaunched - Johnny Crockett Remix,1BpRWx7BwTSDMnbCSJ88V2,6GVBb7pAVvbvBxTRsXGdh8,['73MDPnjHtoqOexpBNe4FPl'],2008,2008,11
-['anouk'],I Don't Wanna Hurt,0nAKwLwzpqggnhW12FUtZZ,1pQxvRJV11lBX54KmuVIq0,['6ltVunYjAAD70YtVO6rxvX'],2008,2008,13
 "['vlemmix', 'roos']",Een Bussie Vol Met Polen,4SINggopbLyLKXm1hTi4j3,6eAVGFaamd37v7sLlGftsM,"['3gvE1DnykyYEYyjCYz1u2c', '3mNOVnIiqqdYFPczvSmjET']",2008,2008,4
 "['queen', 'paul rodgers']",Say It's Not True,2NCKFPU6KeXHC7mbrnRfo6,47paRwe37Iwl2Dasr2pc17,"['1dfeR4HaWDbWqFHLkxsg1d', '2gaWNB3YrlTc0KRlHNqhol']",2008,2008,3
 ['simone white'],The Beep Beep Song,4M1CnDVzxU4O5CW5Q6TNAy,1990PP0yqqdcEHrTTkK1GN,['1qFOfghPhItJzIUt1iD1ty'],2008,2008,4
@@ -10082,7 +9940,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['kylie minogue'],In My Arms,45TyDwIRFFSib4HMkRmBPx,6Z8FgyCYgC6ApRi7ZXbT55,['4RVnAU35WRWra6OZ3CbbMA'],2008,2008,9
 ['gavin degraw'],In Love With a Girl,3zcmWxxUA7Em7X3IBqZGUo,5FbUXif3rTa8DX7TTwxegZ,['5DYAABs8rkY9VhwtENoQCz'],2008,2008,16
 ['ernesto vs bastian'],Thrill - Radio Edit,0MYsl49u66D1eweEkAfEPy,5MZ2w49s7nsUV1jcnS3STq,['0c1QuVICtlu63iK4xqCAxT'],2008,2008,2
-['andre hazes'],Donker Om Je Heen,2ncUdMxM4114QbyHvrZCWz,0gCT4Y1EUY4XrlWvCE462K,['04MtOUkmIDC4LAxDDBjrOY'],2008,2008,5
 "['dave armstrong', 'redroche', 'h-boogie']",Love Has Gone - Radio Edit,1fwTjD1qQQlg6nY9BKMzDb,11gfmVEBzhaF8V9gnrbKwp,"['4wknbsqzOCI7g8xihM7QP7', '2hSWsXrlPQqshm4SFizxiU', '0v3s6NHMaGxz0QGT41bnnX']",2008,2008,4
 ['duffy'],Mercy,1zusIxNqJu8i4g6P6hJ2Qa,6Yw7f0kqQ1gbt2OHa7fi1g,['37NqXwtb6nIEqRt4EJSoIO'],2008,2008,18
 ['sia'],The Girl You Lost To Cocaine,0SK29QCTG0XZiwsbboyzfC,2PYM2Q1OG7t2xKHhHwr6eu,['5WUlDfRSoLAfcVSX1WnrxN'],2008,2008,11
@@ -10134,7 +9991,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['dj maurice'],Carnaval De Paris - Radio Edit,7djGYR6I8KjI9uGdAKnDWO,6B87q5wuajNREgX6V7UCfh,['0qadSnl99IzsHDlG1BEwcb'],2008,2008,8
 ['gianluca motta feat. molly'],Not Alone - (Tiger Stripes Dub mix),3O5aVrC8zXBijvczsSaHJd,1IpOSR186dNF9kG2eFzaQZ,['16cPR964wQR9hTrM50u3B0'],2008,2008,4
 "['laurent wolf', 'eric carter']",No Stress,3LkdCvRFU6uXdpSQ4ga0Wb,3XU1u030b8YAlAYSigSk8Z,"['0U2M5hyVn2T78XKlRHJFcn', '6eGMRUmxaUNuoWj5MWpNOX']",2008,2008,10
-['wolter kroes'],Viva Hollandia,7MFkgZDyAoMO2JNlZXbOAh,62sxUbz3jvPl5LFrYSOwHL,['3aERYLqcdKbyI7pjmOgIpU'],2008,2008,6
 ['alicia keys'],Teenage Love Affair,6lQMz8E5JIB0gePDWxHwam,0neqylYFL6s6Ikdf3UFmUo,['3DiDSECUqqY1AuBP8qtaIa'],2008,2008,7
 ['sam sparro'],Black & Gold - Radio Edit,6lT26Dq7aEwOjXTZzkBjSO,4xqJlHAGzZx6AenXVJt1aS,['0H0rBbf7vHXO3qh50Wap7y'],2008,2008,5
 ['rihanna'],Take A Bow,3mmjD9G2HUUzDbFl3NRDLM,1G2ZRwcqN6warfakvcPgEs,['5pKCCKE2ajJHZ9KAiaK11H'],2008,2008,15
@@ -10193,7 +10049,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['axwell', 'bob sinclar', 'ron carroll']",What A Wonderful World (feat. Ron Carroll) - Big Ali & DJ Snake Remix,6f9PRA9OPWdIdeAbpAlhO0,4mbjjHqvpHJQvTgiLIMeUo,"['1xNmvlEiICkRlRGqlNFZ43', '23KYPy5SQVhQUoR9Xua5Q0', '4GcXer1D6UzmWfW1wTqS9r']",2008,2008,5
 ['r.i.o.'],Shine On,6hsZ3Z7oIot4R0X97wgD60,1CfvfLjalx71WkXyoDVdwJ,['0Ol3Jol2T3lZZVLNNzWPhj'],2008,2008,7
 ['sara bareilles'],Bottle It Up,3kfHdr2sYF2EeWEmBHquVj,2Z9WUERfMjOgQ6ze9TcGbF,['2Sqr0DXoaYABbjBo9HaMkM'],2008,2008,5
-"['guru josh project', 'klaas gerling']",Infinity 2008 - Klaas Vocal Edit,3aQz0z86zrKjd1mcZlonxE,1uyF93NDsuRn4LqZIl3lyY,"['4ME85YvMUi1hdqhbind7gy', '7MT8RxUMl67q0mlaMOv6Fi']",2008,2008,24
 ['mika'],Love Today,7d40ltmahMLJKA8HhzX9xe,1lGwdsq4OtYZfIIoi4p79E,['5MmVJVhhYKQ86izuGHzJYA'],2008,2008,5
 ['richard durand'],Weep,7dPk2T4Dmd18JN6KYTi1ov,0vZjMQLiwGtqa0FPFjlahn,['7wne8sUhTAJdIsnuO4GjnR'],2008,2008,3
 ['robin thicke'],Magic,7113hbxib0KrXNSpH0nv5a,7E2ajVpRoXU83bs8z1goFb,['0ZrpamOxcZybMHGg1AYtHP'],2008,2008,5
@@ -10210,7 +10065,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['no tone', 'inusa dawuda']",Down Down Down - Mattias Rmx,4p0sHK7qnnMTdDcbkpBxA9,5JfPRQLj9j0wscAPr4MEkW,"['3OYwwtHKI3YZltPkMaHC3K', '7xtU2DgOpy9WIxBxAvy7XC']",2008,2008,3
 ['gerard joling'],Ik Hou D'r Zo Van,4D7iDHdftadIEd5SYsiySa,4Q3Y2tjbMgesmmz0HbZPHJ,['5V2zReaoPvB7EsZ4160uLG'],2008,2008,8
 "['frans bauer', 'marianne weber']",Als Ik Met Jou Op Wolken Zweef,7KZWfvXGa2hWf8DfiUEMRw,2sImXwxIsNm166NdUWearL,"['0v4CvkMzWBQ1wZIMl2BqQW', '5SogMTbffh5SFsPZXpTAsj']",2008,2008,6
-['robin s'],Show Me Love,4t0UsYzmmmZRMTWn77jiGF,2xpjgSvZVYjzdlWxeAJFy8,['2WvLeseDGPX1slhmxI59G3'],2008,2008,16
 ['kings of leon'],Sex on Fire,0ntQJM78wzOLVeCUAW7Y45,5CZR6ljD0x9fTiS4mh9wMp,['2qk9voo8llSGYcZ6xrBzKx'],2008,2008,5
 ['maria mena'],All This Time (Pick-Me-Up Song),3gmffaPWGIlIm6EUfWzMdw,4l90ORktuCndfmoF44tRjO,['3rTRHzFfbTk5GL3LpYZGHR'],2008,2008,15
 ['nikki'],Bring Me Down,31icohldELP2qAuRFzlFjQ,7kyDro5uOfwGxOYJnI8lue,['0jMnOC6Aa7ayV4nBZrGEwm'],2008,2008,12
@@ -10250,7 +10104,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['m.i.a.'],Paper Planes,1wgqttlPacpvmX5DKVboOa,23vvbZr2ZDlJNZftFAkCqO,['0QJIPDAEDILuo8AIq3pMuU'],2008,2008,3
 ['dave darell'],Children - Club Radio Mix,58VBHxAElmbrutz9EkUz7G,0XxZoJhrKSlsgrDrXqmEvV,['1aAiIcYEUijIWf57lnNBbf'],2008,2008,3
 ['akon'],Right Now (Na Na Na),6cj8s9tWTahcd0XmnM2tVj,2EPsQyatLP7uIoT7sOEaWm,['0z4gvV4rjIZ9wHck67ucSV'],2008,2008,9
-['rita hovink'],Laat Me Alleen,1Z3Ns97nNVgXWGsgwOOQKG,6RBetjOqVEFWiaMePJCzIf,['7blaRp95WUYbzLU6wXO87m'],2008,2008,6
 ['bertolf'],Another Day,19fXG7QBtxMBEDM4zGfahj,4HeApjft3eRBID1XjF5QSs,['6cs3EabebGIu559XRIpQty'],2008,2008,12
 ['bl„òf'],Vallende Engel,651RcQhgZX3p1ctHrZLF7B,6CXlCKvZ8vyIEDlOIDZZUp,['0KQX2wRHV2VLjuscfJFNxB'],2008,2008,5
 ['duffy'],Rain On Your Parade,1DOYq3POdC6OGrSRaiT1Lw,4x0HJqUUDRvJLZbie95Ayk,['37NqXwtb6nIEqRt4EJSoIO'],2008,2008,6
@@ -10542,7 +10395,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['ginger ninja'],Sunshine,3TjE3x4D8uGjEAphQkVzk7,4wvNU1fLBizBoBuAZeqnuc,['5wnA6TC3CtmprSekn0n59P'],2010,2010,14
 "['b.o.b', 'hayley williams']",Airplanes (feat. Hayley Williams of Paramore),1QnvpPFP4Q3FHbDchqWiWy,6f06neONZ0xqqftlgtVP74,"['5ndkK3dpZLKtBklKjxNQwT', '6Rx1JKzBrSzoKQtmbVmBnM']",2010,2010,17
 ['inna'],Amazing,2DKI9ROgnDonV1uPFrOFTZ,4UmxGKx0oAB7vzKoxhOKO1,['2w9zwq3AktTeYYMuhMjju8'],2010,2010,12
-['wolter kroes'],Viva Hollandia,7MFkgZDyAoMO2JNlZXbOAh,62sxUbz3jvPl5LFrYSOwHL,['3aERYLqcdKbyI7pjmOgIpU'],2010,2010,6
 ['dance nation'],Great Divide - Radio Mix,1Mqnl2yvPQtSNayako4x04,1HGjAyTP4NG0YHT2B4Sxyy,['5ukuMJsKj4MuEuOTcoJww4'],2010,2010,3
 ['cascada'],Pyromania - Radio Edit,30alqZ77Q68jSuDjaMcuKb,2jYO6IuvdX7qTbUIQCX3Bs,['0N0d3kjwdY2h7UVuTdJGfp'],2010,2010,7
 ['vengaboys & perez hilton'],Rocket to Uranus - Hitradio with Perez,6wotcC6EpKfXUQl74ZMRvm,1ZIHFYX7p8rh2EB5X7FTC9,['7EAkw1o4FVMfdGT2dz7z16'],2010,2010,4
@@ -11048,7 +10900,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['major lazer', 'busy signal', 'the flexican', 'fs green']","Watch Out For This [Bumaye] [feat. Busy Signal, The Flexican & FS Green] - feat. Busy Signal, The Flexican & FS Green",0TZLD473Rb1gKbv3xsDx5A,28XvHbOeM6iZUmx5AXqDHv,"['738wLrAtLtCtFOLvQBXOXp', '4RfTXjK9aiiIKDaKUHpL57', '5Z3k52rtOTnOnvFHoKNHEN', '2xjVYIMLS3nR5Y1UOr02Vb']",2013,2013,21
 ['the cat empire'],Brighter Than Gold,0sEm1ld0V8YTCPcjPVfIsc,7Blq3llvFZhKNAZvj6XwWg,['023YMawCG3OvACmRjWxLWC'],2013,2013,2
 ['laura jansen'],Queen Of Elba,6UzAXBaA66xS5FmzRsGzsc,1wOq3q2mjEG7ghVGwSqr1v,['1Ecagb1V0oVlO0pFKnhYWM'],2013,2013,4
-['rigby'],Earth Meets Water - Wildstylez Remix,7wB81Xiu8D86QmDMisKaLW,6C8elT0TYIdrCKRfSGQ8Lq,['5K6oqBPwyLKhMWEe5sa5x0'],2013,2013,4
 ['macklemore & ryan lewis'],Can't Hold Us - feat. Ray Dalton,3bidbhpOYeV4knp8AIu8Xn,76FXHQhTuT4QMIxfL09gX8,['5BcAKTbp20cv7tC5VqPFoC'],2013,2013,28
 ['guus meeuwis'],Het Kan Hier Zo Mooi Zijn,5P2KHDiu3aEwhMbelyZMQO,5RwvkMbkoo5q9w7oqL70Nq,['72qVrKXRp9GeFQOesj0Pmv'],2013,2013,3
 ['mkto'],Thank You,4ERsNYkiuw3tM0eSl6jxv1,7v3sWY8hvpKPKTvgSkfAXi,['2l35CQqtYRh3d8ZIiBep4v'],2013,2013,6
@@ -11074,7 +10925,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['jason derulo'],The Other Side,6OPZtIV3uoZQT1YkoiEQH9,1OdcBxCNY52OXH0r4odXqP,['07YZf4WDAMNwqr4jfgOZ8y'],2013,2013,5
 ['bruno mars'],Treasure,55h7vJchibLdUkxdlX3fK7,58ufpQsJ1DS5kq4hhzQDiI,['0du5cEVh5yTK9QJze8zA0C'],2013,2013,15
 "['rihanna', 'david guetta']",Right Now,42Ow7PS3YtCWplolUUigDo,5pLlGJrxuQO3jMoQe1XxZY,"['5pKCCKE2ajJHZ9KAiaK11H', '1Cs0zKBU1kc0i8ypK3B9ai']",2013,2013,6
-['rigby'],Earth Meets Water - Wildstylez Remix,7wB81Xiu8D86QmDMisKaLW,6C8elT0TYIdrCKRfSGQ8Lq,['5K6oqBPwyLKhMWEe5sa5x0'],2013,2013,4
 ['maaike ouboter'],Dat Ik Je Mis,4a5z6tJlVfppWFd64pvk61,77lMbW740GtzYw33qOhkdf,['51jBhM2gW17sCGLI1eBkDn'],2013,2013,17
 ['michael prins'],Close To You,0ptKXVvF6qrNAjm9HGG0Rw,5rWkw0mK0WGSWtZnfKE8DV,['02uBraNVAgl8ue5bG8B87m'],2013,2013,8
 ['john newman'],Love Me Again,57PjISfyOyDcvTPipz16nf,7bCDE4ddc9T8Zkw588bN73,['34v5MVKeQnIo0CWYMbbrPf'],2013,2013,14
@@ -11283,7 +11133,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['jan smit'],Handen Omhoog (met Kraantje Pappie),5JNagKl3gwnJJ9pwjrN8zV,2ZR3wBuWMauBXwRbg6wgzG,['7iR5h6yGnTiswjsmj624Rq'],2014,2014,3
 ['dotan'],Fall,0u0rhb5dXH2NM23YSwpe7M,6j7rolGd1DxrUDzo2XfC8z,['1cwOthlzLBwN8Imbq7P71H'],2014,2014,7
 ['sam smith'],I'm Not The Only One,2hYlWnPvVZtQZGWfb35HPQ,1tA4JdOpNQUyutfQtmMesJ,['2wY79sveU1sp5g7SokKOiI'],2014,2014,23
-['avicii'],The Nights,3OwPSJu609AMzotCEyoMiO,6bV4Ee8NU7YubrdPec3ab5,['1vCWHaC5f2uS3yhpwWbIA6'],2014,2014,14
 "['the magician', 'years & years']",Sunlight (feat. Years and Years) - Radio Edit,5r3aYGutXgsxSqB6W3RrzJ,7yDiBp7t2j6OT7KopH2ulG,"['4WUGQykLBGFfsl0Qjl6TDM', '5vBSrE1xujD2FXYRarbAXc']",2014,2014,15
 ['ed sheeran'],Thinking Out Loud,34gCuhDGsG4bRPIf9bb02f,1xn54DMo2qIqBuMqHtUsFd,['6eUKZXaKkcviH0Ku9w2n3V'],2014,2014,31
 "['david guetta', 'sam martin']",Dangerous (feat. Sam Martin),7pqgMEKsDMOHUdFQ7n0N9K,77UW17CZFyCaRLHdHeofZu,"['1Cs0zKBU1kc0i8ypK3B9ai', '7JKLkN4nh8EvAxP9euyYPo']",2014,2014,23
@@ -11311,7 +11160,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['trijntje oosterhuis'],Walk Along,1oHucHJhXYj1iNi2Ai0Ugc,5RiyYz1gcAdvDHgHmvGteu,['7nJtdgCxkhZFvFMPTsHavb'],2014,2014,5
 ['galantis'],Runaway (U & I),46lFttIf5hnUZMGvjK0Wxo,4QcXq4vTVN7dFb7bZa9jG2,['4sTQVOfp9vEMCemLw50sbu'],2015,2015,23
 ['taylor swift'],Blank Space,580t2NTEMOuCHV1sN3uhyD,6w36pmMA5bxECalu5rxQAw,['06HL4z0CvFAxyc27GXpf02'],2015,2015,12
-['avicii'],The Nights,3OwPSJu609AMzotCEyoMiO,6bV4Ee8NU7YubrdPec3ab5,['1vCWHaC5f2uS3yhpwWbIA6'],2015,2015,8
 ['james bay'],Hold Back The River,1KZyVnyptQcPzkx7ELCnZC,3GqsyMrJu3o8jLiGyBsBQW,['4EzkuveR9pLvDVFNx6foYD'],2015,2015,20
 "['omi', 'felix jaehn']",Cheerleader - Felix Jaehn Remix Radio Edit,7vFoFDWqTX0mHzLfrF1Cfy,7cVXH4slEYzGjDh498OFyL,"['5MouCg6ta7zAxsfMEbc1uh', '4bL2B6hmLlMWnUEZnorEtG']",2015,2015,29
 ['vance joy'],Riptide,7yq4Qj7cqayVTp3FF9CWbm,6rIbiUMmZJfqJRnXhVxFvg,['10exVja0key0uqUkk6LJRT'],2015,2015,14
@@ -11452,7 +11300,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 ['duke dumont'],Ocean Drive,0k93MXOj0kSXo84SvSDeUz,1jlUEbR1VEEGzjK47Xk1gT,['61lyPtntblHJvA7FMMhi7E'],2016,2016,4
 ['selena gomez'],Hands To Myself,3CJvmtWw2bJsudbAC5uCQk,3Kbuu2tHsIbplFUkB7a5oE,['0C8ZW7ezQVs4URX5aX7Kqx'],2016,2016,4
 ['dnce'],Cake By The Ocean,2aFiaMXmWsM3Vj72F9ksBl,7K89F9bgY1jks0uIlMerm3,['6T5tfhQCknKG4UnH90qGnz'],2016,2016,20
-"['marco borsato', 'matt simons']",Breng Me Naar Het Water - Bonus Track,5JzpyVGEXe87V15jPg883K,1Ukxz1dgbTrDvzkIMDmQ39,"['3D2GUXbtlL3r2d5HJEnsFD', '1g0fXhQMHAxlRyIBkCbuE7']",2016,2016,10
 ['douwe bob'],Slow Down,26bqkV4bV12BKHnuUIGLII,5nRrnKX3yr2ZpRftkLjbeY,['6VSZeMeJlVPGoR2nfB6UxD'],2016,2016,10
 "['fifth harmony', 'ty dolla $ign']",Work from Home,4tCtwWceOPWzenK2HAIJSb,0pF0oyuPNdOObniB1Ng0kW,"['1l8Fu6IkuTP0U5QetQJ5Xt', '7c0XG5cIJTrrAgEC3ULPiq']",2016,2016,20
 "['jay sean', 'sean paul']",Make My Love Go,5mMRgTxoeBjEAZdBjPGvaC,5NQ3rqH1EwpYhfeWKXCXHc,"['4pADjHPWyrlAF0FA7joK2H', '3Isy6kedDrgPYoTS1dazA9']",2016,2016,15
@@ -11638,7 +11485,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "[""lil' kleine"", 'ronnie flex']",Loterij,260azNxQzQIloG7OpjQtTC,43GRi0ZPFhZh76YfO5ZRgD,"['3AlRiyjMywTVNzTcHbf9QT', '5eir5zFJpES4j7gsymbVyl']",2017,2017,12
 ['dua lipa'],New Rules,2ekn2ttSfGqwhhate0LSR0,01sfgrNbnnPUEyz6GZYlt9,['6M2wZ9GZgrQXHCFfjv46we'],2017,2017,23
 "['the boy next door', 'fresh coast', 'jody bernal']",La Colegiala,6Yk3pZPw8hlUBMTeLLLRC1,7w1651LyAxODXqx4VB0tW4,"['4QfOh8rJ0OddhhXHD5QyWs', '6AiABQVLpWNCWDhBmYbRqG', '7oKJmnPaABXLPkw3gT7rIa']",2017,2017,14
-"['j balvin', 'willy william', 'hardwell', 'quintino']",Mi Gente - Hardwell & Quintino Remix,6C6GA68NJOmyu21NMMKesd,58VjZ9YILk8wdS99OmWP1m,"['1vyhD5VmyZ7KMfW5gqLgo5', '4RSyJzf7ef6Iu2rnLdabNq', '6BrvowZBreEkXzJQMpL174', '1V3VTM7VspiQjcmRhC010n']",2017,2017,7
 ['disciples'],On My Mind,5Xc74Dn1ZKH6H8XaVGOHXG,13biMJo399EhkSRUTQnjDI,['5EehXjjMktLuJmbRsM7YfB'],2017,2017,9
 "['coldplay', 'big sean']",Miracles (Someone Special),6uJwPeBGb3swi85TSr9iIz,0CE9VXSH70pz4BQzMPm9gO,"['4gzpq5DPGxSnKTe4SA8HAU', '0c173mlxpT3dSFRgMO8XPh']",2017,2017,9
 ['vinchenzo'],Daily,4HnSHcMuCSiytNZMoO5IGU,50ZKEw4Rfks4vpnfxNtPFM,['6Jc18GpeJVDe3HWhfrQ0Bu'],2017,2017,2
@@ -11650,7 +11496,6 @@ artistnames,trackName,trackID,albumID,artistIDs,firstNotation,lastNotation,amoun
 "['dimitri vegas & like mike', 'david guetta', 'kiiara']",Complicated (feat. Kiiara),1Sl3njkhhz8nrSPZroDQ82,6SgTiW8a5BHFXbR03BteCd,"['73jBynjsVtofjRpdpRAJGk', '1Cs0zKBU1kc0i8ypK3B9ai', '4u5smJBskI6Adzv08PuiUP']",2017,2017,14
 "['avicii', 'sandro cavazza']",Without You (feat. Sandro Cavazza),6WbADFqMvR8N5u0BvtsWQE,6LaLU27ZPXimJIbpbiOahr,"['1vCWHaC5f2uS3yhpwWbIA6', '5JYo7gm2dkyLLlWHjxS7Dy']",2017,2017,17
 ['p!nk'],What About Us,31MkGwj0SWgZaTvEt5Hgxv,3rHjznKxeCNz38iF3tGv4J,['1KCSPY1glIKqW2TotWuXOR'],2017,2017,17
-"['j balvin', 'willy william', 'hardwell', 'quintino']",Mi Gente - Hardwell & Quintino Remix,6C6GA68NJOmyu21NMMKesd,58VjZ9YILk8wdS99OmWP1m,"['1vyhD5VmyZ7KMfW5gqLgo5', '4RSyJzf7ef6Iu2rnLdabNq', '6BrvowZBreEkXzJQMpL174', '1V3VTM7VspiQjcmRhC010n']",2017,2017,15
 "['justin bieber', 'bloodpop‚Æ']",Friends (with BloodPop¬Æ),7nZmah2llfvLDiUjm0kiyz,6VABPTmDOYrO5cfyKZk7F7,"['1uNFoZAHBGtllmzznpCI3s', '1okJ4NC308qbtY9LyHn6DO']",2017,2017,16
 "['camila cabello', 'young thug']",Havana,0ofbQMrRDsUaVKq2mGLEAb,5chBPOVY2I0bG5V3igb5QL,"['4nDoRrQiYLoBzwC5BhVJzF', '50co4Is1HCEo8bhOyUWKpn']",2017,2017,16
 ['taylor swift'],Look What You Made Me Do,6uFsE1JgZ20EXyU0JQZbUR,7qqYU64i563QXANa6vpkSr,['06HL4z0CvFAxyc27GXpf02'],2017,2017,8
