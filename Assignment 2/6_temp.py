@@ -16,3 +16,19 @@ songs = pd.read_pickle('songs_trimmed.pkl')
 
 frames = [songsAttributes, songs]
 join = pd.merge(left= songs, right = songsAttributes, left_on = 'trackID', right_on ='id' )
+
+longsongs = join[join['duration_ms']>600000]
+
+join.trackName = join.trackName.str.lower()
+
+songs = join
+songs = songs.sort_values(['amountOfNotations'], ascending = False)
+
+
+top80 = 0.8*sum(songs['amountOfNotations'])
+numOfNotations = 0
+for n in range(0, len(songs)):
+
+
+
+

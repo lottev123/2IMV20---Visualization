@@ -42,6 +42,9 @@ needToBeRemoved = ['2xrQS0PDuIoU19lwOxGuaO', '2o8MI4k9Ffys7LMizikJoV', '6BIel0aZ
  '066VpprkGzxtCrNMKFcVDD', '4KMhriFpKcXQ6wqzNZfWxq', '1BF3Y8qD37KtAfwTAs8KO2', '7JWdlf8DvnmgcM4fbOuswU',
  '1pEehXkwiTLzKgOV3ULU78', '1fr92Vupmcs2vgLMFVQ7rd', '6mcu7D7QuABVwUGDwovOEh', '6a8xKUtrUdHGkKpokFQ6a5',
  '2cq0GKhCzYHJ1nr4vWOL30', '3Ka2Ti5ZreEHlp9R7BXyOj', '5r3aYGutXgsxSqB6W3RrzJ']
+"""songs that were wrongly matches as found in Tableau"""
+needToBeRemoved.extend(['29tkfQeoo0NKvIYCwI0uGz', '6XOmNc5LCbe0fIhgE8mMmD', '31uidLEHAcF8Cw1cX1VCS8',
+                    '28L6g25xXqjuE742YjxX71'])
 songs['trackID'] = songs['trackID'].str[14:]
 songs = songs[~songs['trackID'].isin(needToBeRemoved)]
 songs['albumID'] = songs['albumID'].str[14:]
